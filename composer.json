@@ -1,0 +1,7 @@
+{
+    "name": "skounis/fut_sample_content",
+    "description": "Sample Content for Futurium D8",
+    "require": {
+        "drupal/default_content": "1.*"
+    }
+}
