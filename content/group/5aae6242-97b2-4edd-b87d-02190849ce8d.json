@@ -17,6 +17,11 @@
                 "href": ""
             }
         ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2019-07\/mt-logo-5.jpg"
+            }
+        ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
             {
                 "href": ""
@@ -25,9 +30,6 @@
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_tags": [
             {
                 "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
-            },
-            {
-                "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
             }
         ]
     },
@@ -54,7 +56,7 @@
     ],
     "label": [
         {
-            "value": "Bar Group",
+            "value": "Nunc group sodales vestibulum consectetur adipiscing elit",
             "lang": "und"
         }
     ],
@@ -71,7 +73,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0d79d26c-29c8-4c71-bb6b-53344c1cad8b"
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
                     }
                 ],
                 "lang": "und"
@@ -95,6 +97,23 @@
                 "target_revision_id": "17"
             }
         ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-07\/mt-logo-5.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5fc83702-8a4a-4627-9a11-40389ba8838f"
+                    }
+                ]
+            }
+        ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
             {
                 "_links": {
@@ -107,10 +126,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "e95960e6-4dc4-4e32-8714-d92b59b1a5db"
+                        "value": "5f86347f-070f-4f6a-94fd-a4dab48c423e"
                     }
                 ],
-                "target_revision_id": "18"
+                "target_revision_id": "19"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_tags": [
@@ -128,21 +147,6 @@
                         "value": "86941396-8c14-42e7-a44e-3e30588dd2b0"
                     }
                 ]
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_tags"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "d2496124-5f35-41d4-a18e-415b5f5d30f6"
-                    }
-                ]
             }
         ]
     },
@@ -155,7 +159,7 @@
     ],
     "changed": [
         {
-            "value": "2019-05-28T09:21:22+00:00",
+            "value": "2019-07-08T09:35:55+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -163,7 +167,7 @@
     "path": [
         {
             "alias": "\/bar-group",
-            "pid": 5,
+            "pid": 2,
             "langcode": "und",
             "lang": "und"
         }
@@ -176,7 +180,7 @@
     ],
     "fut_short_name": [
         {
-            "value": "BG"
+            "value": "Nunc group sodales vestib"
         }
     ]
 }

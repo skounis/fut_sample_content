@@ -14,7 +14,7 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/thumbnail": [
             {
-                "href": "http:\/\/default\/sites\/default\/files\/oembed_thumbnails\/PwQOiQ7f2j4nS6y0zhx9pKrVnCRTc1nQbLpVCwxHJr4.jpg",
+                "href": "http:\/\/default\/sites\/default\/files\/oembed_thumbnails\/JcEhpL98FvY-El4Evh2wg94smBohG9IjUjyF0ejUL7w.jpg",
                 "lang": "und"
             }
         ]
@@ -47,7 +47,7 @@
     ],
     "revision_created": [
         {
-            "value": "2019-05-28T08:01:20+00:00",
+            "value": "2019-07-08T09:32:52+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -70,7 +70,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0d79d26c-29c8-4c71-bb6b-53344c1cad8b"
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
                     }
                 ],
                 "lang": "und"
@@ -80,7 +80,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/sites\/default\/files\/oembed_thumbnails\/PwQOiQ7f2j4nS6y0zhx9pKrVnCRTc1nQbLpVCwxHJr4.jpg"
+                        "href": "http:\/\/default\/sites\/default\/files\/oembed_thumbnails\/JcEhpL98FvY-El4Evh2wg94smBohG9IjUjyF0ejUL7w.jpg"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
@@ -88,7 +88,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "deab8181-4bf3-4490-a134-d120828caf09"
+                        "value": "90baaf21-b9e0-4919-997a-93abde368f66"
                     }
                 ],
                 "lang": "und"

@@ -71,7 +71,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0d79d26c-29c8-4c71-bb6b-53344c1cad8b"
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
                     }
                 ]
             }
@@ -88,7 +88,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0d79d26c-29c8-4c71-bb6b-53344c1cad8b"
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
                     }
                 ],
                 "lang": "und"
@@ -206,16 +206,16 @@
     ],
     "fut_event_coordinates": [
         {
-            "value": "POINT (-109.4088539 -27.1258098)",
+            "value": "POINT(24.885500 41.139042)",
             "geo_type": "Point",
-            "lat": -27.1258098,
-            "lon": -109.4088539,
-            "left": -109.4088539,
-            "top": -27.1258098,
-            "right": -109.4088539,
-            "bottom": -27.1258098,
-            "geohash": "3e4jwmfusyt9d",
-            "latlon": "-27.1258098,-109.4088539"
+            "lat": 41.139042,
+            "lon": 24.8855,
+            "left": 24.8855,
+            "top": 41.139042,
+            "right": 24.8855,
+            "bottom": 41.139042,
+            "geohash": "sx3dn31h61m8",
+            "latlon": "41.139042,24.8855"
         }
     ],
     "fut_event_date": [
@@ -229,6 +229,11 @@
             "uri": "https:\/\/www.lipsum.com\/feed\/html",
             "title": "Read more ...",
             "options": []
+        }
+    ],
+    "fut_event_show_map": [
+        {
+            "value": false
         }
     ]
 }

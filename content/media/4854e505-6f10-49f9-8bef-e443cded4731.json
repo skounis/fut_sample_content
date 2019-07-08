@@ -14,13 +14,8 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/thumbnail": [
             {
-                "href": "http:\/\/default\/sites\/default\/files\/2019-05\/aerial-shot-architecture-buildings-2087392.jpg",
+                "href": "http:\/\/default\/sites\/default\/files\/media-icons\/generic\/no-thumbnail.png",
                 "lang": "und"
-            }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/field_media_image": [
-            {
-                "href": "http:\/\/default\/sites\/default\/files\/2019-05\/aerial-shot-architecture-buildings-2087392.jpg"
             }
         ]
     },
@@ -52,7 +47,7 @@
     ],
     "revision_created": [
         {
-            "value": "2019-05-28T06:31:09+00:00",
+            "value": "2019-07-08T09:32:52+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -75,7 +70,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0d79d26c-29c8-4c71-bb6b-53344c1cad8b"
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
                     }
                 ],
                 "lang": "und"
@@ -85,7 +80,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/sites\/default\/files\/2019-05\/aerial-shot-architecture-buildings-2087392.jpg"
+                        "href": "http:\/\/default\/sites\/default\/files\/media-icons\/generic\/no-thumbnail.png"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
@@ -93,27 +88,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "ca98cca6-b684-4e04-ac3d-6c738e97c856"
+                        "value": "8dfc0f32-2652-4a2f-b647-79a18cb12264"
                     }
                 ],
                 "lang": "und"
-            }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/field_media_image": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "http:\/\/default\/sites\/default\/files\/2019-05\/aerial-shot-architecture-buildings-2087392.jpg"
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "ca98cca6-b684-4e04-ac3d-6c738e97c856"
-                    }
-                ]
             }
         ]
     },
