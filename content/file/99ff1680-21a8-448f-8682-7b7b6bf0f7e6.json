@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/default_images\/default-user-avatar.png"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "99ff1680-21a8-448f-8682-7b7b6bf0f7e6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "default-user-avatar.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/default_images\/default-user-avatar.png",
+            "url": "\/sites\/default\/files\/default_images\/default-user-avatar.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 216568
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-01T14:24:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-01T14:25:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

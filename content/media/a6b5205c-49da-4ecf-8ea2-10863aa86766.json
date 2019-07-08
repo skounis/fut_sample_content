@@ -1,0 +1,152 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/media\/10?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_image"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/thumbnail": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2019-07\/event-post-1.jpg",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/field_media_image": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2019-07\/event-post-1.jpg"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 10
+        }
+    ],
+    "uuid": [
+        {
+            "value": "a6b5205c-49da-4ecf-8ea2-10863aa86766"
+        }
+    ],
+    "vid": [
+        {
+            "value": 10
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "fut_image"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-07-08T10:02:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-07\/event-post-1.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c30c450d-ee91-49ee-9928-e3d8c934986b"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/field_media_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-07\/event-post-1.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c30c450d-ee91-49ee-9928-e3d8c934986b"
+                    }
+                ]
+            }
+        ]
+    },
+    "name": [
+        {
+            "value": "Sed tincidunt nunc arcu",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-08T10:01:16+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-08T10:02:31+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ]
+}

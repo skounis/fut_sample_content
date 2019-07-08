@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/2019-07\/mt-logo-5.jpg"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 9
+        }
+    ],
+    "uuid": [
+        {
+            "value": "5fc83702-8a4a-4627-9a11-40389ba8838f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "mt-logo-5.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-07\/mt-logo-5.jpg",
+            "url": "\/sites\/default\/files\/2019-07\/mt-logo-5.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 7978
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-08T09:35:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-08T09:35:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

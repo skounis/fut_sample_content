@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/2019-07\/news-post-2.jpg"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 11
+        }
+    ],
+    "uuid": [
+        {
+            "value": "3453e17f-dc9c-4c34-9509-5ba73f599f61"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "news-post-2.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-07\/news-post-2.jpg",
+            "url": "\/sites\/default\/files\/2019-07\/news-post-2.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 238337
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-08T09:47:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-08T09:48:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

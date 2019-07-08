@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 12
+        }
+    ],
+    "uuid": [
+        {
+            "value": "00fae889-e628-44d8-8e26-92ddf98dd2c5"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 20
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-08T09:43:15+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "5"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Curabitur iaculis tortor sit amet lacus fringilla, sed pellentesque nisl lobortis. Morbi sed fringilla elit. Pellentesque sed sapien sed risus posuere dictum. Vivamus in ipsum eu risus semper posuere ac vel neque. Phasellus tincidunt diam consequat urna consequat, sed pellentesque ante sagittis. Mauris in turpis in dolor accumsan laoreet ac vitae dolor. Donec vel enim rutrum, sollicitudin nulla non, ornare felis. Vivamus dolor metus, malesuada at mauris eget, venenatis varius lectus. Cras eget purus sapien. Vivamus ornare libero a nisi euismod accumsan. Donec mauris nunc, blandit ac eros vitae, euismod efficitur diam.<\/p>\r\n\r\n<p>Vivamus hendrerit diam ac finibus suscipit. In hac habitasse platea dictumst. In eu vulputate purus, posuere blandit eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat. Curabitur dignissim scelerisque mattis. Mauris at tortor ac enim posuere rhoncus sit amet sed magna. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam ac nisi vitae mauris dictum lobortis vitae nec ipsum. Pellentesque aliquet magna ut lorem aliquam, id ultricies nisi luctus. Vivamus eros dui, tempus a dapibus eget, tincidunt in turpis. Integer quis risus at dui pellentesque vulputate.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Curabitur iaculis tortor sit amet lacus fringilla, sed pellentesque nisl lobortis. Morbi sed fringilla elit. Pellentesque sed sapien sed risus posuere dictum. Vivamus in ipsum eu risus semper posuere ac vel neque. Phasellus tincidunt diam consequat urna consequat, sed pellentesque ante sagittis. Mauris in turpis in dolor accumsan laoreet ac vitae dolor. Donec vel enim rutrum, sollicitudin nulla non, ornare felis. Vivamus dolor metus, malesuada at mauris eget, venenatis varius lectus. Cras eget purus sapien. Vivamus ornare libero a nisi euismod accumsan. Donec mauris nunc, blandit ac eros vitae, euismod efficitur diam.<\/p>\n\n<p>Vivamus hendrerit diam ac finibus suscipit. In hac habitasse platea dictumst. In eu vulputate purus, posuere blandit eros. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam erat volutpat. Curabitur dignissim scelerisque mattis. Mauris at tortor ac enim posuere rhoncus sit amet sed magna. Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam ac nisi vitae mauris dictum lobortis vitae nec ipsum. Pellentesque aliquet magna ut lorem aliquam, id ultricies nisi luctus. Vivamus eros dui, tempus a dapibus eget, tincidunt in turpis. Integer quis risus at dui pellentesque vulputate.<\/p>"
+        }
+    ]
+}

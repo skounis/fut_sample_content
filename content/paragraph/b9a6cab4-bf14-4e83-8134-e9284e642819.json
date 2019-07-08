@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_image"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_image\/fut_image": [
+            {
+                "href": "http:\/\/default\/media\/11?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 20
+        }
+    ],
+    "uuid": [
+        {
+            "value": "b9a6cab4-bf14-4e83-8134-e9284e642819"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 32
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_image"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-08T10:04:20+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "9"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_image\/fut_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/media\/11?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "986cfa71-7468-430b-890f-21d3d0914ad7"
+                    }
+                ]
+            }
+        ]
+    }
+}
