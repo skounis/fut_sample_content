@@ -1,0 +1,49 @@
+<?php
+
+function fut_sample_content_install() {
+
+  $result = _fut_sample_copy_files();
+
+  $message = 'Fut Sample Content module is installed. The related assets are copied: @result ';
+  \Drupal::logger('fut_sample_content')->notice($message,
+    array(
+      '@result' => $result
+    )
+  );
+}
+
+
+function _fut_sample_copy_files() {
+  $filesystem = \Drupal::service('file_system');
+
+
+  $path = drupal_get_path('module', 'fut_sample_content');
+  $path = $filesystem->realpath($path);
+
+  $source = $path . '/files/';
+  $targetPath = 'public://';
+  $target = $filesystem->realpath($targetPath);
+
+  if ($filesystem->prepareDirectory($targetPath, \Drupal\Core\File\FileSystemInterface::EXISTS_REPLACE)) {
+    _fut_sample_recurse_copy($source, $target);
+    return true;
+  };
+
+  return false;
+}
+
+function _fut_sample_recurse_copy($src,$dst) {
+  $dir = opendir($src);
+  @mkdir($dst);
+  while(false !== ( $file = readdir($dir)) ) {
+    if (( $file != '.' ) && ( $file != '..' )) {
+      if ( is_dir($src . '/' . $file) ) {
+        _fut_sample_recurse_copy($src . '/' . $file,$dst . '/' . $file);
+      }
+      else {
+        copy($src . '/' . $file,$dst . '/' . $file);
+      }
+    }
+  }
+  closedir($dir);
+}
