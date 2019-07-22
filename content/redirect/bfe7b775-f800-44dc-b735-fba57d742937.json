@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/2?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/3?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 2
+            "value": 3
         }
     ],
     "uuid": [
         {
-            "value": "6156de02-2f89-45b1-8b65-c4572345d597"
+            "value": "bfe7b775-f800-44dc-b735-fba57d742937"
         }
     ],
     "hash": [
         {
-            "value": "JvUCi1IbrtAxmdlBLTJMgNTKum-lCh0_rEFu48VqGe8"
+            "value": "jOR41RZGJqVOIdSLKHCBEQsjJ9IxKHGT8eoLCjQIiAs"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "6c0e86f0-d2ce-468d-a83f-c02cd3a12890"
+                        "value": "05f737b3-3098-4e44-9fe1-21b6e8a6496d"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
+            "path": "nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/9",
+            "uri": "internal:\/node\/7",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-22T14:05:21+00:00",
+            "value": "2019-07-22T14:32:16+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

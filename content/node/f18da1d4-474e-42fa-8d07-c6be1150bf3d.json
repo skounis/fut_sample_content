@@ -17,11 +17,6 @@
                 "lang": "und"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
-            {
-                "href": ""
-            }
-        ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [
             {
                 "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
@@ -73,7 +68,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "6c0e86f0-d2ce-468d-a83f-c02cd3a12890"
+                        "value": "05f737b3-3098-4e44-9fe1-21b6e8a6496d"
                     }
                 ]
             }
@@ -90,28 +85,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "6c0e86f0-d2ce-468d-a83f-c02cd3a12890"
+                        "value": "05f737b3-3098-4e44-9fe1-21b6e8a6496d"
                     }
                 ],
                 "lang": "und"
-            }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "29a25464-a3de-43e9-b548-af41862b1041"
-                    }
-                ],
-                "target_revision_id": "22"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [

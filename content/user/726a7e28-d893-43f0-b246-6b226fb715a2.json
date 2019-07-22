@@ -61,26 +61,31 @@
     ],
     "changed": [
         {
-            "value": "2019-07-22T14:07:25+00:00",
+            "value": "2019-07-22T14:37:26+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "access": [
         {
-            "value": "2019-07-22T14:11:24+00:00",
+            "value": "2019-07-22T14:37:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "login": [
         {
-            "value": "2019-07-22T14:11:24+00:00",
+            "value": "2019-07-22T14:37:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "init": [
         {
             "value": "demo@demo.com"
+        }
+    ],
+    "roles": [
+        {
+            "target_id": "administrator"
         }
     ],
     "default_langcode": [
