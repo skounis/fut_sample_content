@@ -1,34 +1,39 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/sites\/default\/files\/2019-07\/news-post-1.jpg"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/3?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
         },
-        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
             {
                 "href": "http:\/\/default\/user\/1?_format=hal_json"
             }
         ]
     },
-    "fid": [
+    "rid": [
         {
-            "value": 10
+            "value": 3
         }
     ],
     "uuid": [
         {
-            "value": "b94d329f-72e0-440f-b18b-6f7e365cace8"
+            "value": "bdb0c017-0f31-4d19-92aa-2fe59019e7bb"
         }
     ],
-    "langcode": [
+    "hash": [
         {
-            "value": "en"
+            "value": "jOR41RZGJqVOIdSLKHCBEQsjJ9IxKHGT8eoLCjQIiAs"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
         }
     ],
     "_embedded": {
-        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
             {
                 "_links": {
                     "self": {
@@ -46,41 +51,32 @@
             }
         ]
     },
-    "filename": [
+    "redirect_source": [
         {
-            "value": "news-post-1.jpg"
+            "path": "nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
+            "query": []
         }
     ],
-    "uri": [
+    "redirect_redirect": [
         {
-            "value": "public:\/\/2019-07\/news-post-1.jpg",
-            "url": "\/sites\/default\/files\/2019-07\/news-post-1.jpg"
+            "uri": "internal:\/node\/7",
+            "title": null,
+            "options": []
         }
     ],
-    "filemime": [
+    "language": [
         {
-            "value": "image\/jpeg"
+            "value": "und"
         }
     ],
-    "filesize": [
+    "status_code": [
         {
-            "value": 126237
-        }
-    ],
-    "status": [
-        {
-            "value": true
+            "value": 301
         }
     ],
     "created": [
         {
-            "value": "2019-07-08T09:43:26+00:00",
-            "format": "Y-m-d\\TH:i:sP"
-        }
-    ],
-    "changed": [
-        {
-            "value": "2019-07-08T09:44:16+00:00",
+            "value": "2019-07-22T14:05:21+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

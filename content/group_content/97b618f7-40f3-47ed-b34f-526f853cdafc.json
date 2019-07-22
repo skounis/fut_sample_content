@@ -1,22 +1,22 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/1\/content\/2?_format=hal_json"
+            "href": "http:\/\/default\/group\/1\/member\/6?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_node-fut_post"
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
         },
-        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
             {
                 "href": "http:\/\/default\/bar-group?_format=hal_json"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
             {
-                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/donec-mattis-justo-est-porta-placerat?_format=hal_json"
+                "href": "http:\/\/default\/user\/2?_format=hal_json"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
             {
                 "href": "http:\/\/default\/user\/1?_format=hal_json",
                 "lang": "und"
@@ -25,12 +25,12 @@
     },
     "id": [
         {
-            "value": 2
+            "value": 6
         }
     ],
     "uuid": [
         {
-            "value": "e28a690c-cdd4-40b3-96bf-02d5773ee8c5"
+            "value": "97b618f7-40f3-47ed-b34f-526f853cdafc"
         }
     ],
     "langcode": [
@@ -41,11 +41,11 @@
     ],
     "type": [
         {
-            "target_id": "fut_open-group_node-fut_post"
+            "target_id": "fut_open-group_membership"
         }
     ],
     "_embedded": {
-        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
             {
                 "_links": {
                     "self": {
@@ -62,24 +62,24 @@
                 ]
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/donec-mattis-justo-est-porta-placerat?_format=hal_json"
+                        "href": "http:\/\/default\/user\/2?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "bc48161f-c84a-4abd-a9ac-193474bb51c7"
+                        "value": "726a7e28-d893-43f0-b246-6b226fb715a2"
                     }
                 ]
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
             {
                 "_links": {
                     "self": {
@@ -100,28 +100,47 @@
     },
     "label": [
         {
-            "value": "Donec mattis justo a est porta placerat. Donec ullamcorper, dui nec tristique malesuada, purus neque laoreet sapien, id efficitur quam velit ut sem.",
+            "value": "demo",
             "lang": "und"
         }
     ],
     "created": [
         {
-            "value": "2019-07-08T09:48:56+00:00",
+            "value": "2019-07-22T14:12:17+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-07-08T09:48:56+00:00",
+            "value": "2019-07-22T14:12:17+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/group\/1\/member\/6",
+            "pid": 11,
+            "langcode": "und",
+            "lang": "und"
         }
     ],
     "default_langcode": [
         {
             "value": true,
             "lang": "und"
+        }
+    ],
+    "group_roles": [
+        {
+            "target_id": "fut_open-editor"
+        },
+        {
+            "target_id": "fut_open-manager"
+        },
+        {
+            "target_id": "fut_open-moderator"
         }
     ]
 }

@@ -20,12 +20,6 @@
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
             {
                 "href": ""
-            },
-            {
-                "href": ""
-            },
-            {
-                "href": ""
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [
@@ -79,7 +73,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
+                        "value": "6c0e86f0-d2ce-468d-a83f-c02cd3a12890"
                     }
                 ]
             }
@@ -96,45 +90,13 @@
                 },
                 "uuid": [
                     {
-                        "value": "8468db94-4868-4902-9c85-1ed99b21e078"
+                        "value": "6c0e86f0-d2ce-468d-a83f-c02cd3a12890"
                     }
                 ],
                 "lang": "und"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "00fae889-e628-44d8-8e26-92ddf98dd2c5"
-                    }
-                ],
-                "target_revision_id": "20"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_image"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "9787ec9e-a27f-4145-a840-957a85a2a9ce"
-                    }
-                ],
-                "target_revision_id": "21"
-            },
             {
                 "_links": {
                     "self": {
@@ -223,7 +185,7 @@
     "path": [
         {
             "alias": "\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/curabitur-iaculis-tortor-sit-amet-lacus",
-            "pid": 6,
+            "pid": 3,
             "langcode": "und",
             "lang": "und"
         }
