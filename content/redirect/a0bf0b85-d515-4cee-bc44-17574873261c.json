@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/3?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/9?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 3
+            "value": 9
         }
     ],
     "uuid": [
         {
-            "value": "bfe7b775-f800-44dc-b735-fba57d742937"
+            "value": "a0bf0b85-d515-4cee-bc44-17574873261c"
         }
     ],
     "hash": [
         {
-            "value": "jOR41RZGJqVOIdSLKHCBEQsjJ9IxKHGT8eoLCjQIiAs"
+            "value": "Kgx4THNhqsxM0lhRzT9LvQuaEcGIOqorG91jFaQwduI"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "05f737b3-3098-4e44-9fe1-21b6e8a6496d"
+                        "value": "30f7f24e-301e-4403-9fce-34dcc2483f7e"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
+            "path": "donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus-neque",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/7",
+            "uri": "internal:\/node\/6",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-22T14:32:16+00:00",
+            "value": "2019-07-22T14:49:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

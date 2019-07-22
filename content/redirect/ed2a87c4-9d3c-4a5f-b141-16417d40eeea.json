@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/4?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/6?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 4
+            "value": 6
         }
     ],
     "uuid": [
         {
-            "value": "6108d321-7a3f-455a-bca3-c386d6837cb2"
+            "value": "ed2a87c4-9d3c-4a5f-b141-16417d40eeea"
         }
     ],
     "hash": [
         {
-            "value": "Kgx4THNhqsxM0lhRzT9LvQuaEcGIOqorG91jFaQwduI"
+            "value": "zMhwq1cBoXW7zgDEw3nBXg4itqFmgsJeh6ipV3ZoM-Q"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "05f737b3-3098-4e44-9fe1-21b6e8a6496d"
+                        "value": "30f7f24e-301e-4403-9fce-34dcc2483f7e"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus-neque",
+            "path": "curabitur-iaculis-tortor-sit-amet-lacus-fringilla-sed-pellentesque-nisl-lobortis",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/6",
+            "uri": "internal:\/node\/5",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-22T14:32:16+00:00",
+            "value": "2019-07-22T14:49:54+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

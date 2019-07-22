@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 22
+        }
+    ],
+    "uuid": [
+        {
+            "value": "288aba21-9292-4cdb-b821-9f0210421f03"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 48
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-22T14:58:38+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "5"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Maecenas laoreet ante massa. Sed vitae felis volutpat, vulputate libero eget, sollicitudin nisl. Maecenas vulputate, justo quis tristique lobortis, orci diam lacinia metus, et accumsan libero orci vel eros. Vivamus ultrices sem at ullamcorper viverra. Nam quis cursus odio, quis mattis nisi. Donec consectetur est in massa sodales lobortis. Proin sollicitudin, ligula vitae ornare interdum, nulla ipsum porttitor massa, vel tempor justo ex vel enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut felis odio, posuere id fringilla eu, feugiat sed arcu. Morbi ut diam egestas, placerat nisl sit amet, molestie enim. Pellentesque nec justo lacus. Sed lacus ante, euismod scelerisque finibus et, interdum ut metus. Morbi quis lectus eget diam posuere suscipit.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Maecenas laoreet ante massa. Sed vitae felis volutpat, vulputate libero eget, sollicitudin nisl. Maecenas vulputate, justo quis tristique lobortis, orci diam lacinia metus, et accumsan libero orci vel eros. Vivamus ultrices sem at ullamcorper viverra. Nam quis cursus odio, quis mattis nisi. Donec consectetur est in massa sodales lobortis. Proin sollicitudin, ligula vitae ornare interdum, nulla ipsum porttitor massa, vel tempor justo ex vel enim. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut felis odio, posuere id fringilla eu, feugiat sed arcu. Morbi ut diam egestas, placerat nisl sit amet, molestie enim. Pellentesque nec justo lacus. Sed lacus ante, euismod scelerisque finibus et, interdum ut metus. Morbi quis lectus eget diam posuere suscipit.<\/p>"
+        }
+    ]
+}
