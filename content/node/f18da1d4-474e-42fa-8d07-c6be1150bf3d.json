@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/curabitur-iaculis-tortor-sit-amet-lacus?_format=hal_json"
+            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
@@ -184,8 +184,8 @@
     ],
     "path": [
         {
-            "alias": "\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/curabitur-iaculis-tortor-sit-amet-lacus",
-            "pid": 5,
+            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing",
+            "pid": 4,
             "langcode": "und",
             "lang": "und"
         }
@@ -194,9 +194,9 @@
         {
             "status": 2,
             "cid": 0,
-            "last_comment_timestamp": 1562579056,
+            "last_comment_timestamp": 1563807523,
             "last_comment_name": null,
-            "last_comment_uid": 1,
+            "last_comment_uid": 2,
             "comment_count": 0
         }
     ]

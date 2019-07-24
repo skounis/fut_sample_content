@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/nullam-id-consectetur-lorem-ut-fringilla-augue?_format=hal_json"
+            "href": "http:\/\/default\/content\/nullam-id-consectetur-lorem-ut-fringilla-augue?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
@@ -181,8 +181,8 @@
     ],
     "path": [
         {
-            "alias": "\/nullam-id-consectetur-lorem-ut-fringilla-augue",
-            "pid": 3,
+            "alias": "\/content\/nullam-id-consectetur-lorem-ut-fringilla-augue",
+            "pid": 12,
             "langcode": "und",
             "lang": "und"
         }

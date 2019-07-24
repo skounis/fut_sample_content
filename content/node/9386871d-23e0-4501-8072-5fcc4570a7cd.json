@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/aliquam-erat-volutpat-sed-tincidunt-nunc?_format=hal_json"
+            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-3?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
@@ -184,8 +184,8 @@
     ],
     "path": [
         {
-            "alias": "\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/aliquam-erat-volutpat-sed-tincidunt-nunc",
-            "pid": 11,
+            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-3",
+            "pid": 9,
             "langcode": "und",
             "lang": "und"
         }

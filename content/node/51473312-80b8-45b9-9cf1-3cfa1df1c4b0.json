@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/aliquam-sem-nisl-lacinia-vel-imperdiet?_format=hal_json"
+            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-0?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
@@ -181,8 +181,8 @@
     ],
     "path": [
         {
-            "alias": "\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/aliquam-sem-nisl-lacinia-vel-imperdiet",
-            "pid": 7,
+            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-0",
+            "pid": 5,
             "langcode": "und",
             "lang": "und"
         }

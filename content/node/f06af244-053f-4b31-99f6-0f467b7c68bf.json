@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/nullam-efficitur-elementum-libero-ac?_format=hal_json"
+            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-1?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
@@ -18,9 +18,6 @@
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
-            {
-                "href": ""
-            },
             {
                 "href": ""
             }
@@ -101,22 +98,6 @@
                         "href": ""
                     },
                     "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "3dbad631-7759-477d-ba12-51182a5df936"
-                    }
-                ],
-                "target_revision_id": "37"
-            },
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_image"
                     }
                 },
@@ -181,8 +162,8 @@
     ],
     "path": [
         {
-            "alias": "\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/nullam-efficitur-elementum-libero-ac",
-            "pid": 8,
+            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-1",
+            "pid": 6,
             "langcode": "und",
             "lang": "und"
         }
@@ -191,9 +172,9 @@
         {
             "status": 2,
             "cid": 0,
-            "last_comment_timestamp": 1562579676,
+            "last_comment_timestamp": 1563807387,
             "last_comment_name": null,
-            "last_comment_uid": 1,
+            "last_comment_uid": 2,
             "comment_count": 0
         }
     ]
