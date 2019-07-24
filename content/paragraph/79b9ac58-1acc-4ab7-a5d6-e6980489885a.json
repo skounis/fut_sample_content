@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 23
+        }
+    ],
+    "uuid": [
+        {
+            "value": "79b9ac58-1acc-4ab7-a5d6-e6980489885a"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 54
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-24T14:37:25+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "2"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "group"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_description"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Donec at arcu at quam rhoncus sollicitudin. Quisque mattis elit malesuada vestibulum pellentesque. Duis ultrices a ligula a venenatis. In est urna, porta quis congue vitae, sodales vel metus. Curabitur ac risus ultricies, ullamcorper neque et, pellentesque dui. Quisque sed turpis tincidunt, imperdiet odio condimentum, semper diam. Nulla maximus mi ultricies lacus aliquam, in hendrerit mi interdum. Etiam nulla libero, faucibus ac urna non, egestas accumsan mauris. Cras magna eros, mattis commodo sapien id, sollicitudin tempor justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse ex dolor, pharetra sit amet ante non, cursus finibus felis.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Donec at arcu at quam rhoncus sollicitudin. Quisque mattis elit malesuada vestibulum pellentesque. Duis ultrices a ligula a venenatis. In est urna, porta quis congue vitae, sodales vel metus. Curabitur ac risus ultricies, ullamcorper neque et, pellentesque dui. Quisque sed turpis tincidunt, imperdiet odio condimentum, semper diam. Nulla maximus mi ultricies lacus aliquam, in hendrerit mi interdum. Etiam nulla libero, faucibus ac urna non, egestas accumsan mauris. Cras magna eros, mattis commodo sapien id, sollicitudin tempor justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse ex dolor, pharetra sit amet ante non, cursus finibus felis.<\/p>"
+        }
+    ]
+}
