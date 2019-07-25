@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/25?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "href": "http:\/\/default\/user\/4?_format=hal_json"
+            }
+        ]
+    },
+    "rid": [
+        {
+            "value": 25
+        }
+    ],
+    "uuid": [
+        {
+            "value": "562af546-e7d4-4821-b6c4-4760fe30ae10"
+        }
+    ],
+    "hash": [
+        {
+            "value": "6xBZCokTpr5gMta92uHfHitaWgSubUIBgYlZ_yTNLgM"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/4?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6ec394d7-6db0-4d6f-b62d-1e37bf7e18e0"
+                    }
+                ]
+            }
+        ]
+    },
+    "redirect_source": [
+        {
+            "path": "content\/nisl-suscipit-adipiscing-bibendum-est-ultricies-integer-quis-auctor",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/16",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "und"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:54:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

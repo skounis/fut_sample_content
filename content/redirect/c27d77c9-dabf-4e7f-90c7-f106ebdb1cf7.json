@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/5?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/15?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 5
+            "value": 15
         }
     ],
     "uuid": [
         {
-            "value": "9cd7e4a7-f93e-4098-abeb-c529b2ac10d4"
+            "value": "c27d77c9-dabf-4e7f-90c7-f106ebdb1cf7"
         }
     ],
     "hash": [
         {
-            "value": "dSSs6gs-sh_5A5A7edY099BlTnyTkPfrhD4Zm8_aKGw"
+            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "eff06a57-ba9a-412b-bf40-c8548aa4a18f"
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-erat-volutpat-sed-tincidunt-nunc-arcu-pretium-arcu-euismod-imperdiet-sed-nec",
+            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/8",
+            "uri": "internal:\/node\/9",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-25T09:17:10+00:00",
+            "value": "2019-07-25T09:25:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

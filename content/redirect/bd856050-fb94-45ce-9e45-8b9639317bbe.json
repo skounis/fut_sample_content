@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/3?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/18?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 3
+            "value": 18
         }
     ],
     "uuid": [
         {
-            "value": "973586e0-6b82-4729-b99f-aec85beac94e"
+            "value": "bd856050-fb94-45ce-9e45-8b9639317bbe"
         }
     ],
     "hash": [
         {
-            "value": "WcZ7EHycih8vcaaTD08VeNKNvmcbGelB7jKkFH_ZEe0"
+            "value": "dSSs6gs-sh_5A5A7edY099BlTnyTkPfrhD4Zm8_aKGw"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "eff06a57-ba9a-412b-bf40-c8548aa4a18f"
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
+            "path": "content\/aliquam-erat-volutpat-sed-tincidunt-nunc-arcu-pretium-arcu-euismod-imperdiet-sed-nec",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/7",
+            "uri": "internal:\/node\/8",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-25T09:17:10+00:00",
+            "value": "2019-07-25T09:25:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 40
+        }
+    ],
+    "uuid": [
+        {
+            "value": "a4206f08-6d1b-4a6f-9fb7-d19d63c3799a"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 71
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:51:46+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "15"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "Volutpat commodo sed egestas egestas fringilla phasellus. Risus ultricies tristique nulla aliquet enim tortor. Gravida rutrum quisque non tellus orci ac. Nisl purus in mollis nunc. Elementum tempus egestas sed sed risus. Turpis in eu mi bibendum neque egestas congue. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Accumsan sit amet nulla facilisi. Nulla facilisi cras fermentum odio eu feugiat. \r\n\r\nTortor posuere ac ut consequat. Elementum eu facilisis sed odio morbi quis. Sit amet est placerat in egestas erat imperdiet sed euismod. Neque viverra justo nec ultrices dui sapien eget mi proin.",
+            "format": "plain_text",
+            "processed": "<p>Volutpat commodo sed egestas egestas fringilla phasellus. Risus ultricies tristique nulla aliquet enim tortor. Gravida rutrum quisque non tellus orci ac. Nisl purus in mollis nunc. Elementum tempus egestas sed sed risus. Turpis in eu mi bibendum neque egestas congue. Magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies. Accumsan sit amet nulla facilisi. Nulla facilisi cras fermentum odio eu feugiat. <\/p>\n<p>Tortor posuere ac ut consequat. Elementum eu facilisis sed odio morbi quis. Sit amet est placerat in egestas erat imperdiet sed euismod. Neque viverra justo nec ultrices dui sapien eget mi proin.<\/p>\n"
+        }
+    ]
+}

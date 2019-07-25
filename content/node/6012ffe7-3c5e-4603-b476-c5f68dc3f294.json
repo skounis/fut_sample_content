@@ -1,0 +1,181 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/duis-laoreet-bibendum-finibus\/content\/nibh-mauris?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
+            {
+                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 15
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6012ffe7-3c5e-4603-b476-c5f68dc3f294"
+        }
+    ],
+    "vid": [
+        {
+            "value": 36
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_post"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-07-25T09:51:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "784fa7b6-fd54-472c-8319-79cae7a1d83a"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "784fa7b6-fd54-472c-8319-79cae7a1d83a"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a4206f08-6d1b-4a6f-9fb7-d19d63c3799a"
+                    }
+                ],
+                "target_revision_id": "71"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "In nibh mauris cursus mattis molestie a iaculis at",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:51:46+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T09:51:46+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/duis-laoreet-bibendum-finibus\/content\/nibh-mauris",
+            "pid": 29,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "fut_comments": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1564048306,
+            "last_comment_name": null,
+            "last_comment_uid": 5,
+            "comment_count": 0
+        }
+    ]
+}

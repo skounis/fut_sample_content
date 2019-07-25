@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 35
+        }
+    ],
+    "uuid": [
+        {
+            "value": "433e5519-c7ea-45c6-8153-cdfa9fd90898"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 66
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:38:21+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "10"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Amet consectetur adipiscing elit ut aliquam purus. Nisl pretium fusce id velit. Fringilla ut morbi tincidunt augue interdum. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Enim nunc faucibus a pellentesque sit amet porttitor eget. Tristique senectus et netus et malesuada fames ac. Non blandit massa enim nec dui nunc mattis enim. Vivamus arcu felis bibendum ut tristique et. Aliquam nulla facilisi cras fermentum. Risus viverra adipiscing at in. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ipsum dolor sit amet consectetur adipiscing elit duis.",
+            "format": "plain_text",
+            "processed": "<p>Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Amet consectetur adipiscing elit ut aliquam purus. Nisl pretium fusce id velit. Fringilla ut morbi tincidunt augue interdum. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Enim nunc faucibus a pellentesque sit amet porttitor eget. Tristique senectus et netus et malesuada fames ac. Non blandit massa enim nec dui nunc mattis enim. Vivamus arcu felis bibendum ut tristique et. Aliquam nulla facilisi cras fermentum. Risus viverra adipiscing at in. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Ipsum dolor sit amet consectetur adipiscing elit duis.<\/p>\n"
+        }
+    ]
+}

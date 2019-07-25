@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 37
+        }
+    ],
+    "uuid": [
+        {
+            "value": "8bd5ade5-866e-4720-b1ce-9d1457448b01"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 68
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:42:23+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "12"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "Eget egestas purus viverra accumsan. Vitae sapien pellentesque habitant morbi. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Sed euismod nisi porta lorem mollis aliquam ut. Enim ut tellus elementum sagittis vitae. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Nibh nisl condimentum id venenatis a. Egestas integer eget aliquet nibh praesent tristique magna.\r\n\r\nPulvinar sapien et ligula ullamcorper malesuada proin. Arcu non odio euismod lacinia. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Libero id faucibus nisl tincidunt eget. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Sit amet facilisis magna etiam tempor orci. Tristique senectus et netus et malesuada fames ac. Ridiculus mus mauris vitae ultricies leo integer",
+            "format": "plain_text",
+            "processed": "<p>Eget egestas purus viverra accumsan. Vitae sapien pellentesque habitant morbi. Ipsum nunc aliquet bibendum enim facilisis gravida neque. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et. Sed euismod nisi porta lorem mollis aliquam ut. Enim ut tellus elementum sagittis vitae. Tellus in hac habitasse platea dictumst vestibulum rhoncus est. Nibh nisl condimentum id venenatis a. Egestas integer eget aliquet nibh praesent tristique magna.<\/p>\n<p>Pulvinar sapien et ligula ullamcorper malesuada proin. Arcu non odio euismod lacinia. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Libero id faucibus nisl tincidunt eget. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Sit amet facilisis magna etiam tempor orci. Tristique senectus et netus et malesuada fames ac. Ridiculus mus mauris vitae ultricies leo integer<\/p>\n"
+        }
+    ]
+}

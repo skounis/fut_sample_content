@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/13?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/14?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 13
+            "value": 14
         }
     ],
     "uuid": [
         {
-            "value": "ddf90f71-389a-4e71-adc2-aa0856937f6c"
+            "value": "159022db-c317-465c-8eaf-1ac079e4a7ea"
         }
     ],
     "hash": [
         {
-            "value": "WcZ7EHycih8vcaaTD08VeNKNvmcbGelB7jKkFH_ZEe0"
+            "value": "lLrsKMmMy6cXVaOGWOSwohfxl30canbpAz9isOQjf40"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "04264b0b-8152-4e2e-b582-8cef84480cc5"
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
+            "path": "content\/curabitur-iaculis-tortor-sit-amet-lacus-fringilla-sed-pellentesque-nisl-lobortis",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/7",
+            "uri": "internal:\/node\/5",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-25T08:19:10+00:00",
+            "value": "2019-07-25T09:25:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

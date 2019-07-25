@@ -73,7 +73,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "eff06a57-ba9a-412b-bf40-c8548aa4a18f"
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
                     }
                 ],
                 "lang": "und"
@@ -126,10 +126,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "e9960c15-f323-4063-8ff3-a5a23fe22ebb"
+                        "value": "7b7e204f-a9f3-43ee-9439-998bccef7d1e"
                     }
                 ],
-                "target_revision_id": "60"
+                "target_revision_id": "62"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_tags": [
@@ -159,7 +159,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-25T09:17:10+00:00",
+            "value": "2019-07-25T09:25:15+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
