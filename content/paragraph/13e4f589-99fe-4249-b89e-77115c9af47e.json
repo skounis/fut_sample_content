@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 36
+        }
+    ],
+    "uuid": [
+        {
+            "value": "13e4f589-99fe-4249-b89e-77115c9af47e"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 67
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:41:08+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "11"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "Malesuada nunc vel risus commodo viverra maecenas. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Elementum tempus egestas sed sed risus pretium quam vulputate. Turpis in eu mi bibendum neque egestas congue quisque egestas. Elit at imperdiet dui accumsan sit amet. Blandit massa enim nec dui nunc mattis enim ut tellus. In tellus integer feugiat scelerisque varius morbi enim. Hendrerit dolor magna eget est lorem. Ultricies tristique nulla aliquet enim tortor at auctor urna nunc. Fringilla urna porttitor rhoncus dolor purus non. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Tortor pretium viverra suspendisse potenti nullam. Sodales ut eu sem integer vitae justo eget. Tortor condimentum lacinia quis vel eros. Auctor urna nunc id cursus metus aliquam eleifend mi in.",
+            "format": "plain_text",
+            "processed": "<p>Malesuada nunc vel risus commodo viverra maecenas. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa. Elementum tempus egestas sed sed risus pretium quam vulputate. Turpis in eu mi bibendum neque egestas congue quisque egestas. Elit at imperdiet dui accumsan sit amet. Blandit massa enim nec dui nunc mattis enim ut tellus. In tellus integer feugiat scelerisque varius morbi enim. Hendrerit dolor magna eget est lorem. Ultricies tristique nulla aliquet enim tortor at auctor urna nunc. Fringilla urna porttitor rhoncus dolor purus non. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Tortor pretium viverra suspendisse potenti nullam. Sodales ut eu sem integer vitae justo eget. Tortor condimentum lacinia quis vel eros. Auctor urna nunc id cursus metus aliquam eleifend mi in.<\/p>\n"
+        }
+    ]
+}

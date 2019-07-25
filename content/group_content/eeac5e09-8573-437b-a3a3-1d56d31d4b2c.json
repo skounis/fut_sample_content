@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/3\/content\/15?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_node-fut_post"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
+            {
+                "href": "http:\/\/default\/group\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
+            {
+                "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/morbi-convallis-lectus-et-tempor-purus\/content\/pulvinar?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
+            {
+                "href": "http:\/\/default\/user\/6?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 15
+        }
+    ],
+    "uuid": [
+        {
+            "value": "eeac5e09-8573-437b-a3a3-1d56d31d4b2c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open-group_node-fut_post"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d6468446-4f94-4500-8bdf-ee3a7cfa51d1"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/morbi-convallis-lectus-et-tempor-purus\/content\/pulvinar?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "3fb7b5f8-5c1f-4152-a869-f1ad8dbdcdfb"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/6?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a477078b-6b9f-4e30-97d8-3fe747560a19"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "Pulvinar sapien et ligula ullamcorper malesuada proin. Arcu non odio euismod lacinia. ",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:45:02+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T09:45:02+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ]
+}

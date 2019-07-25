@@ -8,12 +8,12 @@
         },
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/gid": [
             {
-                "href": "http:\/\/default\/bar-group?_format=hal_json"
+                "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/entity_id": [
             {
-                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/aliquam-erat-volutpat-sed-tincidunt-nunc?_format=hal_json"
+                "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-3?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/uid": [
@@ -49,7 +49,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/bar-group?_format=hal_json"
+                        "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/aliquam-erat-volutpat-sed-tincidunt-nunc?_format=hal_json"
+                        "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-3?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"

@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 38
+        }
+    ],
+    "uuid": [
+        {
+            "value": "a302ee73-e2ef-42d7-936e-f9761f58ad88"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 69
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:45:02+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "13"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Libero id faucibus nisl tincidunt eget. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Sit amet facilisis magna etiam tempor orci. Tristique senectus et netus et malesuada fames ac. Ridiculus mus mauris vitae ultricies leo integer. Interdum velit euismod in pellentesque massa placerat duis ultricies. Pharetra pharetra massa massa ultricies mi. Nulla facilisi etiam dignissim diam quis enim lobortis. At risus viverra adipiscing at in tellus integer feugiat.",
+            "format": "plain_text",
+            "processed": "<p>Aliquet porttitor lacus luctus accumsan tortor posuere ac ut consequat. Libero id faucibus nisl tincidunt eget. Nullam eget felis eget nunc lobortis mattis aliquam faucibus. Sit amet facilisis magna etiam tempor orci. Tristique senectus et netus et malesuada fames ac. Ridiculus mus mauris vitae ultricies leo integer. Interdum velit euismod in pellentesque massa placerat duis ultricies. Pharetra pharetra massa massa ultricies mi. Nulla facilisi etiam dignissim diam quis enim lobortis. At risus viverra adipiscing at in tellus integer feugiat.<\/p>\n"
+        }
+    ]
+}

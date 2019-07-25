@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/bar-group?_format=hal_json"
+            "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -73,7 +73,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "30f7f24e-301e-4403-9fce-34dcc2483f7e"
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
                     }
                 ],
                 "lang": "und"
@@ -126,10 +126,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "0b14a634-3122-4ca9-ac9b-c190e0ab0c30"
+                        "value": "7b7e204f-a9f3-43ee-9439-998bccef7d1e"
                     }
                 ],
-                "target_revision_id": "23"
+                "target_revision_id": "62"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_tags": [
@@ -159,15 +159,15 @@
     ],
     "changed": [
         {
-            "value": "2019-07-22T14:49:54+00:00",
+            "value": "2019-07-25T09:25:15+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "path": [
         {
-            "alias": "\/bar-group",
-            "pid": 4,
+            "alias": "\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit",
+            "pid": 3,
             "langcode": "und",
             "lang": "und"
         }

@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/3\/member\/8?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
+            {
+                "href": "http:\/\/default\/group\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
+            {
+                "href": "http:\/\/default\/user\/6?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 8
+        }
+    ],
+    "uuid": [
+        {
+            "value": "af3d7243-46a4-4ce9-8e9e-87f17555d281"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open-group_membership"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d6468446-4f94-4500-8bdf-ee3a7cfa51d1"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/6?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a477078b-6b9f-4e30-97d8-3fe747560a19"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "palver",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T08:45:40+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T08:45:40+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/group\/3\/member\/8",
+            "pid": 7,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "group_roles": [
+        {
+            "target_id": "fut_open-manager"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/1\/content\/19?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_node-fut_post"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
+            {
+                "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
+            {
+                "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-5?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
+            {
+                "href": "http:\/\/default\/user\/4?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 19
+        }
+    ],
+    "uuid": [
+        {
+            "value": "f695f6af-f817-4f5e-a700-8fe230b5bbda"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open-group_node-fut_post"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5aae6242-97b2-4edd-b87d-02190849ce8d"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "be6c7396-c433-49bb-affb-5786e96cec75"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/4?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6ec394d7-6db0-4d6f-b62d-1e37bf7e18e0"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "Donec et odio pellentesque diam volutpat",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:55:04+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T09:55:04+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ]
+}

@@ -8,7 +8,7 @@
         },
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
             {
-                "href": "http:\/\/default\/bar-group?_format=hal_json"
+                "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
@@ -49,7 +49,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/bar-group?_format=hal_json"
+                        "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -121,7 +121,7 @@
     "path": [
         {
             "alias": "\/group\/1\/member\/6",
-            "pid": 10,
+            "pid": 19,
             "langcode": "und",
             "lang": "und"
         }

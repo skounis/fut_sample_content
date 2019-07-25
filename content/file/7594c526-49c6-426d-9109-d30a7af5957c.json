@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/2019-07\/group-4.png"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 17
+        }
+    ],
+    "uuid": [
+        {
+            "value": "7594c526-49c6-426d-9109-d30a7af5957c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "group-4.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-07\/group-4.png",
+            "url": "\/sites\/default\/files\/2019-07\/group-4.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 17398
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-24T14:39:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-24T14:39:24+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

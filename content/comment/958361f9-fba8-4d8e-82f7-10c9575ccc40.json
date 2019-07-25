@@ -19,7 +19,7 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/comment\/comment\/entity_id": [
             {
-                "href": "http:\/\/default\/ut-viverra-rhoncus-ipsum-ac-pellentesque?_format=hal_json"
+                "href": "http:\/\/default\/content\/ut-viverra-rhoncus-ipsum-ac-pellentesque?_format=hal_json"
             }
         ]
     },
@@ -63,7 +63,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "30f7f24e-301e-4403-9fce-34dcc2483f7e"
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
                     }
                 ],
                 "lang": "en"
@@ -90,7 +90,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/ut-viverra-rhoncus-ipsum-ac-pellentesque?_format=hal_json"
+                        "href": "http:\/\/default\/content\/ut-viverra-rhoncus-ipsum-ac-pellentesque?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"

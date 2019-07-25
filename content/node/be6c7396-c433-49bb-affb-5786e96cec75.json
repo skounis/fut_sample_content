@@ -1,0 +1,181 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-5?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/4?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
+            {
+                "href": "http:\/\/default\/user\/4?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 17
+        }
+    ],
+    "uuid": [
+        {
+            "value": "be6c7396-c433-49bb-affb-5786e96cec75"
+        }
+    ],
+    "vid": [
+        {
+            "value": 38
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_post"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-07-25T09:55:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/4?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6ec394d7-6db0-4d6f-b62d-1e37bf7e18e0"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/4?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6ec394d7-6db0-4d6f-b62d-1e37bf7e18e0"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "33c95f4e-020e-4689-9b11-216338e339a9"
+                    }
+                ],
+                "target_revision_id": "73"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Donec et odio pellentesque diam volutpat",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:55:04+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T09:55:04+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-5",
+            "pid": 31,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "fut_comments": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1564048504,
+            "last_comment_name": null,
+            "last_comment_uid": 4,
+            "comment_count": 0
+        }
+    ]
+}

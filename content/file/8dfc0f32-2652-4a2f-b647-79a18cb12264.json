@@ -40,7 +40,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "30f7f24e-301e-4403-9fce-34dcc2483f7e"
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
                     }
                 ]
             }
@@ -60,6 +60,11 @@
     "filemime": [
         {
             "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 7318
         }
     ],
     "status": [

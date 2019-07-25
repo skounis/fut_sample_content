@@ -1,0 +1,141 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2019-07\/group-3.jpg"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d6468446-4f94-4500-8bdf-ee3a7cfa51d1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open"
+        }
+    ],
+    "label": [
+        {
+            "value": "Morbi a convallis lectus, et tempor purus. ",
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-07\/group-3.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "ed83b1cf-28d4-495e-93a7-5666c64822c1"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_functional_navigation_link"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a4cbad42-b61a-4904-b4a0-61517720330e"
+                    }
+                ],
+                "target_revision_id": "63"
+            }
+        ]
+    },
+    "created": [
+        {
+            "value": "2019-07-24T14:38:20+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T09:25:15+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/group\/morbi-convallis-lectus-et-tempor-purus",
+            "pid": 6,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_short_name": [
+        {
+            "value": "Morbi a convallis"
+        }
+    ]
+}

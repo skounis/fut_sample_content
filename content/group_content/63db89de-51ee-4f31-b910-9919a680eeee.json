@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/2\/member\/11?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
+            {
+                "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
+            {
+                "href": "http:\/\/default\/user\/3?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 11
+        }
+    ],
+    "uuid": [
+        {
+            "value": "63db89de-51ee-4f31-b910-9919a680eeee"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open-group_membership"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "cb9ee0ab-b87a-4e9b-a1bf-0cb5c7d7e737"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/3?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "81045ffe-bcb9-4b1c-b007-8ab769b8494d"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "darell",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:19:09+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T09:19:09+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/group\/2\/member\/11",
+            "pid": 17,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "group_roles": [
+        {
+            "target_id": "fut_open-editor"
+        }
+    ]
+}

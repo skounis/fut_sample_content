@@ -1,0 +1,164 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/duis-laoreet-bibendum-finibus?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
+            {
+                "href": ""
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2019-07\/group-4.png"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 4
+        }
+    ],
+    "uuid": [
+        {
+            "value": "50781b6b-fccd-451b-96c4-003d7d2b1e78"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open"
+        }
+    ],
+    "label": [
+        {
+            "value": "Duis laoreet bibendum finibus",
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a92e9ddb-deac-4686-b032-c7a9a9877950"
+                    }
+                ],
+                "target_revision_id": "58"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-07\/group-4.png"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "7594c526-49c6-426d-9109-d30a7af5957c"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_functional_navigation_link"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8a0aae9d-5c2a-4cc8-991f-5bdcd4c65537"
+                    }
+                ],
+                "target_revision_id": "64"
+            }
+        ]
+    },
+    "created": [
+        {
+            "value": "2019-07-24T14:39:16+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T09:25:15+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/group\/duis-laoreet-bibendum-finibus",
+            "pid": 11,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_short_name": [
+        {
+            "value": "Duis laoreet"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/1\/member\/10?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
+            {
+                "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
+            {
+                "href": "http:\/\/default\/user\/4?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 10
+        }
+    ],
+    "uuid": [
+        {
+            "value": "08b553d5-4480-493f-920c-45e694c63eaa"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open-group_membership"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5aae6242-97b2-4edd-b87d-02190849ce8d"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/4?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6ec394d7-6db0-4d6f-b62d-1e37bf7e18e0"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "cleon",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-25T09:18:57+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-25T09:18:57+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/group\/1\/member\/10",
+            "pid": 8,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "group_roles": [
+        {
+            "target_id": "fut_open-editor"
+        }
+    ]
+}
