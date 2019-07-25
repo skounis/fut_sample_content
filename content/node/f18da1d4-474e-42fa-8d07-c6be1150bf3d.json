@@ -17,11 +17,6 @@
                 "lang": "und"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
-            {
-                "href": ""
-            }
-        ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [
             {
                 "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
@@ -94,24 +89,6 @@
                     }
                 ],
                 "lang": "und"
-            }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "288aba21-9292-4cdb-b821-9f0210421f03"
-                    }
-                ],
-                "target_revision_id": "48"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [

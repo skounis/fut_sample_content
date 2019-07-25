@@ -12,11 +12,6 @@
                 "lang": "und"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
-            {
-                "href": ""
-            }
-        ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
             {
                 "href": "http:\/\/default\/sites\/default\/files\/2019-07\/group-3.jpg"
@@ -68,28 +63,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "20839fb8-9471-49b2-babc-0f54c6ab8cab"
+                        "value": "04264b0b-8152-4e2e-b582-8cef84480cc5"
                     }
                 ],
                 "lang": "und"
-            }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "e46cae3f-546f-4ea0-9321-88d4e32967fe"
-                    }
-                ],
-                "target_revision_id": "56"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
@@ -121,10 +98,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "05bb3401-8860-4bbd-82f6-2e703fc23541"
+                        "value": "78cbf559-e474-4255-96bd-fa96dacb9332"
                     }
                 ],
-                "target_revision_id": "57"
+                "target_revision_id": "61"
             }
         ]
     },
@@ -137,7 +114,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-24T14:38:28+00:00",
+            "value": "2019-07-25T08:19:10+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -145,7 +122,7 @@
     "path": [
         {
             "alias": "\/group\/morbi-convallis-lectus-et-tempor-purus",
-            "pid": 16,
+            "pid": 15,
             "langcode": "und",
             "lang": "und"
         }

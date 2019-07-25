@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/user\/1?_format=hal_json"
+            "href": "http:\/\/default\/user\/0?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -9,12 +9,12 @@
     },
     "uid": [
         {
-            "value": 1
+            "value": 0
         }
     ],
     "uuid": [
         {
-            "value": "20839fb8-9471-49b2-babc-0f54c6ab8cab"
+            "value": "4c44b18e-fda7-4c93-a405-04bd8dc7f61b"
         }
     ],
     "langcode": [
@@ -30,52 +30,37 @@
     ],
     "name": [
         {
-            "value": "admin"
-        }
-    ],
-    "mail": [
-        {
-            "value": "admin@example.org"
-        }
-    ],
-    "timezone": [
-        {
-            "value": "Europe\/Berlin"
+            "value": ""
         }
     ],
     "status": [
         {
-            "value": true
+            "value": false
         }
     ],
     "created": [
         {
-            "value": "2019-07-24T13:53:53+00:00",
+            "value": "2019-07-25T08:12:32+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-07-24T13:53:53+00:00",
+            "value": "2019-07-25T08:12:32+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "access": [
         {
-            "value": "2019-07-24T14:47:46+00:00",
+            "value": "1970-01-01T00:00:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "login": [
         {
-            "value": "2019-07-24T13:59:05+00:00",
+            "value": "1970-01-01T00:00:00+00:00",
             "format": "Y-m-d\\TH:i:sP"
-        }
-    ],
-    "init": [
-        {
-            "value": "admin@example.org"
         }
     ],
     "default_langcode": [

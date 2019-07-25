@@ -5,7 +5,12 @@
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
-        }
+        },
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
     },
     "rid": [
         {
@@ -27,6 +32,25 @@
             "value": "redirect"
         }
     ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "04264b0b-8152-4e2e-b582-8cef84480cc5"
+                    }
+                ]
+            }
+        ]
+    },
     "redirect_source": [
         {
             "path": "aliquam-erat-volutpat-sed-tincidunt-nunc-arcu-pretium-arcu-euismod-imperdiet-sed-nec-accumsan",

@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/4?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/13?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 4
+            "value": 13
         }
     ],
     "uuid": [
         {
-            "value": "eb29143b-c64f-4bbf-beb8-7d36ab65f32d"
+            "value": "ddf90f71-389a-4e71-adc2-aa0856937f6c"
         }
     ],
     "hash": [
         {
-            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
+            "value": "WcZ7EHycih8vcaaTD08VeNKNvmcbGelB7jKkFH_ZEe0"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "20839fb8-9471-49b2-babc-0f54c6ab8cab"
+                        "value": "04264b0b-8152-4e2e-b582-8cef84480cc5"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
+            "path": "content\/nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/6",
+            "uri": "internal:\/node\/7",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-24T14:04:57+00:00",
+            "value": "2019-07-25T08:19:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
