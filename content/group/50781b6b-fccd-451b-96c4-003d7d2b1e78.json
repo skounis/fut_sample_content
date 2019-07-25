@@ -68,7 +68,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "04264b0b-8152-4e2e-b582-8cef84480cc5"
+                        "value": "eff06a57-ba9a-412b-bf40-c8548aa4a18f"
                     }
                 ],
                 "lang": "und"
@@ -121,10 +121,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "fc8507b3-6602-40f9-b0e5-c5e04c2d7de9"
+                        "value": "0efafae1-45bf-46a4-a243-aef236896802"
                     }
                 ],
-                "target_revision_id": "60"
+                "target_revision_id": "63"
             }
         ]
     },
@@ -137,7 +137,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-25T08:19:10+00:00",
+            "value": "2019-07-25T09:17:10+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -145,7 +145,7 @@
     "path": [
         {
             "alias": "\/group\/duis-laoreet-bibendum-finibus",
-            "pid": 13,
+            "pid": 10,
             "langcode": "und",
             "lang": "und"
         }

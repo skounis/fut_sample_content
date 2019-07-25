@@ -91,7 +91,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "04264b0b-8152-4e2e-b582-8cef84480cc5"
+                        "value": "eff06a57-ba9a-412b-bf40-c8548aa4a18f"
                     }
                 ],
                 "lang": "und"
@@ -121,7 +121,7 @@
     "path": [
         {
             "alias": "\/group\/3\/member\/8",
-            "pid": 20,
+            "pid": 7,
             "langcode": "und",
             "lang": "und"
         }

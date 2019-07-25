@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/14?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/2?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 14
+            "value": 2
         }
     ],
     "uuid": [
         {
-            "value": "40668b32-cd86-4d28-b27d-fab7f7cebf01"
+            "value": "9ffae680-106a-47b1-9118-94cd2484074e"
         }
     ],
     "hash": [
         {
-            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
+            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "04264b0b-8152-4e2e-b582-8cef84480cc5"
+                        "value": "eff06a57-ba9a-412b-bf40-c8548aa4a18f"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
+            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/6",
+            "uri": "internal:\/node\/9",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-25T08:19:10+00:00",
+            "value": "2019-07-25T09:17:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

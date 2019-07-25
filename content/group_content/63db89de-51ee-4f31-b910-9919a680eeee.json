@@ -1,36 +1,36 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/1\/member\/6?_format=hal_json"
+            "href": "http:\/\/default\/group\/2\/member\/11?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
         },
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
             {
-                "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
             {
-                "href": "http:\/\/default\/user\/2?_format=hal_json"
+                "href": "http:\/\/default\/user\/3?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
             {
-                "href": "http:\/\/default\/user\/2?_format=hal_json",
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
                 "lang": "und"
             }
         ]
     },
     "id": [
         {
-            "value": 6
+            "value": 11
         }
     ],
     "uuid": [
         {
-            "value": "97b618f7-40f3-47ed-b34f-526f853cdafc"
+            "value": "63db89de-51ee-4f31-b910-9919a680eeee"
         }
     ],
     "langcode": [
@@ -49,7 +49,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                        "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -57,7 +57,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "5aae6242-97b2-4edd-b87d-02190849ce8d"
+                        "value": "cb9ee0ab-b87a-4e9b-a1bf-0cb5c7d7e737"
                     }
                 ]
             }
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                        "href": "http:\/\/default\/user\/3?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -74,7 +74,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "726a7e28-d893-43f0-b246-6b226fb715a2"
+                        "value": "81045ffe-bcb9-4b1c-b007-8ab769b8494d"
                     }
                 ]
             }
@@ -83,7 +83,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -91,7 +91,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "726a7e28-d893-43f0-b246-6b226fb715a2"
+                        "value": "eff06a57-ba9a-412b-bf40-c8548aa4a18f"
                     }
                 ],
                 "lang": "und"
@@ -100,28 +100,28 @@
     },
     "label": [
         {
-            "value": "demo",
+            "value": "darell",
             "lang": "und"
         }
     ],
     "created": [
         {
-            "value": "2019-07-22T14:12:17+00:00",
+            "value": "2019-07-25T09:19:09+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-07-22T14:12:17+00:00",
+            "value": "2019-07-25T09:19:09+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "path": [
         {
-            "alias": "\/group\/1\/member\/6",
-            "pid": 17,
+            "alias": "\/group\/2\/member\/11",
+            "pid": 23,
             "langcode": "und",
             "lang": "und"
         }
@@ -135,12 +135,6 @@
     "group_roles": [
         {
             "target_id": "fut_open-editor"
-        },
-        {
-            "target_id": "fut_open-manager"
-        },
-        {
-            "target_id": "fut_open-moderator"
         }
     ]
 }

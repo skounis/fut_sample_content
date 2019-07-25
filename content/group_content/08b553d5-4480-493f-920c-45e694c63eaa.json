@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/1\/member\/6?_format=hal_json"
+            "href": "http:\/\/default\/group\/1\/member\/10?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
@@ -13,24 +13,24 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
             {
-                "href": "http:\/\/default\/user\/2?_format=hal_json"
+                "href": "http:\/\/default\/user\/4?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
             {
-                "href": "http:\/\/default\/user\/2?_format=hal_json",
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
                 "lang": "und"
             }
         ]
     },
     "id": [
         {
-            "value": 6
+            "value": 10
         }
     ],
     "uuid": [
         {
-            "value": "97b618f7-40f3-47ed-b34f-526f853cdafc"
+            "value": "08b553d5-4480-493f-920c-45e694c63eaa"
         }
     ],
     "langcode": [
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                        "href": "http:\/\/default\/user\/4?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -74,7 +74,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "726a7e28-d893-43f0-b246-6b226fb715a2"
+                        "value": "6ec394d7-6db0-4d6f-b62d-1e37bf7e18e0"
                     }
                 ]
             }
@@ -83,7 +83,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -91,7 +91,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "726a7e28-d893-43f0-b246-6b226fb715a2"
+                        "value": "eff06a57-ba9a-412b-bf40-c8548aa4a18f"
                     }
                 ],
                 "lang": "und"
@@ -100,28 +100,28 @@
     },
     "label": [
         {
-            "value": "demo",
+            "value": "cleon",
             "lang": "und"
         }
     ],
     "created": [
         {
-            "value": "2019-07-22T14:12:17+00:00",
+            "value": "2019-07-25T09:18:57+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-07-22T14:12:17+00:00",
+            "value": "2019-07-25T09:18:57+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "path": [
         {
-            "alias": "\/group\/1\/member\/6",
-            "pid": 17,
+            "alias": "\/group\/1\/member\/10",
+            "pid": 22,
             "langcode": "und",
             "lang": "und"
         }
@@ -135,12 +135,6 @@
     "group_roles": [
         {
             "target_id": "fut_open-editor"
-        },
-        {
-            "target_id": "fut_open-manager"
-        },
-        {
-            "target_id": "fut_open-moderator"
         }
     ]
 }
