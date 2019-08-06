@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/5?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/12?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 5
+            "value": 12
         }
     ],
     "uuid": [
         {
-            "value": "4aad17c0-a933-427c-8091-5b5fab5a1d10"
+            "value": "4a70966c-53e2-4f5f-875b-6ed7c8f8e4f6"
         }
     ],
     "hash": [
         {
-            "value": "6xBZCokTpr5gMta92uHfHitaWgSubUIBgYlZ_yTNLgM"
+            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
+                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/nisl-suscipit-adipiscing-bibendum-est-ultricies-integer-quis-auctor",
+            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/16",
+            "uri": "internal:\/node\/6",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:40:36+00:00",
+            "value": "2019-08-06T13:51:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

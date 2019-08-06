@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/8?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/4?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 8
+            "value": 4
         }
     ],
     "uuid": [
         {
-            "value": "b11292dc-e8bd-46c6-92c9-ea0f353df99f"
+            "value": "5bb1e46b-3e95-490e-ae17-ee71e89ae142"
         }
     ],
     "hash": [
         {
-            "value": "WcZ7EHycih8vcaaTD08VeNKNvmcbGelB7jKkFH_ZEe0"
+            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
+                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
+            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/7",
+            "uri": "internal:\/node\/9",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:40:36+00:00",
+            "value": "2019-08-06T13:51:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

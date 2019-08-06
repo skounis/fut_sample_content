@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/2?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/9?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 2
+            "value": 9
         }
     ],
     "uuid": [
         {
-            "value": "1554ec0d-f515-4245-b313-704019d017aa"
+            "value": "da099d08-3e0a-4627-8bc8-d1129d4dae5b"
         }
     ],
     "hash": [
         {
-            "value": "OEpzwLyWzRnHz-3dMYnyMIqOqiqdlkEoBeagjon3HGg"
+            "value": "_Sq5y9r0SNWDJqM-QWguyi_p7dhPKZCqYs5BfbQSv4U"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
+                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-et-odio-pellentesque-diam-volutpat",
+            "path": "content\/sit-amet-consectetur-adipiscing-elit-ut-proin-sed-libero-enim-sed-magna-eget-est-lorem",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/17",
+            "uri": "internal:\/node\/12",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:40:36+00:00",
+            "value": "2019-08-06T13:51:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

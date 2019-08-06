@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/13?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/3?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 13
+            "value": 3
         }
     ],
     "uuid": [
         {
-            "value": "1b643854-f0d9-46bb-8286-7e76e6b62482"
+            "value": "273d1850-245a-4f72-842b-186381593200"
         }
     ],
     "hash": [
         {
-            "value": "dSSs6gs-sh_5A5A7edY099BlTnyTkPfrhD4Zm8_aKGw"
+            "value": "lLrsKMmMy6cXVaOGWOSwohfxl30canbpAz9isOQjf40"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
+                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-erat-volutpat-sed-tincidunt-nunc-arcu-pretium-arcu-euismod-imperdiet-sed-nec",
+            "path": "content\/curabitur-iaculis-tortor-sit-amet-lacus-fringilla-sed-pellentesque-nisl-lobortis",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/8",
+            "uri": "internal:\/node\/5",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:40:36+00:00",
+            "value": "2019-08-06T13:51:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

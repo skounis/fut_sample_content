@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/11?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/2?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 11
+            "value": 2
         }
     ],
     "uuid": [
         {
-            "value": "5fc4f3b0-3dfb-4d1e-a1db-fac509bd835d"
+            "value": "e4e28816-f74d-48e5-9b74-af5537a9837a"
         }
     ],
     "hash": [
         {
-            "value": "2Wuf_uqT_D8vdSXHecl-Pjpo9OyRvRV3aKov3FWzuFU"
+            "value": "OEpzwLyWzRnHz-3dMYnyMIqOqiqdlkEoBeagjon3HGg"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
+                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
+            "path": "content\/donec-et-odio-pellentesque-diam-volutpat",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/10",
+            "uri": "internal:\/node\/17",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:40:36+00:00",
+            "value": "2019-08-06T13:51:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

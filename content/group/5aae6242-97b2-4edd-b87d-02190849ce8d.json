@@ -68,7 +68,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
+                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
                     }
                 ],
                 "lang": "und"
@@ -121,10 +121,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "06cc8799-83bf-433b-9ea9-4ad7522b01f0"
+                        "value": "b9311c8f-ada6-4fc2-8599-1f93dead4ed7"
                     }
                 ],
-                "target_revision_id": "72"
+                "target_revision_id": "76"
             }
         ]
     },
@@ -137,7 +137,7 @@
     ],
     "changed": [
         {
-            "value": "2019-08-06T13:40:36+00:00",
+            "value": "2019-08-06T13:56:49+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
