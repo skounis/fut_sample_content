@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_video"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_video\/fut_video": [
+            {
+                "href": "http:\/\/default\/media\/14?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 56
+        }
+    ],
+    "uuid": [
+        {
+            "value": "65b8056b-5bb2-4e99-82d3-d3edff32d6e7"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 90
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_video"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:39:22+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "6"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_video\/fut_video": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/media\/14?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_video"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "6e5d796a-87d5-46a3-a4f0-2c5516af21a1"
+                    }
+                ]
+            }
+        ]
+    }
+}

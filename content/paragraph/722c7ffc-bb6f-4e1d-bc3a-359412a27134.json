@@ -1,0 +1,99 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_document"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_document\/fut_document": [
+            {
+                "href": "http:\/\/default\/media\/12?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 54
+        }
+    ],
+    "uuid": [
+        {
+            "value": "722c7ffc-bb6f-4e1d-bc3a-359412a27134"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 106
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_document"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:37:44+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "17"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_document\/fut_document": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/media\/12?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_document"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d42361ec-e685-4d2c-816d-4c167a6b0cee"
+                    }
+                ]
+            }
+        ]
+    }
+}

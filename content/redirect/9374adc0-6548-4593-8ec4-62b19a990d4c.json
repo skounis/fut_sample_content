@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "rid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "9374adc0-6548-4593-8ec4-62b19a990d4c"
+        }
+    ],
+    "hash": [
+        {
+            "value": "YwUfj4DfTt3Ei1BP-LofYJ2TZK_u6Q19xkP5zh0ahLs"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ]
+            }
+        ]
+    },
+    "redirect_source": [
+        {
+            "path": "content\/elit-imperdiet-dui-accumsan-sit-amet",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/14",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "und"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:29:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

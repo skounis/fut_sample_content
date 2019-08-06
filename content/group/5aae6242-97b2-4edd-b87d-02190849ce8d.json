@@ -26,11 +26,6 @@
             {
                 "href": ""
             }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_tags": [
-            {
-                "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
-            }
         ]
     },
     "id": [
@@ -73,7 +68,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
                     }
                 ],
                 "lang": "und"
@@ -126,27 +121,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "7b7e204f-a9f3-43ee-9439-998bccef7d1e"
+                        "value": "d209fcbf-6d6a-4d75-9b45-4afca559a3ba"
                     }
                 ],
-                "target_revision_id": "62"
-            }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_tags": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_tags"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "86941396-8c14-42e7-a44e-3e30588dd2b0"
-                    }
-                ]
+                "target_revision_id": "77"
             }
         ]
     },
@@ -159,7 +137,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-25T09:25:15+00:00",
+            "value": "2019-08-06T14:29:23+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -167,7 +145,7 @@
     "path": [
         {
             "alias": "\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit",
-            "pid": 3,
+            "pid": 6,
             "langcode": "und",
             "lang": "und"
         }

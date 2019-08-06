@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 51
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d3109160-8e54-486e-8d83-e70b5bbbf205"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 83
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T13:55:45+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "3"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "group"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_description"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Nam lacinia ante ligula, non tincidunt est malesuada sed<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Nam lacinia ante ligula, non tincidunt est malesuada sed<\/p>"
+        }
+    ]
+}

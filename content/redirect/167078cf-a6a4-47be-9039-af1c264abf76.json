@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/7?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "rid": [
+        {
+            "value": 7
+        }
+    ],
+    "uuid": [
+        {
+            "value": "167078cf-a6a4-47be-9039-af1c264abf76"
+        }
+    ],
+    "hash": [
+        {
+            "value": "KYRy_KTaBHSTmhz3cTKurUcgKedzUmPDi02MX8EzHCA"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ]
+            }
+        ]
+    },
+    "redirect_source": [
+        {
+            "path": "content\/pulvinar-sapien-et-ligula-ullamcorper-malesuada-proin-arcu-non-odio-euismod-lacinia",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/13",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "und"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:29:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

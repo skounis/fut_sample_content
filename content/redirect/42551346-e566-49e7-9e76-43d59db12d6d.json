@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/13?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "rid": [
+        {
+            "value": 13
+        }
+    ],
+    "uuid": [
+        {
+            "value": "42551346-e566-49e7-9e76-43d59db12d6d"
+        }
+    ],
+    "hash": [
+        {
+            "value": "dSSs6gs-sh_5A5A7edY099BlTnyTkPfrhD4Zm8_aKGw"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ]
+            }
+        ]
+    },
+    "redirect_source": [
+        {
+            "path": "content\/aliquam-erat-volutpat-sed-tincidunt-nunc-arcu-pretium-arcu-euismod-imperdiet-sed-nec",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/8",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "und"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:29:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

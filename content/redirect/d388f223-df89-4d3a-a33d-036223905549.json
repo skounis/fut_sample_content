@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/11?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "rid": [
+        {
+            "value": 11
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d388f223-df89-4d3a-a33d-036223905549"
+        }
+    ],
+    "hash": [
+        {
+            "value": "2Wuf_uqT_D8vdSXHecl-Pjpo9OyRvRV3aKov3FWzuFU"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ]
+            }
+        ]
+    },
+    "redirect_source": [
+        {
+            "path": "content\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/10",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "und"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:29:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

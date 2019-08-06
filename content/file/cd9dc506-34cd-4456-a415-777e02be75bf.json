@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/2019-08\/Sample%20Document%202.docx"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 23
+        }
+    ],
+    "uuid": [
+        {
+            "value": "cd9dc506-34cd-4456-a415-777e02be75bf"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "Sample Document 2.docx"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-08\/Sample Document 2.docx",
+            "url": "\/sites\/default\/files\/2019-08\/Sample%20Document%202.docx"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 935494
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:57:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-06T14:58:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

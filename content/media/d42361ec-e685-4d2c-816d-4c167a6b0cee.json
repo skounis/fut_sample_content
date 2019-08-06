@@ -1,0 +1,152 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/media\/12?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_document"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_document\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_document\/thumbnail": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/media-icons\/generic\/generic.png",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_document\/field_media_file": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2019-08\/Sample%20Document.pdf"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 12
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d42361ec-e685-4d2c-816d-4c167a6b0cee"
+        }
+    ],
+    "vid": [
+        {
+            "value": 12
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "fut_document"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-08-06T14:38:17+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_document\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_document\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/media-icons\/generic\/generic.png"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "c2e0490d-c441-4afc-987d-f0770da7ace7"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_document\/field_media_file": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-08\/Sample%20Document.pdf"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "073318d5-c66a-42f2-b5f9-a3d04d6c2fb7"
+                    }
+                ]
+            }
+        ]
+    },
+    "name": [
+        {
+            "value": "Sample Document",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:38:06+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-06T14:38:06+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/media\/17?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_video"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/thumbnail": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/oembed_thumbnails\/bvT50RRNxgwg9oMOOidCTvydESavXOKiSTqTrfLI7Bo.jpg",
+                "lang": "und"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 17
+        }
+    ],
+    "uuid": [
+        {
+            "value": "80d2b6d3-06e9-4e72-b212-a3f6ae267a99"
+        }
+    ],
+    "vid": [
+        {
+            "value": 17
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "fut_video"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-08-06T14:59:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/oembed_thumbnails\/bvT50RRNxgwg9oMOOidCTvydESavXOKiSTqTrfLI7Bo.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a096ec7c-1d59-4a6f-ba69-e25733a808f6"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "name": [
+        {
+            "value": "Highlights from the 2019 European elections",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:58:53+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-06T14:58:57+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "field_media_oembed_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=6Fw78K6Q-aI"
+        }
+    ]
+}

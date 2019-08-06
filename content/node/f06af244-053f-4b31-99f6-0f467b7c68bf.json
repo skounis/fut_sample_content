@@ -1,20 +1,42 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-1?_format=hal_json"
+            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-3?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
         },
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
             {
-                "href": "http:\/\/default\/user\/2?_format=hal_json"
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
             {
                 "href": "http:\/\/default\/user\/2?_format=hal_json",
                 "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_collection": [
+            {
+                "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            },
+            {
+                "href": ""
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [
+            {
+                "href": "http:\/\/default\/taxonomy\/term\/5?_format=hal_json"
             }
         ]
     },
@@ -30,7 +52,7 @@
     ],
     "vid": [
         {
-            "value": 21
+            "value": 51
         }
     ],
     "langcode": [
@@ -46,7 +68,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-07-22T14:56:27+00:00",
+            "value": "2019-08-06T14:59:59+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -55,7 +77,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -63,7 +85,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "726a7e28-d893-43f0-b246-6b226fb715a2"
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
                     }
                 ]
             }
@@ -84,6 +106,91 @@
                     }
                 ],
                 "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_collection": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_collections"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "2e92a0ca-4ba7-40a4-ba25-854c5e77160f"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "1f857c0c-2efc-4d87-b40f-93b2d3942bfb"
+                    }
+                ],
+                "target_revision_id": "100"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/webtools_uec"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d484000c-848f-4170-a26c-a67a02940fad"
+                    }
+                ],
+                "target_revision_id": "101"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_video"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "94b85da8-69c2-40dc-b225-9a8e473361aa"
+                    }
+                ],
+                "target_revision_id": "102"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/taxonomy\/term\/5?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "9c1cbbac-fad5-4c52-bdad-4168b4074822"
+                    }
+                ]
             }
         ]
     },
@@ -108,7 +215,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-22T14:56:27+00:00",
+            "value": "2019-08-06T14:59:59+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -139,8 +246,8 @@
     ],
     "path": [
         {
-            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-1",
-            "pid": 16,
+            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-3",
+            "pid": 21,
             "langcode": "und",
             "lang": "und"
         }
@@ -149,7 +256,7 @@
         {
             "status": 2,
             "cid": 0,
-            "last_comment_timestamp": 1563807387,
+            "last_comment_timestamp": 1565098974,
             "last_comment_name": null,
             "last_comment_uid": 2,
             "comment_count": 0

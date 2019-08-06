@@ -1,0 +1,83 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/12?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "rid": [
+        {
+            "value": 12
+        }
+    ],
+    "uuid": [
+        {
+            "value": "79edc6a3-3321-4c93-a2a3-4b69c75ba952"
+        }
+    ],
+    "hash": [
+        {
+            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ]
+            }
+        ]
+    },
+    "redirect_source": [
+        {
+            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
+            "query": []
+        }
+    ],
+    "redirect_redirect": [
+        {
+            "uri": "internal:\/node\/6",
+            "title": null,
+            "options": []
+        }
+    ],
+    "language": [
+        {
+            "value": "und"
+        }
+    ],
+    "status_code": [
+        {
+            "value": 301
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:29:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

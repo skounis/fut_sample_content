@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/media\/14?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_video"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/thumbnail": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/oembed_thumbnails\/T5ndZ48MO4XkqygwVZGEAY-wfKrPsIFWj1bzvt8JTE0.jpg",
+                "lang": "und"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 14
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6e5d796a-87d5-46a3-a4f0-2c5516af21a1"
+        }
+    ],
+    "vid": [
+        {
+            "value": 14
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "fut_video"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-08-06T14:40:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_video\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/oembed_thumbnails\/T5ndZ48MO4XkqygwVZGEAY-wfKrPsIFWj1bzvt8JTE0.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "076907da-7100-4d5f-8261-04f417e3a141"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "name": [
+        {
+            "value": "Study probes e-democracy\u2019s impact on EU citizens and decision-makers",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:39:27+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-08-06T14:40:39+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "field_media_oembed_video": [
+        {
+            "value": "https:\/\/www.youtube.com\/watch?v=PzDwd5-hPSQ"
+        }
+    ]
+}
