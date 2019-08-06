@@ -1,30 +1,30 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/19?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/5?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
         },
         "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
             {
-                "href": "http:\/\/default\/user\/3?_format=hal_json"
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
             }
         ]
     },
     "rid": [
         {
-            "value": 19
+            "value": 5
         }
     ],
     "uuid": [
         {
-            "value": "70a2443b-6a50-4806-9363-afd128b31b25"
+            "value": "10fedd71-02c1-4f63-a019-483d7b9e7b8e"
         }
     ],
     "hash": [
         {
-            "value": "2Wuf_uqT_D8vdSXHecl-Pjpo9OyRvRV3aKov3FWzuFU"
+            "value": "6xBZCokTpr5gMta92uHfHitaWgSubUIBgYlZ_yTNLgM"
         }
     ],
     "type": [
@@ -37,7 +37,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/3?_format=hal_json"
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "81045ffe-bcb9-4b1c-b007-8ab769b8494d"
+                        "value": "5f2ae743-378b-4b66-8ef3-79f8bd2cdeec"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
+            "path": "content\/nisl-suscipit-adipiscing-bibendum-est-ultricies-integer-quis-auctor",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/10",
+            "uri": "internal:\/node\/16",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-25T09:39:54+00:00",
+            "value": "2019-08-06T13:12:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

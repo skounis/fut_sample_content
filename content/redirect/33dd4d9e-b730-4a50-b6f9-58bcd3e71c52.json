@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/8?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/9?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 8
+            "value": 9
         }
     ],
     "uuid": [
         {
-            "value": "bedb26d1-07ff-455a-b541-85fa46e3ebfb"
+            "value": "33dd4d9e-b730-4a50-b6f9-58bcd3e71c52"
         }
     ],
     "hash": [
         {
-            "value": "jOR41RZGJqVOIdSLKHCBEQsjJ9IxKHGT8eoLCjQIiAs"
+            "value": "_Sq5y9r0SNWDJqM-QWguyi_p7dhPKZCqYs5BfbQSv4U"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                        "value": "5f2ae743-378b-4b66-8ef3-79f8bd2cdeec"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
+            "path": "content\/sit-amet-consectetur-adipiscing-elit-ut-proin-sed-libero-enim-sed-magna-eget-est-lorem",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/7",
+            "uri": "internal:\/node\/12",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-22T14:49:54+00:00",
+            "value": "2019-08-06T13:12:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

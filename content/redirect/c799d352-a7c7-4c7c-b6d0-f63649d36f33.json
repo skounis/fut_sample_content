@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/9?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/1?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 9
+            "value": 1
         }
     ],
     "uuid": [
         {
-            "value": "a0bf0b85-d515-4cee-bc44-17574873261c"
+            "value": "c799d352-a7c7-4c7c-b6d0-f63649d36f33"
         }
     ],
     "hash": [
         {
-            "value": "Kgx4THNhqsxM0lhRzT9LvQuaEcGIOqorG91jFaQwduI"
+            "value": "YwUfj4DfTt3Ei1BP-LofYJ2TZK_u6Q19xkP5zh0ahLs"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "4e7ef302-640e-4b23-ad78-67025c5d4e21"
+                        "value": "5f2ae743-378b-4b66-8ef3-79f8bd2cdeec"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus-neque",
+            "path": "content\/elit-imperdiet-dui-accumsan-sit-amet",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/6",
+            "uri": "internal:\/node\/14",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-07-22T14:49:54+00:00",
+            "value": "2019-08-06T13:12:15+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

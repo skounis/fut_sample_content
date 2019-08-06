@@ -16,11 +16,6 @@
                 "href": "http:\/\/default\/user\/5?_format=hal_json",
                 "lang": "und"
             }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
-            {
-                "href": ""
-            }
         ]
     },
     "nid": [
@@ -90,24 +85,6 @@
                 ],
                 "lang": "und"
             }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "a4206f08-6d1b-4a6f-9fb7-d19d63c3799a"
-                    }
-                ],
-                "target_revision_id": "71"
-            }
         ]
     },
     "status": [
@@ -163,7 +140,7 @@
     "path": [
         {
             "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/duis-laoreet-bibendum-finibus\/content\/nibh-mauris",
-            "pid": 29,
+            "pid": 19,
             "langcode": "und",
             "lang": "und"
         }
