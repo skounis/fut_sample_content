@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 46
+        }
+    ],
+    "uuid": [
+        {
+            "value": "cb4d52d4-0006-4e31-b0e3-91afd9307b18"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 78
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T13:42:46+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "7"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Aenean vitae luctus dolor. Duis lacinia tortor neque, feugiat dictum arcu mattis eu. Curabitur tincidunt tincidunt egestas. Curabitur et feugiat dolor, vitae consequat nisl. Etiam sed turpis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum luctus diam justo, quis consectetur turpis finibus quis. Nulla tempus leo at consequat feugiat. Nam at ipsum in ante convallis consectetur. Sed mattis, velit fringilla gravida porttitor, elit urna faucibus magna, lacinia blandit diam urna maximus nisi. Etiam pellentesque sed nisl vel ornare. Cras eget augue ac nibh sagittis ultricies. Sed congue laoreet metus, ac pulvinar ligula vestibulum eu.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Aenean vitae luctus dolor. Duis lacinia tortor neque, feugiat dictum arcu mattis eu. Curabitur tincidunt tincidunt egestas. Curabitur et feugiat dolor, vitae consequat nisl. Etiam sed turpis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum luctus diam justo, quis consectetur turpis finibus quis. Nulla tempus leo at consequat feugiat. Nam at ipsum in ante convallis consectetur. Sed mattis, velit fringilla gravida porttitor, elit urna faucibus magna, lacinia blandit diam urna maximus nisi. Etiam pellentesque sed nisl vel ornare. Cras eget augue ac nibh sagittis ultricies. Sed congue laoreet metus, ac pulvinar ligula vestibulum eu.<\/p>"
+        }
+    ]
+}

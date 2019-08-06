@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/2?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/6?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 2
+            "value": 6
         }
     ],
     "uuid": [
         {
-            "value": "200b6bad-3376-46b7-8061-8d6b7e1024f3"
+            "value": "f2f68990-1ed7-453b-808d-fbb852cbe78d"
         }
     ],
     "hash": [
         {
-            "value": "OEpzwLyWzRnHz-3dMYnyMIqOqiqdlkEoBeagjon3HGg"
+            "value": "gYikcyMbZFUhK5uyY35vXfPRuqGA7hWE-hxeSof4l9A"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "5f2ae743-378b-4b66-8ef3-79f8bd2cdeec"
+                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-et-odio-pellentesque-diam-volutpat",
+            "path": "content\/nibh-mauris-cursus-mattis-molestie-iaculis",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/17",
+            "uri": "internal:\/node\/15",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:12:15+00:00",
+            "value": "2019-08-06T13:40:36+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

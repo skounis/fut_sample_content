@@ -8,12 +8,18 @@
         },
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
             {
-                "href": "http:\/\/default\/user\/4?_format=hal_json"
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
             {
                 "href": "http:\/\/default\/user\/4?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_collection": [
+            {
+                "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json",
                 "lang": "und"
             }
         ],
@@ -35,7 +41,7 @@
     ],
     "vid": [
         {
-            "value": 38
+            "value": 39
         }
     ],
     "langcode": [
@@ -51,7 +57,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-07-25T09:55:04+00:00",
+            "value": "2019-08-06T13:42:31+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -60,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/4?_format=hal_json"
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -68,7 +74,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "6ec394d7-6db0-4d6f-b62d-1e37bf7e18e0"
+                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
                     }
                 ]
             }
@@ -91,6 +97,24 @@
                 "lang": "und"
             }
         ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_collection": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_collections"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "210d2f8d-935f-452e-857f-1d8aa8e1379b"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
             {
                 "_links": {
@@ -106,7 +130,7 @@
                         "value": "33c95f4e-020e-4689-9b11-216338e339a9"
                     }
                 ],
-                "target_revision_id": "73"
+                "target_revision_id": "77"
             }
         ]
     },
@@ -131,7 +155,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-25T09:55:04+00:00",
+            "value": "2019-08-06T13:42:31+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }

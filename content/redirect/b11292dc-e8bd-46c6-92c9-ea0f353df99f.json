@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/4?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/8?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 4
+            "value": 8
         }
     ],
     "uuid": [
         {
-            "value": "0ed966e1-b4c8-45bf-824b-05db0ab40453"
+            "value": "b11292dc-e8bd-46c6-92c9-ea0f353df99f"
         }
     ],
     "hash": [
         {
-            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
+            "value": "WcZ7EHycih8vcaaTD08VeNKNvmcbGelB7jKkFH_ZEe0"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "5f2ae743-378b-4b66-8ef3-79f8bd2cdeec"
+                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
+            "path": "content\/nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/9",
+            "uri": "internal:\/node\/7",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:12:15+00:00",
+            "value": "2019-08-06T13:40:36+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

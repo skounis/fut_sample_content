@@ -8,7 +8,7 @@
         },
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
             {
-                "href": "http:\/\/default\/user\/2?_format=hal_json"
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
@@ -17,9 +17,15 @@
                 "lang": "und"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_collection": [
             {
-                "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
+                "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "href": ""
             }
         ]
     },
@@ -35,7 +41,7 @@
     ],
     "vid": [
         {
-            "value": 26
+            "value": 41
         }
     ],
     "langcode": [
@@ -51,7 +57,7 @@
     ],
     "revision_timestamp": [
         {
-            "value": "2019-07-22T14:58:32+00:00",
+            "value": "2019-08-06T13:43:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -60,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -68,7 +74,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "726a7e28-d893-43f0-b246-6b226fb715a2"
+                        "value": "1bad2aa5-6dc7-47cd-9205-fb9280f33b16"
                     }
                 ]
             }
@@ -91,21 +97,40 @@
                 "lang": "und"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_tags": [
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_collection": [
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
+                        "href": "http:\/\/default\/taxonomy\/term\/2?_format=hal_json"
                     },
                     "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_tags"
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_collections"
                     }
                 },
                 "uuid": [
                     {
-                        "value": "86941396-8c14-42e7-a44e-3e30588dd2b0"
+                        "value": "2e92a0ca-4ba7-40a4-ba25-854c5e77160f"
                     }
-                ]
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "cc7ee127-fda1-466d-aa9d-dfebb338f015"
+                    }
+                ],
+                "target_revision_id": "79"
             }
         ]
     },
@@ -130,7 +155,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-22T14:58:32+00:00",
+            "value": "2019-08-06T13:43:03+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
