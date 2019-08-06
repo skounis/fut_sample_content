@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/3?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/10?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 3
+            "value": 10
         }
     ],
     "uuid": [
         {
-            "value": "273d1850-245a-4f72-842b-186381593200"
+            "value": "13c50f33-ce9a-4bad-ba35-c0b93717e9ca"
         }
     ],
     "hash": [
         {
-            "value": "lLrsKMmMy6cXVaOGWOSwohfxl30canbpAz9isOQjf40"
+            "value": "50f0RtjLlHfJWZkeV0hwIEFmfzcEZkiyEjuga7i1tJU"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/curabitur-iaculis-tortor-sit-amet-lacus-fringilla-sed-pellentesque-nisl-lobortis",
+            "path": "content\/arcu-dictum-varius-duis-consectetur-ac-odio-tempor-orci-dapibus-ultrices",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/5",
+            "uri": "internal:\/node\/11",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:51:27+00:00",
+            "value": "2019-08-06T14:29:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

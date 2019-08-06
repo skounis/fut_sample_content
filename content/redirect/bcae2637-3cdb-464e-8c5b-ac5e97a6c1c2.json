@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/1?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/4?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 1
+            "value": 4
         }
     ],
     "uuid": [
         {
-            "value": "4fa3da3c-d0dc-4365-a9a0-0f2fb8e8dc16"
+            "value": "bcae2637-3cdb-464e-8c5b-ac5e97a6c1c2"
         }
     ],
     "hash": [
         {
-            "value": "YwUfj4DfTt3Ei1BP-LofYJ2TZK_u6Q19xkP5zh0ahLs"
+            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/elit-imperdiet-dui-accumsan-sit-amet",
+            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/14",
+            "uri": "internal:\/node\/9",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:51:27+00:00",
+            "value": "2019-08-06T14:29:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

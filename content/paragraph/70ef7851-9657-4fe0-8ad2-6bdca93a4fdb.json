@@ -1,0 +1,86 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/webtools_uec"
+        }
+    },
+    "id": [
+        {
+            "value": 60
+        }
+    ],
+    "uuid": [
+        {
+            "value": "70ef7851-9657-4fe0-8ad2-6bdca93a4fdb"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 96
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "webtools_uec"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:57:14+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "8"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "field_code_snippet": [
+        {
+            "value": "<script type=\"application\/json\">{\r\n  \"service\": \"charts\",\r\n  \"data\": {\r\n    \"series\": [\r\n      {\r\n        \"name\": \"Series 1\",\r\n        \"data\": [\r\n          {\r\n            \"name\": \"Foo\",\r\n            \"y\": 10\r\n          },\r\n          {\r\n            \"name\": \"Bar\",\r\n            \"y\": 55\r\n          },\r\n          {\r\n            \"name\": \"Buzz\",\r\n            \"y\": 30\r\n          }\r\n        ]\r\n      }\r\n    ],\r\n    \"colors\": [\r\n      \"#466eb4\",\r\n      \"#d7642d\",\r\n      \"#e6a532\",\r\n      \"#829bcd\",\r\n      \"#e6aa82\",\r\n      \"#fae6c3\",\r\n      \"#aab9e1\"\r\n    ],\r\n    \"chart\": {\r\n      \"type\": \"area\",\r\n      \"borderColor\": \"#966BB5\"\r\n    },\r\n    \"plotOptions\": {\r\n      \"series\": {\r\n        \"stacking\": \"normal\"\r\n      }\r\n    },\r\n    \"xAxis\": {\r\n      \"type\": \"category\"\r\n    },\r\n    \"legend\": {\r\n      \"enabled\": true\r\n    }\r\n  },\r\n  \"provider\": \"highcharts\"\r\n}<\/script>"
+        }
+    ]
+}

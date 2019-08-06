@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/13?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/11?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 13
+            "value": 11
         }
     ],
     "uuid": [
         {
-            "value": "5636cd8a-5109-443a-89a1-c541ac922e43"
+            "value": "d388f223-df89-4d3a-a33d-036223905549"
         }
     ],
     "hash": [
         {
-            "value": "dSSs6gs-sh_5A5A7edY099BlTnyTkPfrhD4Zm8_aKGw"
+            "value": "2Wuf_uqT_D8vdSXHecl-Pjpo9OyRvRV3aKov3FWzuFU"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-erat-volutpat-sed-tincidunt-nunc-arcu-pretium-arcu-euismod-imperdiet-sed-nec",
+            "path": "content\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/8",
+            "uri": "internal:\/node\/10",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:51:27+00:00",
+            "value": "2019-08-06T14:29:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

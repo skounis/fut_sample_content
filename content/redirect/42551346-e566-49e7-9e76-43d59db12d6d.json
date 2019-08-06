@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/12?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/13?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 12
+            "value": 13
         }
     ],
     "uuid": [
         {
-            "value": "4a70966c-53e2-4f5f-875b-6ed7c8f8e4f6"
+            "value": "42551346-e566-49e7-9e76-43d59db12d6d"
         }
     ],
     "hash": [
         {
-            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
+            "value": "dSSs6gs-sh_5A5A7edY099BlTnyTkPfrhD4Zm8_aKGw"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
+            "path": "content\/aliquam-erat-volutpat-sed-tincidunt-nunc-arcu-pretium-arcu-euismod-imperdiet-sed-nec",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/6",
+            "uri": "internal:\/node\/8",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:51:27+00:00",
+            "value": "2019-08-06T14:29:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

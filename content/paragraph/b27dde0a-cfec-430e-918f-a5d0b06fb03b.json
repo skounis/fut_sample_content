@@ -1,0 +1,105 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_document"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_document\/fut_document": [
+            {
+                "href": "http:\/\/default\/media\/16?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 59
+        }
+    ],
+    "uuid": [
+        {
+            "value": "b27dde0a-cfec-430e-918f-a5d0b06fb03b"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 95
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_document"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T14:56:41+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "8"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_document\/fut_document": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/media\/16?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_document"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4d00efa1-bfdc-414c-ad37-b0ac927e7fc9"
+                    }
+                ]
+            }
+        ]
+    }
+}

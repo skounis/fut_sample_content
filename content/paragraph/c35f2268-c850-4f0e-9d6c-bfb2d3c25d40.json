@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 63
+        }
+    ],
+    "uuid": [
+        {
+            "value": "c35f2268-c850-4f0e-9d6c-bfb2d3c25d40"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 104
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-08-06T15:00:13+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "16"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Integer maximus aliquet justo in blandit. Cras efficitur massa lectus, quis tristique felis fringilla a. Aenean vehicula est quam, ut faucibus orci vehicula vitae. In blandit, nunc sed hendrerit dictum, metus urna euismod felis, vel condimentum felis magna in eros. Phasellus ac imperdiet libero, non ornare odio. Suspendisse euismod id sem eget pharetra. Donec auctor ex sed mauris tristique interdum. Fusce id augue sagittis, elementum sem ac, porttitor lorem.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Integer maximus aliquet justo in blandit. Cras efficitur massa lectus, quis tristique felis fringilla a. Aenean vehicula est quam, ut faucibus orci vehicula vitae. In blandit, nunc sed hendrerit dictum, metus urna euismod felis, vel condimentum felis magna in eros. Phasellus ac imperdiet libero, non ornare odio. Suspendisse euismod id sem eget pharetra. Donec auctor ex sed mauris tristique interdum. Fusce id augue sagittis, elementum sem ac, porttitor lorem.<\/p>"
+        }
+    ]
+}

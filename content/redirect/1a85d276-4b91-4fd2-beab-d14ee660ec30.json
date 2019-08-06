@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/9?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/6?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 9
+            "value": 6
         }
     ],
     "uuid": [
         {
-            "value": "da099d08-3e0a-4627-8bc8-d1129d4dae5b"
+            "value": "1a85d276-4b91-4fd2-beab-d14ee660ec30"
         }
     ],
     "hash": [
         {
-            "value": "_Sq5y9r0SNWDJqM-QWguyi_p7dhPKZCqYs5BfbQSv4U"
+            "value": "gYikcyMbZFUhK5uyY35vXfPRuqGA7hWE-hxeSof4l9A"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/sit-amet-consectetur-adipiscing-elit-ut-proin-sed-libero-enim-sed-magna-eget-est-lorem",
+            "path": "content\/nibh-mauris-cursus-mattis-molestie-iaculis",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/12",
+            "uri": "internal:\/node\/15",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:51:27+00:00",
+            "value": "2019-08-06T14:29:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

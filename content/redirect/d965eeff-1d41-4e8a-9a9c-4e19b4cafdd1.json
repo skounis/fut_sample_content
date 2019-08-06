@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/2?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/3?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 2
+            "value": 3
         }
     ],
     "uuid": [
         {
-            "value": "e4e28816-f74d-48e5-9b74-af5537a9837a"
+            "value": "d965eeff-1d41-4e8a-9a9c-4e19b4cafdd1"
         }
     ],
     "hash": [
         {
-            "value": "OEpzwLyWzRnHz-3dMYnyMIqOqiqdlkEoBeagjon3HGg"
+            "value": "lLrsKMmMy6cXVaOGWOSwohfxl30canbpAz9isOQjf40"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "2426b33e-0134-4cbe-bd0e-7a376b6e7966"
+                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-et-odio-pellentesque-diam-volutpat",
+            "path": "content\/curabitur-iaculis-tortor-sit-amet-lacus-fringilla-sed-pellentesque-nisl-lobortis",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/17",
+            "uri": "internal:\/node\/5",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T13:51:27+00:00",
+            "value": "2019-08-06T14:29:23+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

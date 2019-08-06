@@ -1,0 +1,86 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/taxonomy\/term\/5?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_tags"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/fut_tags\/parent": [
+            null
+        ]
+    },
+    "tid": [
+        {
+            "value": 5
+        }
+    ],
+    "uuid": [
+        {
+            "value": "9c1cbbac-fad5-4c52-bdad-4168b4074822"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 5
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "fut_tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-08-06T14:59:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "name": [
+        {
+            "value": "Bar",
+            "lang": "und"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/fut_tags\/parent": [
+            null
+        ]
+    },
+    "changed": [
+        {
+            "value": "2019-08-06T14:59:59+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ]
+}
