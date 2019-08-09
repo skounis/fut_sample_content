@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/1?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/4?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 1
+            "value": 4
         }
     ],
     "uuid": [
         {
-            "value": "9374adc0-6548-4593-8ec4-62b19a990d4c"
+            "value": "c45a46f6-bc37-467a-aee4-e3027c7ec253"
         }
     ],
     "hash": [
         {
-            "value": "YwUfj4DfTt3Ei1BP-LofYJ2TZK_u6Q19xkP5zh0ahLs"
+            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                        "value": "a2fea369-664e-4e34-8803-114d28902a36"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/elit-imperdiet-dui-accumsan-sit-amet",
+            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/14",
+            "uri": "internal:\/node\/9",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T14:29:23+00:00",
+            "value": "2019-08-09T08:44:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

@@ -72,6 +72,12 @@
             "lang": "und"
         }
     ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
     "field_code_snippet": [
         {
             "value": "<script type=\"application\/json\">{\r\n  \"service\": \"charts\",\r\n  \"data\": {\r\n    \"series\": [\r\n      {\r\n        \"name\": \"Series 1\",\r\n        \"data\": [\r\n          {\r\n            \"name\": \"Foo\",\r\n            \"y\": 10\r\n          },\r\n          {\r\n            \"name\": \"Bar\",\r\n            \"y\": 20\r\n          },\r\n          {\r\n            \"name\": \"Buzz\",\r\n            \"y\": 30\r\n          }\r\n        ]\r\n      }\r\n    ],\r\n    \"colors\": [\r\n      \"#466eb4\",\r\n      \"#d7642d\",\r\n      \"#e6a532\",\r\n      \"#829bcd\",\r\n      \"#e6aa82\",\r\n      \"#fae6c3\",\r\n      \"#aab9e1\"\r\n    ],\r\n    \"chart\": {\r\n      \"type\": \"area\"\r\n    },\r\n    \"plotOptions\": {\r\n      \"series\": {\r\n        \"stacking\": \"normal\"\r\n      }\r\n    },\r\n    \"xAxis\": {\r\n      \"type\": \"category\"\r\n    }\r\n  },\r\n  \"provider\": \"highcharts\"\r\n}<\/script>"

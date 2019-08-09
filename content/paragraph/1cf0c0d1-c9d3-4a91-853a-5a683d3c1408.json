@@ -72,6 +72,12 @@
             "lang": "und"
         }
     ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
     "fut_text": [
         {
             "value": "<p>Cras volutpat felis quis sem efficitur, et pulvinar massa eleifend. Aenean lacinia leo vel neque eleifend, et viverra tortor tempor. Nullam eu pellentesque nulla. Sed rutrum augue a feugiat lacinia. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed iaculis enim sit amet felis volutpat varius. Cras porttitor est id urna egestas tristique. Nam eleifend tellus sit amet eleifend dapibus. Integer sed ante ac ex iaculis pharetra et at nisl. Nunc dapibus scelerisque lectus, eget aliquet enim pretium et.<\/p>\r\n",

@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/10?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/5?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 10
+            "value": 5
         }
     ],
     "uuid": [
         {
-            "value": "13c50f33-ce9a-4bad-ba35-c0b93717e9ca"
+            "value": "8527d2ed-25e6-491e-a9da-70f23002e7ea"
         }
     ],
     "hash": [
         {
-            "value": "50f0RtjLlHfJWZkeV0hwIEFmfzcEZkiyEjuga7i1tJU"
+            "value": "6xBZCokTpr5gMta92uHfHitaWgSubUIBgYlZ_yTNLgM"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                        "value": "a2fea369-664e-4e34-8803-114d28902a36"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/arcu-dictum-varius-duis-consectetur-ac-odio-tempor-orci-dapibus-ultrices",
+            "path": "content\/nisl-suscipit-adipiscing-bibendum-est-ultricies-integer-quis-auctor",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/11",
+            "uri": "internal:\/node\/16",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T14:29:23+00:00",
+            "value": "2019-08-09T08:44:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

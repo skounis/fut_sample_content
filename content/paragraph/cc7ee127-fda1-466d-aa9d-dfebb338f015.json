@@ -72,6 +72,12 @@
             "lang": "und"
         }
     ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
     "fut_text": [
         {
             "value": "<p>Donec laoreet ipsum arcu, in malesuada ligula blandit vel. Donec luctus felis quis arcu interdum imperdiet. Aenean id leo facilisis, tincidunt enim vitae, venenatis metus. Nullam mattis aliquet est, ut faucibus justo ultricies tincidunt. Nam egestas dui massa. In luctus, ligula in rutrum varius, ipsum nibh molestie lectus, a molestie mauris diam sit amet enim. In vulputate tristique sagittis. Donec consequat fermentum diam quis eleifend. In id lorem nibh. Mauris gravida euismod turpis, id scelerisque est auctor in. In venenatis sagittis augue sed laoreet. Ut ultricies porttitor lectus semper laoreet. Nulla erat risus, vulputate non purus in, consectetur viverra quam. Etiam imperdiet arcu velit, gravida pulvinar elit viverra sit amet. Aenean a erat lorem.<\/p>\r\n",
