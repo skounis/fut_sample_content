@@ -77,6 +77,12 @@
             "lang": "und"
         }
     ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
     "_embedded": {
         "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_document\/fut_document": [
             {

@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/11?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/12?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 11
+            "value": 12
         }
     ],
     "uuid": [
         {
-            "value": "d388f223-df89-4d3a-a33d-036223905549"
+            "value": "94b8523e-11f5-45f0-ac30-31403e026a73"
         }
     ],
     "hash": [
         {
-            "value": "2Wuf_uqT_D8vdSXHecl-Pjpo9OyRvRV3aKov3FWzuFU"
+            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                        "value": "a2fea369-664e-4e34-8803-114d28902a36"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
+            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/10",
+            "uri": "internal:\/node\/6",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T14:29:23+00:00",
+            "value": "2019-08-09T08:44:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

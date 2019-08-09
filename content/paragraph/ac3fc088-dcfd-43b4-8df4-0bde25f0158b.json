@@ -4,51 +4,51 @@
             "href": ""
         },
         "type": {
-            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_functional_navigation_link"
         }
     },
     "id": [
         {
-            "value": 51
+            "value": 52
         }
     ],
     "uuid": [
         {
-            "value": "d3109160-8e54-486e-8d83-e70b5bbbf205"
+            "value": "ac3fc088-dcfd-43b4-8df4-0bde25f0158b"
         }
     ],
     "revision_id": [
         {
-            "value": 83
+            "value": 84
         }
     ],
     "langcode": [
         {
-            "value": "und",
-            "lang": "und"
+            "value": "en",
+            "lang": "en"
         }
     ],
     "type": [
         {
-            "target_id": "fut_text"
+            "target_id": "fut_functional_navigation_link"
         }
     ],
     "status": [
         {
             "value": true,
-            "lang": "und"
+            "lang": "en"
         }
     ],
     "created": [
         {
-            "value": "2019-08-06T13:55:45+00:00",
-            "lang": "und",
+            "value": "2019-08-09T08:44:08+00:00",
+            "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "parent_id": [
         {
-            "value": "3"
+            "value": "1"
         }
     ],
     "parent_type": [
@@ -58,7 +58,7 @@
     ],
     "parent_field_name": [
         {
-            "value": "fut_description"
+            "value": "fut_navigation_menu"
         }
     ],
     "behavior_settings": [
@@ -69,20 +69,18 @@
     "default_langcode": [
         {
             "value": true,
-            "lang": "und"
+            "lang": "en"
         }
     ],
     "revision_translation_affected": [
         {
             "value": true,
-            "lang": "und"
+            "lang": "en"
         }
     ],
-    "fut_text": [
+    "fut_predefined_link": [
         {
-            "value": "<p>Nam lacinia ante ligula, non tincidunt est malesuada sed<\/p>\r\n",
-            "format": "fut_basic_html",
-            "processed": "<p>Nam lacinia ante ligula, non tincidunt est malesuada sed<\/p>"
+            "value": "about"
         }
     ]
 }

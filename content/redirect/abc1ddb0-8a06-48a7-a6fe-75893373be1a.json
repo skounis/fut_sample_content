@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/4?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/9?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 4
+            "value": 9
         }
     ],
     "uuid": [
         {
-            "value": "bcae2637-3cdb-464e-8c5b-ac5e97a6c1c2"
+            "value": "abc1ddb0-8a06-48a7-a6fe-75893373be1a"
         }
     ],
     "hash": [
         {
-            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
+            "value": "_Sq5y9r0SNWDJqM-QWguyi_p7dhPKZCqYs5BfbQSv4U"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "0a032206-9be0-41e9-a2b8-109abe51e238"
+                        "value": "a2fea369-664e-4e34-8803-114d28902a36"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
+            "path": "content\/sit-amet-consectetur-adipiscing-elit-ut-proin-sed-libero-enim-sed-magna-eget-est-lorem",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/9",
+            "uri": "internal:\/node\/12",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-06T14:29:23+00:00",
+            "value": "2019-08-09T08:44:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
