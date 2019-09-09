@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-5?_format=hal_json"
+            "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/content\/aliquam-erat-volutpat-sed?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
@@ -222,7 +222,7 @@
     ],
     "path": [
         {
-            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-5",
+            "alias": "\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/content\/aliquam-erat-volutpat-sed",
             "pid": 28,
             "langcode": "und",
             "lang": "und"
@@ -247,16 +247,16 @@
     ],
     "fut_event_coordinates": [
         {
-            "value": "POINT(24.885500 41.139042)",
+            "value": "POINT(24.885500 41.139051)",
             "geo_type": "Point",
-            "lat": 41.139042,
+            "lat": 41.139051,
             "lon": 24.8855,
             "left": 24.8855,
-            "top": 41.139042,
+            "top": 41.139051,
             "right": 24.8855,
-            "bottom": 41.139042,
-            "geohash": "sx3dn31h61m8",
-            "latlon": "41.139042,24.8855"
+            "bottom": 41.139051,
+            "geohash": "sx3dn31h64vw",
+            "latlon": "41.139051,24.8855"
         }
     ],
     "fut_event_date": [

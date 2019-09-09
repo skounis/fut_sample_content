@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-2?_format=hal_json"
+            "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/content\/nisl-suscipit-adipiscing?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
@@ -181,8 +181,8 @@
     ],
     "path": [
         {
-            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-2",
-            "pid": 15,
+            "alias": "\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/content\/nisl-suscipit-adipiscing",
+            "pid": 24,
             "langcode": "und",
             "lang": "und"
         }

@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/morbi-convallis-lectus-et-tempor-purus\/content\/sit-amet?_format=hal_json"
+            "href": "http:\/\/default\/group\/morbi-convallis-lectus-et-tempor-purus\/content\/sit-amet-consectetur-adipiscing-elit-ut-proin?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
@@ -162,8 +162,8 @@
     ],
     "path": [
         {
-            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/morbi-convallis-lectus-et-tempor-purus\/content\/sit-amet",
-            "pid": 23,
+            "alias": "\/group\/morbi-convallis-lectus-et-tempor-purus\/content\/sit-amet-consectetur-adipiscing-elit-ut-proin",
+            "pid": 14,
             "langcode": "und",
             "lang": "und"
         }

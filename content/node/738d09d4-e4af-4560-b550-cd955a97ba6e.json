@@ -206,16 +206,16 @@
     ],
     "fut_event_coordinates": [
         {
-            "value": "POINT(24.885500 41.139042)",
+            "value": "POINT(24.885500 41.139051)",
             "geo_type": "Point",
-            "lat": 41.139042,
+            "lat": 41.139051,
             "lon": 24.8855,
             "left": 24.8855,
-            "top": 41.139042,
+            "top": 41.139051,
             "right": 24.8855,
-            "bottom": 41.139042,
-            "geohash": "sx3dn31h61m8",
-            "latlon": "41.139042,24.8855"
+            "bottom": 41.139051,
+            "geohash": "sx3dn31h64vw",
+            "latlon": "41.139051,24.8855"
         }
     ],
     "fut_event_date": [

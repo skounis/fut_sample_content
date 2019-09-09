@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+            "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum\/content\/arcu-dictum-varius-duis?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
@@ -162,8 +162,8 @@
     ],
     "path": [
         {
-            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum",
-            "pid": 24,
+            "alias": "\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum\/content\/arcu-dictum-varius-duis",
+            "pid": 13,
             "langcode": "und",
             "lang": "und"
         }

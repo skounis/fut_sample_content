@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/5?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/19?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 5
+            "value": 19
         }
     ],
     "uuid": [
         {
-            "value": "8527d2ed-25e6-491e-a9da-70f23002e7ea"
+            "value": "33da355b-8027-4c0d-85ba-3bf0126fae42"
         }
     ],
     "hash": [
         {
-            "value": "6xBZCokTpr5gMta92uHfHitaWgSubUIBgYlZ_yTNLgM"
+            "value": "2Wuf_uqT_D8vdSXHecl-Pjpo9OyRvRV3aKov3FWzuFU"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "a2fea369-664e-4e34-8803-114d28902a36"
+                        "value": "4d59e27f-d4fa-4492-b0fe-8602410b88a3"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/nisl-suscipit-adipiscing-bibendum-est-ultricies-integer-quis-auctor",
+            "path": "content\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/16",
+            "uri": "internal:\/node\/10",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-08-09T08:44:08+00:00",
+            "value": "2019-09-09T12:40:43+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
