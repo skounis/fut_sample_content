@@ -1,0 +1,164 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/maecenas-eget-elementum-sem?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
+            {
+                "href": ""
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2019-09\/sub-group-2.png"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 6
+        }
+    ],
+    "uuid": [
+        {
+            "value": "4b668f8d-cb35-448e-8f4a-cb5adc9a1428"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open"
+        }
+    ],
+    "label": [
+        {
+            "value": "Maecenas eget elementum sem. Praesent in arcu at metus luctus rutrum at non libero. ",
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "83413b4c-586e-4d9b-9d1f-79da856bbd02"
+                    }
+                ],
+                "target_revision_id": "122"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2019-09\/sub-group-2.png"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "86e22d48-919d-476e-965e-00ab60c4dc05"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_functional_navigation_link"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "2bfcfc51-2c1d-4516-b275-580382bf04fb"
+                    }
+                ],
+                "target_revision_id": "123"
+            }
+        ]
+    },
+    "created": [
+        {
+            "value": "2019-09-09T14:56:48+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-09-09T14:57:02+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/maecenas-eget-elementum-sem",
+            "pid": 35,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_short_name": [
+        {
+            "value": "Praesent in arcu"
+        }
+    ]
+}

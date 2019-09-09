@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/35?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/45?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 35
+            "value": 45
         }
     ],
     "uuid": [
         {
-            "value": "de4be7df-6d1b-422b-952e-e17ecb0e89cf"
+            "value": "bdb9b653-b8fc-4cdf-8d25-64e83ea1dfc1"
         }
     ],
     "hash": [
         {
-            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
+            "value": "2Wuf_uqT_D8vdSXHecl-Pjpo9OyRvRV3aKov3FWzuFU"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
+                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
+            "path": "content\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/9",
+            "uri": "internal:\/node\/10",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T13:19:18+00:00",
+            "value": "2019-09-09T14:51:31+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

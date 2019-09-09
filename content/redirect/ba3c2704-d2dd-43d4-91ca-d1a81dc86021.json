@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/33?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/51?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 33
+            "value": 51
         }
     ],
     "uuid": [
         {
-            "value": "6d534892-43e6-48d5-80c8-f36de5374535"
+            "value": "ba3c2704-d2dd-43d4-91ca-d1a81dc86021"
         }
     ],
     "hash": [
         {
-            "value": "OEpzwLyWzRnHz-3dMYnyMIqOqiqdlkEoBeagjon3HGg"
+            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
+                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-et-odio-pellentesque-diam-volutpat",
+            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/17",
+            "uri": "internal:\/node\/6",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T13:19:18+00:00",
+            "value": "2019-09-09T14:51:31+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 84
+        }
+    ],
+    "uuid": [
+        {
+            "value": "4857a2fe-2d2a-4ef4-a164-6855038d9d41"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 126
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-09-09T14:58:24+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "8"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "group"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_description"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Donec imperdiet, justo sed scelerisque commodo, sapien diam accumsan lorem, a ultricies dolor tellus nec ligula. Donec quis nunc turpis. Phasellus suscipit aliquam diam ut iaculis. Quisque sed orci convallis, congue urna ut, suscipit ex. Integer a dolor risus. Nulla sodales mollis sodales. Sed et sem mi. Donec arcu diam, luctus vitae magna et, pulvinar congue sem. Nullam molestie rhoncus eros, sit amet congue tortor varius sed.<\/p>\r\n\r\n<p>Nulla a nisi ac justo consectetur ultricies. Vestibulum fermentum aliquam commodo. Mauris facilisis elit vitae quam pellentesque, sit amet pellentesque risus molestie. Integer sed hendrerit sapien, sit amet pellentesque nisi. Fusce porta volutpat congue. Integer iaculis erat nibh, id facilisis turpis condimentum et. Phasellus vulputate lectus tortor, quis sollicitudin elit ornare id. Suspendisse aliquet nibh vitae nisi cursus imperdiet volutpat et nisl. Vivamus placerat vitae massa non feugiat. Mauris et pulvinar massa. In hac habitasse platea dictumst. Curabitur nec tincidunt est, a pharetra est. Maecenas eget elementum sem. Praesent in arcu at metus luctus rutrum at non libero.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Donec imperdiet, justo sed scelerisque commodo, sapien diam accumsan lorem, a ultricies dolor tellus nec ligula. Donec quis nunc turpis. Phasellus suscipit aliquam diam ut iaculis. Quisque sed orci convallis, congue urna ut, suscipit ex. Integer a dolor risus. Nulla sodales mollis sodales. Sed et sem mi. Donec arcu diam, luctus vitae magna et, pulvinar congue sem. Nullam molestie rhoncus eros, sit amet congue tortor varius sed.<\/p>\n\n<p>Nulla a nisi ac justo consectetur ultricies. Vestibulum fermentum aliquam commodo. Mauris facilisis elit vitae quam pellentesque, sit amet pellentesque risus molestie. Integer sed hendrerit sapien, sit amet pellentesque nisi. Fusce porta volutpat congue. Integer iaculis erat nibh, id facilisis turpis condimentum et. Phasellus vulputate lectus tortor, quis sollicitudin elit ornare id. Suspendisse aliquet nibh vitae nisi cursus imperdiet volutpat et nisl. Vivamus placerat vitae massa non feugiat. Mauris et pulvinar massa. In hac habitasse platea dictumst. Curabitur nec tincidunt est, a pharetra est. Maecenas eget elementum sem. Praesent in arcu at metus luctus rutrum at non libero.<\/p>"
+        }
+    ]
+}

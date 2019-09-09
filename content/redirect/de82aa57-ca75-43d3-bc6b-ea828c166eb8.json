@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/31?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/44?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 31
+            "value": 44
         }
     ],
     "uuid": [
         {
-            "value": "e8019dc1-56cd-44c9-9187-b04252d6066b"
+            "value": "de82aa57-ca75-43d3-bc6b-ea828c166eb8"
         }
     ],
     "hash": [
         {
-            "value": "50f0RtjLlHfJWZkeV0hwIEFmfzcEZkiyEjuga7i1tJU"
+            "value": "gYikcyMbZFUhK5uyY35vXfPRuqGA7hWE-hxeSof4l9A"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
+                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/arcu-dictum-varius-duis-consectetur-ac-odio-tempor-orci-dapibus-ultrices",
+            "path": "content\/nibh-mauris-cursus-mattis-molestie-iaculis",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/11",
+            "uri": "internal:\/node\/15",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T13:19:18+00:00",
+            "value": "2019-09-09T14:51:31+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

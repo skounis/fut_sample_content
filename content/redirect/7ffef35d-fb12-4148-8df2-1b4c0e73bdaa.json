@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/28?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/41?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 28
+            "value": 41
         }
     ],
     "uuid": [
         {
-            "value": "54a4c3e8-dcb1-4b39-9774-633a3fdbff1c"
+            "value": "7ffef35d-fb12-4148-8df2-1b4c0e73bdaa"
         }
     ],
     "hash": [
         {
-            "value": "KYRy_KTaBHSTmhz3cTKurUcgKedzUmPDi02MX8EzHCA"
+            "value": "YwUfj4DfTt3Ei1BP-LofYJ2TZK_u6Q19xkP5zh0ahLs"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
+                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/pulvinar-sapien-et-ligula-ullamcorper-malesuada-proin-arcu-non-odio-euismod-lacinia",
+            "path": "content\/elit-imperdiet-dui-accumsan-sit-amet",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/13",
+            "uri": "internal:\/node\/14",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T13:19:18+00:00",
+            "value": "2019-09-09T14:51:31+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
