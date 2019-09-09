@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/duis-laoreet-bibendum-finibus\/content\/nibh-mauris?_format=hal_json"
+            "href": "http:\/\/default\/group\/duis-laoreet-bibendum-finibus\/content\/nibh-mauris-cursus-mattis-molestie-iaculis?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
@@ -139,8 +139,8 @@
     ],
     "path": [
         {
-            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/duis-laoreet-bibendum-finibus\/content\/nibh-mauris",
-            "pid": 19,
+            "alias": "\/group\/duis-laoreet-bibendum-finibus\/content\/nibh-mauris-cursus-mattis-molestie-iaculis",
+            "pid": 14,
             "langcode": "und",
             "lang": "und"
         }

@@ -1,0 +1,86 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_functional_navigation_link"
+        }
+    },
+    "id": [
+        {
+            "value": 68
+        }
+    ],
+    "uuid": [
+        {
+            "value": "e32d5ff3-a68b-47d0-a98d-8202fe6788b4"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 110
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_functional_navigation_link"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-09-09T12:40:43+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "4"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "group"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_navigation_menu"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "fut_predefined_link": [
+        {
+            "value": "about"
+        }
+    ]
+}

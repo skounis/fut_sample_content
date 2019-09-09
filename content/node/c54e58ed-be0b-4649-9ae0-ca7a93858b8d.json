@@ -1,0 +1,181 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/content\/about-futurium?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 18
+        }
+    ],
+    "uuid": [
+        {
+            "value": "c54e58ed-be0b-4649-9ae0-ca7a93858b8d"
+        }
+    ],
+    "vid": [
+        {
+            "value": 54
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_post"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-09-09T13:31:56+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_post\/fut_content": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "75532243-afc4-411c-a68a-04968987baa0"
+                    }
+                ],
+                "target_revision_id": "115"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "About Futurium",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-09-09T13:25:23+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-09-09T13:31:56+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/content\/about-futurium",
+            "pid": 1,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "fut_comments": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 1568035916,
+            "last_comment_name": null,
+            "last_comment_uid": 1,
+            "comment_count": 0
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 73
+        }
+    ],
+    "uuid": [
+        {
+            "value": "75532243-afc4-411c-a68a-04968987baa0"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 115
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-09-09T13:31:56+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "18"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus magna, fermentum non euismod sed, suscipit a erat. Pellentesque in orci ut justo iaculis finibus. Nulla vulputate purus sed orci rhoncus facilisis. Etiam ut eros sagittis, ultrices ex non, fringilla eros. Integer bibendum mauris ligula, ac eleifend nisi sagittis vitae. Aenean in pellentesque sem, a mollis tellus. In odio dui, dictum at tristique sit amet, aliquet in felis. Suspendisse pretium orci magna, at tempor nisl ultricies nec. Mauris eleifend cursus nisl, eget cursus ex interdum consectetur. Aenean ac nisl ac diam pretium semper. Ut purus ligula, imperdiet vitae sem quis, maximus interdum metus. Mauris aliquet tempor finibus.<\/p>\r\n\r\n<p>Nunc at purus eu nisl laoreet sollicitudin. Curabitur pellentesque ante nisi. In ultricies nec libero sit amet aliquam. Cras lobortis ultrices elit et ornare. Praesent ac neque fringilla turpis laoreet hendrerit sit amet at justo. Donec nec risus auctor, scelerisque arcu in, tincidunt urna. Curabitur vehicula lacinia maximus. Quisque quis tellus non ante tincidunt molestie et eget sapien. Sed et pretium sapien.<\/p>\r\n\r\n<p>Suspendisse pellentesque et enim eu fermentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam malesuada ultrices justo, ac vulputate justo commodo id. Curabitur vestibulum tristique fringilla. Aliquam erat volutpat. Nunc et augue non lacus accumsan blandit nec vitae libero. Morbi bibendum dapibus eros hendrerit pellentesque. Fusce ut erat facilisis, pulvinar orci lacinia, hendrerit lectus. Etiam nec semper est, in dapibus nunc. Ut accumsan elementum eleifend.<\/p>\r\n\r\n<p>Donec imperdiet, justo sed scelerisque commodo, sapien diam accumsan lorem, a ultricies dolor tellus nec ligula. Donec quis nunc turpis. Phasellus suscipit aliquam diam ut iaculis. Quisque sed orci convallis, congue urna ut, suscipit ex. Integer a dolor risus. Nulla sodales mollis sodales. Sed et sem mi. Donec arcu diam, luctus vitae magna et, pulvinar congue sem. Nullam molestie rhoncus eros, sit amet congue tortor varius sed.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus magna, fermentum non euismod sed, suscipit a erat. Pellentesque in orci ut justo iaculis finibus. Nulla vulputate purus sed orci rhoncus facilisis. Etiam ut eros sagittis, ultrices ex non, fringilla eros. Integer bibendum mauris ligula, ac eleifend nisi sagittis vitae. Aenean in pellentesque sem, a mollis tellus. In odio dui, dictum at tristique sit amet, aliquet in felis. Suspendisse pretium orci magna, at tempor nisl ultricies nec. Mauris eleifend cursus nisl, eget cursus ex interdum consectetur. Aenean ac nisl ac diam pretium semper. Ut purus ligula, imperdiet vitae sem quis, maximus interdum metus. Mauris aliquet tempor finibus.<\/p>\n\n<p>Nunc at purus eu nisl laoreet sollicitudin. Curabitur pellentesque ante nisi. In ultricies nec libero sit amet aliquam. Cras lobortis ultrices elit et ornare. Praesent ac neque fringilla turpis laoreet hendrerit sit amet at justo. Donec nec risus auctor, scelerisque arcu in, tincidunt urna. Curabitur vehicula lacinia maximus. Quisque quis tellus non ante tincidunt molestie et eget sapien. Sed et pretium sapien.<\/p>\n\n<p>Suspendisse pellentesque et enim eu fermentum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam malesuada ultrices justo, ac vulputate justo commodo id. Curabitur vestibulum tristique fringilla. Aliquam erat volutpat. Nunc et augue non lacus accumsan blandit nec vitae libero. Morbi bibendum dapibus eros hendrerit pellentesque. Fusce ut erat facilisis, pulvinar orci lacinia, hendrerit lectus. Etiam nec semper est, in dapibus nunc. Ut accumsan elementum eleifend.<\/p>\n\n<p>Donec imperdiet, justo sed scelerisque commodo, sapien diam accumsan lorem, a ultricies dolor tellus nec ligula. Donec quis nunc turpis. Phasellus suscipit aliquam diam ut iaculis. Quisque sed orci convallis, congue urna ut, suscipit ex. Integer a dolor risus. Nulla sodales mollis sodales. Sed et sem mi. Donec arcu diam, luctus vitae magna et, pulvinar congue sem. Nullam molestie rhoncus eros, sit amet congue tortor varius sed.<\/p>"
+        }
+    ]
+}

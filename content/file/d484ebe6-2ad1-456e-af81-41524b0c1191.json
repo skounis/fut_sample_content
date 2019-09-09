@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/2019-09\/sub-group-3.png"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 29
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d484ebe6-2ad1-456e-af81-41524b0c1191"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "sub-group-3.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-09\/sub-group-3.png",
+            "url": "\/sites\/default\/files\/2019-09\/sub-group-3.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 19930
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-09-09T15:05:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-09-09T15:06:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

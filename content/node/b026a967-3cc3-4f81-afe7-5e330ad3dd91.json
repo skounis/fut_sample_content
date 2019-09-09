@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/http%3A\/lu.dev.europa.eu\/futuriumd8\/web\/group\/duis-laoreet-bibendum-finibus\/content\/elit-imperdiet?_format=hal_json"
+            "href": "http:\/\/default\/group\/duis-laoreet-bibendum-finibus\/content\/elit-imperdiet-dui-accumsan-sit-amet?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
@@ -162,8 +162,8 @@
     ],
     "path": [
         {
-            "alias": "\/http:\/lu.dev.europa.eu\/futuriumd8\/web\/group\/duis-laoreet-bibendum-finibus\/content\/elit-imperdiet",
-            "pid": 4,
+            "alias": "\/group\/duis-laoreet-bibendum-finibus\/content\/elit-imperdiet-dui-accumsan-sit-amet",
+            "pid": 11,
             "langcode": "und",
             "lang": "und"
         }
