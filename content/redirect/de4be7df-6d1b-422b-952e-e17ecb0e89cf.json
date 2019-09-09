@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/18?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/35?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 18
+            "value": 35
         }
     ],
     "uuid": [
         {
-            "value": "1e38cf11-9a23-4239-8fcd-0dcc1e427722"
+            "value": "de4be7df-6d1b-422b-952e-e17ecb0e89cf"
         }
     ],
     "hash": [
         {
-            "value": "50f0RtjLlHfJWZkeV0hwIEFmfzcEZkiyEjuga7i1tJU"
+            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "4d59e27f-d4fa-4492-b0fe-8602410b88a3"
+                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/arcu-dictum-varius-duis-consectetur-ac-odio-tempor-orci-dapibus-ultrices",
+            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/11",
+            "uri": "internal:\/node\/9",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T12:40:43+00:00",
+            "value": "2019-09-09T13:19:18+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

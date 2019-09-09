@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/22?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/36?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 22
+            "value": 36
         }
     ],
     "uuid": [
         {
-            "value": "e792f61a-3198-48e8-bdfb-947ebbea2a7c"
+            "value": "2fa98dc5-7ddc-4b58-a2ed-a062bf5c837a"
         }
     ],
     "hash": [
         {
-            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
+            "value": "6xBZCokTpr5gMta92uHfHitaWgSubUIBgYlZ_yTNLgM"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "4d59e27f-d4fa-4492-b0fe-8602410b88a3"
+                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
+            "path": "content\/nisl-suscipit-adipiscing-bibendum-est-ultricies-integer-quis-auctor",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/9",
+            "uri": "internal:\/node\/16",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T12:40:43+00:00",
+            "value": "2019-09-09T13:19:18+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
