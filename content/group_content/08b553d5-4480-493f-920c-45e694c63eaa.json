@@ -91,7 +91,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
                     }
                 ],
                 "lang": "und"
@@ -113,7 +113,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-25T09:18:57+00:00",
+            "value": "2019-09-20T10:00:59+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -135,6 +135,9 @@
     "group_roles": [
         {
             "target_id": "fut_open-editor"
+        },
+        {
+            "target_id": "fut_open-moderator"
         }
     ]
 }

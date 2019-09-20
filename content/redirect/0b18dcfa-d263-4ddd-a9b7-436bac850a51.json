@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/48?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/65?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 48
+            "value": 65
         }
     ],
     "uuid": [
         {
-            "value": "e047ff7f-04d1-4f41-9140-ca5038b8a7eb"
+            "value": "0b18dcfa-d263-4ddd-a9b7-436bac850a51"
         }
     ],
     "hash": [
         {
-            "value": "GgjP0Ju5Qv0R8YGuNFRNdQBX5FbIBJuw8sR3AQ6niD4"
+            "value": "JhK-D74JQqI6pP6Zk9I4l7ysoy0jhbf4t7znnGm9-d8"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",
+            "path": "group\/mauris-aliquet-tempor-finibus",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/9",
+            "uri": "internal:\/group\/7",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T14:51:31+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/52?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/67?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 52
+            "value": 67
         }
     ],
     "uuid": [
         {
-            "value": "0098d227-da6e-4f53-b8ce-1008fdf770f2"
+            "value": "c96bec83-f707-4ac5-8f39-f634dc5ac581"
         }
     ],
     "hash": [
         {
-            "value": "dSSs6gs-sh_5A5A7edY099BlTnyTkPfrhD4Zm8_aKGw"
+            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/aliquam-erat-volutpat-sed-tincidunt-nunc-arcu-pretium-arcu-euismod-imperdiet-sed-nec",
+            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/8",
+            "uri": "internal:\/node\/6",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T14:51:31+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/45?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/57?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 45
+            "value": 57
         }
     ],
     "uuid": [
         {
-            "value": "bdb9b653-b8fc-4cdf-8d25-64e83ea1dfc1"
+            "value": "0c782ac0-e015-4a8c-9556-e0de6e5b6c43"
         }
     ],
     "hash": [
         {
-            "value": "2Wuf_uqT_D8vdSXHecl-Pjpo9OyRvRV3aKov3FWzuFU"
+            "value": "_Sq5y9r0SNWDJqM-QWguyi_p7dhPKZCqYs5BfbQSv4U"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
+            "path": "content\/sit-amet-consectetur-adipiscing-elit-ut-proin-sed-libero-enim-sed-magna-eget-est-lorem",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/10",
+            "uri": "internal:\/node\/12",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T14:51:31+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

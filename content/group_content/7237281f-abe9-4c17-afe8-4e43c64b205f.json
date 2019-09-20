@@ -1,19 +1,19 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/2\/member\/7?_format=hal_json"
+            "href": "http:\/\/default\/group\/1\/member\/24?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
         },
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
             {
-                "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
             {
-                "href": "http:\/\/default\/user\/7?_format=hal_json"
+                "href": "http:\/\/default\/user\/3?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
@@ -25,12 +25,12 @@
     },
     "id": [
         {
-            "value": 7
+            "value": 24
         }
     ],
     "uuid": [
         {
-            "value": "e6ed5de3-a9ab-4dd1-bfc2-8cb667b303cc"
+            "value": "7237281f-abe9-4c17-afe8-4e43c64b205f"
         }
     ],
     "langcode": [
@@ -49,7 +49,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                        "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -57,7 +57,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "cb9ee0ab-b87a-4e9b-a1bf-0cb5c7d7e737"
+                        "value": "5aae6242-97b2-4edd-b87d-02190849ce8d"
                     }
                 ]
             }
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/7?_format=hal_json"
+                        "href": "http:\/\/default\/user\/3?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -74,7 +74,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "ee9f3009-a97e-46fd-b3a9-5986410dd479"
+                        "value": "81045ffe-bcb9-4b1c-b007-8ab769b8494d"
                     }
                 ]
             }
@@ -100,28 +100,28 @@
     },
     "label": [
         {
-            "value": "ebling",
+            "value": "darell",
             "lang": "und"
         }
     ],
     "created": [
         {
-            "value": "2019-07-25T08:45:03+00:00",
+            "value": "2019-09-20T09:58:23+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-07-25T08:45:03+00:00",
+            "value": "2019-09-20T09:59:23+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "path": [
         {
-            "alias": "\/group\/2\/member\/7",
-            "pid": 9,
+            "alias": "\/group\/1\/member\/24",
+            "pid": 45,
             "langcode": "und",
             "lang": "und"
         }
@@ -134,7 +134,13 @@
     ],
     "group_roles": [
         {
+            "target_id": "fut_open-editor"
+        },
+        {
             "target_id": "fut_open-manager"
+        },
+        {
+            "target_id": "fut_open-moderator"
         }
     ]
 }

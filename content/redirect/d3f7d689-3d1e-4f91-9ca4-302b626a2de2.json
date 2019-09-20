@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/42?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/62?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 42
+            "value": 62
         }
     ],
     "uuid": [
         {
-            "value": "bd88f1dd-209d-42e8-8d14-77a13cb3bc46"
+            "value": "d3f7d689-3d1e-4f91-9ca4-302b626a2de2"
         }
     ],
     "hash": [
         {
-            "value": "_Sq5y9r0SNWDJqM-QWguyi_p7dhPKZCqYs5BfbQSv4U"
+            "value": "KM5a-D-tomrSFLd-3IlmTp_FFdUf1JR9sPwgTc_HHI4"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/sit-amet-consectetur-adipiscing-elit-ut-proin-sed-libero-enim-sed-magna-eget-est-lorem",
+            "path": "group\/curabitur-vestibulum-tristique-fringilla",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/12",
+            "uri": "internal:\/group\/5",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T14:51:31+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

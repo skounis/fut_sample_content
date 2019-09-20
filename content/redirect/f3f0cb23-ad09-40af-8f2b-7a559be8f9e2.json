@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/44?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/54?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 44
+            "value": 54
         }
     ],
     "uuid": [
         {
-            "value": "de82aa57-ca75-43d3-bc6b-ea828c166eb8"
+            "value": "f3f0cb23-ad09-40af-8f2b-7a559be8f9e2"
         }
     ],
     "hash": [
         {
-            "value": "gYikcyMbZFUhK5uyY35vXfPRuqGA7hWE-hxeSof4l9A"
+            "value": "YwUfj4DfTt3Ei1BP-LofYJ2TZK_u6Q19xkP5zh0ahLs"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/nibh-mauris-cursus-mattis-molestie-iaculis",
+            "path": "content\/elit-imperdiet-dui-accumsan-sit-amet",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/15",
+            "uri": "internal:\/node\/14",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T14:51:31+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

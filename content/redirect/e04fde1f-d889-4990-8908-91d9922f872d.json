@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/40?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/53?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,12 +14,12 @@
     },
     "rid": [
         {
-            "value": 40
+            "value": 53
         }
     ],
     "uuid": [
         {
-            "value": "fcaf0e0e-407a-4cbf-8368-d0db07ae7c40"
+            "value": "e04fde1f-d889-4990-8908-91d9922f872d"
         }
     ],
     "hash": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
                     }
                 ]
             }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-09T14:51:31+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

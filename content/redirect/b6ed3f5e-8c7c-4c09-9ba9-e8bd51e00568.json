@@ -1,34 +1,39 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/sites\/default\/files\/media-icons\/generic\/generic.png"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/56?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
         },
-        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
             {
                 "href": "http:\/\/default\/user\/1?_format=hal_json"
             }
         ]
     },
-    "fid": [
+    "rid": [
         {
-            "value": 19
+            "value": 56
         }
     ],
     "uuid": [
         {
-            "value": "c2e0490d-c441-4afc-987d-f0770da7ace7"
+            "value": "b6ed3f5e-8c7c-4c09-9ba9-e8bd51e00568"
         }
     ],
-    "langcode": [
+    "hash": [
         {
-            "value": "en"
+            "value": "gYikcyMbZFUhK5uyY35vXfPRuqGA7hWE-hxeSof4l9A"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
         }
     ],
     "_embedded": {
-        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
             {
                 "_links": {
                     "self": {
@@ -46,41 +51,32 @@
             }
         ]
     },
-    "filename": [
+    "redirect_source": [
         {
-            "value": "generic.png"
+            "path": "content\/nibh-mauris-cursus-mattis-molestie-iaculis",
+            "query": []
         }
     ],
-    "uri": [
+    "redirect_redirect": [
         {
-            "value": "public:\/\/media-icons\/generic\/generic.png",
-            "url": "\/sites\/default\/files\/media-icons\/generic\/generic.png"
+            "uri": "internal:\/node\/15",
+            "title": null,
+            "options": []
         }
     ],
-    "filemime": [
+    "language": [
         {
-            "value": "image\/png"
+            "value": "und"
         }
     ],
-    "filesize": [
+    "status_code": [
         {
-            "value": 3900
-        }
-    ],
-    "status": [
-        {
-            "value": true
+            "value": 301
         }
     ],
     "created": [
         {
-            "value": "2019-08-06T14:38:17+00:00",
-            "format": "Y-m-d\\TH:i:sP"
-        }
-    ],
-    "changed": [
-        {
-            "value": "2019-08-06T14:38:17+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
