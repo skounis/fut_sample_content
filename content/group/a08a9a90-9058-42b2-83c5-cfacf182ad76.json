@@ -12,11 +12,6 @@
                 "lang": "und"
             }
         ],
-        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
-            {
-                "href": ""
-            }
-        ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
             {
                 "href": "http:\/\/default\/sites\/default\/files\/2019-09\/sub-group-3.png"
@@ -68,28 +63,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "8440db90-98b5-4c2e-843c-5372ae822f90"
+                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
                     }
                 ],
                 "lang": "und"
-            }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "4857a2fe-2d2a-4ef4-a164-6855038d9d41"
-                    }
-                ],
-                "target_revision_id": "126"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
@@ -121,10 +98,10 @@
                 },
                 "uuid": [
                     {
-                        "value": "50092959-a201-4d39-bb1e-f0345b902626"
+                        "value": "710fd4ec-e5bd-45ba-ae5b-7ae17ab17802"
                     }
                 ],
-                "target_revision_id": "127"
+                "target_revision_id": "128"
             }
         ]
     },
@@ -137,7 +114,7 @@
     ],
     "changed": [
         {
-            "value": "2019-09-09T15:06:07+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }

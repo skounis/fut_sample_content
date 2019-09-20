@@ -1,34 +1,39 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/sites\/default\/files\/media-icons\/generic\/generic.png"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/63?_format=hal_json"
         },
         "type": {
-            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+            "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
         },
-        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
             {
                 "href": "http:\/\/default\/user\/1?_format=hal_json"
             }
         ]
     },
-    "fid": [
+    "rid": [
         {
-            "value": 19
+            "value": 63
         }
     ],
     "uuid": [
         {
-            "value": "c2e0490d-c441-4afc-987d-f0770da7ace7"
+            "value": "07172c92-1444-4561-9a25-9ae0391ab8d2"
         }
     ],
-    "langcode": [
+    "hash": [
         {
-            "value": "en"
+            "value": "yQuhDSuyFIzTSDgsmrNywGShsM82PPHeWx19OBSbRMs"
+        }
+    ],
+    "type": [
+        {
+            "value": "redirect"
         }
     ],
     "_embedded": {
-        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
             {
                 "_links": {
                     "self": {
@@ -46,41 +51,32 @@
             }
         ]
     },
-    "filename": [
+    "redirect_source": [
         {
-            "value": "generic.png"
+            "path": "group\/maecenas-eget-elementum-sem-praesent-arcu-metus-luctus-rutrum-non-libero",
+            "query": []
         }
     ],
-    "uri": [
+    "redirect_redirect": [
         {
-            "value": "public:\/\/media-icons\/generic\/generic.png",
-            "url": "\/sites\/default\/files\/media-icons\/generic\/generic.png"
+            "uri": "internal:\/group\/6",
+            "title": null,
+            "options": []
         }
     ],
-    "filemime": [
+    "language": [
         {
-            "value": "image\/png"
+            "value": "und"
         }
     ],
-    "filesize": [
+    "status_code": [
         {
-            "value": 3900
-        }
-    ],
-    "status": [
-        {
-            "value": true
+            "value": 301
         }
     ],
     "created": [
         {
-            "value": "2019-08-06T14:38:17+00:00",
-            "format": "Y-m-d\\TH:i:sP"
-        }
-    ],
-    "changed": [
-        {
-            "value": "2019-08-06T14:38:17+00:00",
+            "value": "2019-09-20T09:32:30+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
