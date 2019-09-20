@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/1\/member\/10?_format=hal_json"
+            "href": "http:\/\/default\/group\/1\/member\/25?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
@@ -13,7 +13,7 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
             {
-                "href": "http:\/\/default\/user\/4?_format=hal_json"
+                "href": "http:\/\/default\/user\/5?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
@@ -25,12 +25,12 @@
     },
     "id": [
         {
-            "value": 10
+            "value": 25
         }
     ],
     "uuid": [
         {
-            "value": "08b553d5-4480-493f-920c-45e694c63eaa"
+            "value": "460e8cf7-d4d4-4390-8481-576ab453950c"
         }
     ],
     "langcode": [
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/4?_format=hal_json"
+                        "href": "http:\/\/default\/user\/5?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -74,7 +74,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "6ec394d7-6db0-4d6f-b62d-1e37bf7e18e0"
+                        "value": "784fa7b6-fd54-472c-8319-79cae7a1d83a"
                     }
                 ]
             }
@@ -100,28 +100,28 @@
     },
     "label": [
         {
-            "value": "cleon",
+            "value": "hardin",
             "lang": "und"
         }
     ],
     "created": [
         {
-            "value": "2019-07-25T09:18:57+00:00",
+            "value": "2019-09-20T10:01:33+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "changed": [
         {
-            "value": "2019-09-20T10:00:59+00:00",
+            "value": "2019-09-20T10:01:33+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
     "path": [
         {
-            "alias": "\/group\/1\/member\/10",
-            "pid": 23,
+            "alias": "\/group\/1\/member\/25",
+            "pid": 46,
             "langcode": "und",
             "lang": "und"
         }
@@ -135,9 +135,6 @@
     "group_roles": [
         {
             "target_id": "fut_open-editor"
-        },
-        {
-            "target_id": "fut_open-moderator"
         }
     ]
 }
