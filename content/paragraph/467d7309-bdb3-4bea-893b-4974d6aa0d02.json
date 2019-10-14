@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 97
+        }
+    ],
+    "uuid": [
+        {
+            "value": "467d7309-bdb3-4bea-893b-4974d6aa0d02"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 139
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:20:54+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "20"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Eight years after the events of <em>Prelude<\/em>, Seldon has worked out the science of psychohistory and has applied it on a galactic scale. His notability and fame increase and he is eventually promoted to First Minister to the Emperor. As the book progresses, Seldon loses those closest to him, including his wife, Dors Venabili, as his own health deteriorates into old age. Having worked his entire adult life to understand psychohistory, Seldon instructs his granddaughter, Wanda, to set up the Second Foundation.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Eight years after the events of <em>Prelude<\/em>, Seldon has worked out the science of psychohistory and has applied it on a galactic scale. His notability and fame increase and he is eventually promoted to First Minister to the Emperor. As the book progresses, Seldon loses those closest to him, including his wife, Dors Venabili, as his own health deteriorates into old age. Having worked his entire adult life to understand psychohistory, Seldon instructs his granddaughter, Wanda, to set up the Second Foundation.<\/p>"
+        }
+    ]
+}

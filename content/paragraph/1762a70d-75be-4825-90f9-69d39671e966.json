@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 99
+        }
+    ],
+    "uuid": [
+        {
+            "value": "1762a70d-75be-4825-90f9-69d39671e966"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 141
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:26:34+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "22"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p><a href=\"https:\/\/en.wikipedia.org\/wiki\/Stor_Gendibal\">Stor Gendibal<\/a>, a prominent member of the Second Foundation, discovers a simple local on Trantor who has had a very subtle alteration made to her mind, far more delicate than anything the Second Foundation can do. He concludes that a greater force of Mentalics must be active in the Galaxy. Following the events on Terminus, Gendibal endeavors to follow Trevize, reasoning that by doing so, he may find out who has altered the mind of the Trantor native.<\/p>\r\n\r\n<p>Using the few scraps of reliable information within the various myths, Trevize and Pelorat discover a planet called Gaia which is inhabited solely by Mentalics, to such an extent that every organism and inanimate object on the planet shares a common mind. Both Branno and Gendibal, who have separately followed Trevize, also reach Gaia at the same time. Gaia reveals that it has engineered this situation because it wishes to do what is best for humanity but cannot be sure what is best. Trevize's purpose, faced with the leaders of both the First and Second Foundations and Gaia itself, is to be trusted to make the best decision among the three main alternatives for the future of the human race: the First Foundation's path, based on mastery of the physical world and its traditional political organization (i.e., Empire); the Second Foundation's path, based on mentalics and probable rule by an elite using mind control; or Gaia's path of absorption of the entire Galaxy into one shared, harmonious living entity in which all beings, and the galaxy itself, would be a part.<\/p>\r\n\r\n<p>After Trevize makes his decision for Gaia's path, the intellect of Gaia adjusts both Branno's and Gendibal's minds so that each believes he or she has succeeded in a significant task. (Branno believes she has successfully negotiated a treaty tying Sayshell to the Foundation, and Gendibal \u2013 now leader (and First Speaker) of the Second Foundation \u2013 believes that the Second Foundation is victorious and should continue as normal.) Trevize remains, but is uncertain as to why he has intuited (is \"sure\") that Gaia is the correct outcome for the future.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p><a href=\"https:\/\/en.wikipedia.org\/wiki\/Stor_Gendibal\">Stor Gendibal<\/a>, a prominent member of the Second Foundation, discovers a simple local on Trantor who has had a very subtle alteration made to her mind, far more delicate than anything the Second Foundation can do. He concludes that a greater force of Mentalics must be active in the Galaxy. Following the events on Terminus, Gendibal endeavors to follow Trevize, reasoning that by doing so, he may find out who has altered the mind of the Trantor native.<\/p>\n\n<p>Using the few scraps of reliable information within the various myths, Trevize and Pelorat discover a planet called Gaia which is inhabited solely by Mentalics, to such an extent that every organism and inanimate object on the planet shares a common mind. Both Branno and Gendibal, who have separately followed Trevize, also reach Gaia at the same time. Gaia reveals that it has engineered this situation because it wishes to do what is best for humanity but cannot be sure what is best. Trevize's purpose, faced with the leaders of both the First and Second Foundations and Gaia itself, is to be trusted to make the best decision among the three main alternatives for the future of the human race: the First Foundation's path, based on mastery of the physical world and its traditional political organization (i.e., Empire); the Second Foundation's path, based on mentalics and probable rule by an elite using mind control; or Gaia's path of absorption of the entire Galaxy into one shared, harmonious living entity in which all beings, and the galaxy itself, would be a part.<\/p>\n\n<p>After Trevize makes his decision for Gaia's path, the intellect of Gaia adjusts both Branno's and Gendibal's minds so that each believes he or she has succeeded in a significant task. (Branno believes she has successfully negotiated a treaty tying Sayshell to the Foundation, and Gendibal \u2013 now leader (and First Speaker) of the Second Foundation \u2013 believes that the Second Foundation is victorious and should continue as normal.) Trevize remains, but is uncertain as to why he has intuited (is \"sure\") that Gaia is the correct outcome for the future.<\/p>"
+        }
+    ]
+}

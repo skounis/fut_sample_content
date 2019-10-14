@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/2019-10\/terminus-emblem.svg_.png"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 30
+        }
+    ],
+    "uuid": [
+        {
+            "value": "71bd440d-7ab5-46bf-88be-f41dbe29c388"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "9f82381a-0751-4bc2-94c8-cb53066f6916"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "terminus-emblem.svg_.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-10\/terminus-emblem.svg_.png",
+            "url": "\/sites\/default\/files\/2019-10\/terminus-emblem.svg_.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 435298
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:16:15+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-14T13:16:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 94
+        }
+    ],
+    "uuid": [
+        {
+            "value": "30eb937a-95f6-49bd-bbdd-2fe946e56b0f"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 136
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:16:15+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "9"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "group"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_description"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p><strong>Terminus City<\/strong> was the capital city of <strong>Terminus<\/strong>, and the home to a number of noteworthy places, including:<\/p>\r\n\r\n<p><strong>City Hall<\/strong>. The primary administrative building of the Foundation (and later the Foundation Federation), including the Council Chambers and Mayor's Office<\/p>\r\n\r\n<p>City Hall Park, Cyclopedia Square, Flexner<\/p>\r\n\r\n<p><strong>The Hardin Building<\/strong>. A public apartment complex<\/p>\r\n\r\n<p><strong>Mallow Hall<\/strong>. A concert venue<\/p>\r\n\r\n<p><strong>The Salvor Hardin Museum of Origins<\/strong>. More commonly called the Hardin Museum, a museum of Foundation history, known to house the copies of the original Encyclopedia Galactica<\/p>\r\n\r\n<p><strong>The Seldon Vault<\/strong>. Where messages recorded by Hari Seldon before his death were played to relay important information to the citizens of the Foundation, around the times of the Seldon Crises.<\/p>\r\n\r\n<p>Terminus Spaceport, Ultimate Spaceport<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p><strong>Terminus City<\/strong> was the capital city of <strong>Terminus<\/strong>, and the home to a number of noteworthy places, including:<\/p>\n\n<p><strong>City Hall<\/strong>. The primary administrative building of the Foundation (and later the Foundation Federation), including the Council Chambers and Mayor's Office<\/p>\n\n<p>City Hall Park, Cyclopedia Square, Flexner<\/p>\n\n<p><strong>The Hardin Building<\/strong>. A public apartment complex<\/p>\n\n<p><strong>Mallow Hall<\/strong>. A concert venue<\/p>\n\n<p><strong>The Salvor Hardin Museum of Origins<\/strong>. More commonly called the Hardin Museum, a museum of Foundation history, known to house the copies of the original Encyclopedia Galactica<\/p>\n\n<p><strong>The Seldon Vault<\/strong>. Where messages recorded by Hari Seldon before his death were played to relay important information to the citizens of the Foundation, around the times of the Seldon Crises.<\/p>\n\n<p>Terminus Spaceport, Ultimate Spaceport<\/p>"
+        }
+    ]
+}

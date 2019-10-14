@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 96
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6a1c5239-0d86-48cc-a4df-99777ec39e79"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 138
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:19:54+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "19"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Called forth to stand trial on Trantor for allegations of treason (for foreshadowing the decline of the Galactic Empire), Seldon explains that his science of psychohistory foresees many alternatives, all of which result in the Galactic Empire eventually falling. If humanity follows its current path, the Empire will fall and 30,000 years of turmoil will overcome humanity before a second Empire arises. However, an alternative path allows for the intervening years to be only one thousand, if Seldon is allowed to collect the most intelligent minds and create a compendium of all human knowledge, entitled <em><a href=\"https:\/\/en.wikipedia.org\/wiki\/Encyclopedia_Galactica\">Encyclopedia Galactica<\/a><\/em>. The board is still wary but allows Seldon to assemble whomever he needs, provided he and the \"Encyclopedists\" be exiled to a remote planet, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Terminus_(planet)\">Terminus<\/a>. Seldon agrees to these terms \u2013 and also secretly establishes a second Foundation of which almost nothing is known, which he says is at the \"opposite end\" of the galaxy.<\/p>\r\n\r\n<p>After fifty years on Terminus, and with Seldon now deceased, the inhabitants find themselves in a crisis. With four powerful planets surrounding their own, the Encyclopedists have no defenses but their own intelligence. At the same time, a vault left by Seldon is due to automatically open. The vault reveals a pre-recorded <a href=\"https:\/\/en.wikipedia.org\/wiki\/Hologram\">hologram<\/a> of Seldon, who informs the Encyclopedists that their entire reason for being on Terminus is a fraud, insofar as Seldon did not actually care whether or not an encyclopedia was created, only that the population was placed on Terminus and the events needed by his calculations were set in motion. In reality, the recording discloses, Terminus was set up to reduce the dark ages from 30,000 years to just one millennium, based on following his calculations. It will develop by facing intermittent and extreme \"crises\" \u2013 known as \"Seldon Crises\" \u2013 which the laws governing psychohistory show will inevitably be overcome, simply because human nature will cause events to fall in particular ways which lead to the intended goal. The recording reveals that the present events are the first such crisis, reminds them that a second foundation was also formed at the \"opposite end\" of the galaxy, and then falls silent.<\/p>\r\n\r\n<p>The Mayor of Terminus City, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Salvor_Hardin\">Salvor Hardin<\/a>, proposes to play the planets against each other. His plan is a success; the Foundation remains untouched, and he is promoted to Mayor of Terminus (the planet). Meanwhile, the minds of the Foundation continue to develop newer and greater technologies which are smaller and more powerful than the Empire's equivalents. Using its scientific advantage, Terminus develops trade routes with nearby planets, eventually taking them over when its technology becomes a much-needed commodity. The interplanetary traders effectively become the new diplomats to other planets. One such trader, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Hober_Mallow\">Hober Mallow<\/a>, becomes powerful enough to challenge and win the seat of Mayor and, by cutting off supplies to a nearby region, also succeeds in adding more planets to the Foundation's reach.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Called forth to stand trial on Trantor for allegations of treason (for foreshadowing the decline of the Galactic Empire), Seldon explains that his science of psychohistory foresees many alternatives, all of which result in the Galactic Empire eventually falling. If humanity follows its current path, the Empire will fall and 30,000 years of turmoil will overcome humanity before a second Empire arises. However, an alternative path allows for the intervening years to be only one thousand, if Seldon is allowed to collect the most intelligent minds and create a compendium of all human knowledge, entitled <em><a href=\"https:\/\/en.wikipedia.org\/wiki\/Encyclopedia_Galactica\">Encyclopedia Galactica<\/a><\/em>. The board is still wary but allows Seldon to assemble whomever he needs, provided he and the \"Encyclopedists\" be exiled to a remote planet, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Terminus_(planet)\">Terminus<\/a>. Seldon agrees to these terms \u2013 and also secretly establishes a second Foundation of which almost nothing is known, which he says is at the \"opposite end\" of the galaxy.<\/p>\n\n<p>After fifty years on Terminus, and with Seldon now deceased, the inhabitants find themselves in a crisis. With four powerful planets surrounding their own, the Encyclopedists have no defenses but their own intelligence. At the same time, a vault left by Seldon is due to automatically open. The vault reveals a pre-recorded <a href=\"https:\/\/en.wikipedia.org\/wiki\/Hologram\">hologram<\/a> of Seldon, who informs the Encyclopedists that their entire reason for being on Terminus is a fraud, insofar as Seldon did not actually care whether or not an encyclopedia was created, only that the population was placed on Terminus and the events needed by his calculations were set in motion. In reality, the recording discloses, Terminus was set up to reduce the dark ages from 30,000 years to just one millennium, based on following his calculations. It will develop by facing intermittent and extreme \"crises\" \u2013 known as \"Seldon Crises\" \u2013 which the laws governing psychohistory show will inevitably be overcome, simply because human nature will cause events to fall in particular ways which lead to the intended goal. The recording reveals that the present events are the first such crisis, reminds them that a second foundation was also formed at the \"opposite end\" of the galaxy, and then falls silent.<\/p>\n\n<p>The Mayor of Terminus City, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Salvor_Hardin\">Salvor Hardin<\/a>, proposes to play the planets against each other. His plan is a success; the Foundation remains untouched, and he is promoted to Mayor of Terminus (the planet). Meanwhile, the minds of the Foundation continue to develop newer and greater technologies which are smaller and more powerful than the Empire's equivalents. Using its scientific advantage, Terminus develops trade routes with nearby planets, eventually taking them over when its technology becomes a much-needed commodity. The interplanetary traders effectively become the new diplomats to other planets. One such trader, <a href=\"https:\/\/en.wikipedia.org\/wiki\/Hober_Mallow\">Hober Mallow<\/a>, becomes powerful enough to challenge and win the seat of Mayor and, by cutting off supplies to a nearby region, also succeeds in adding more planets to the Foundation's reach.<\/p>"
+        }
+    ]
+}
