@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/59?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/79?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 59
+            "value": 79
         }
     ],
     "uuid": [
         {
-            "value": "2eb8abae-c305-4770-b88b-9ed6aa161438"
+            "value": "c4305432-d678-4e85-89bc-042dde4353ac"
         }
     ],
     "hash": [
         {
-            "value": "OEpzwLyWzRnHz-3dMYnyMIqOqiqdlkEoBeagjon3HGg"
+            "value": "JhK-D74JQqI6pP6Zk9I4l7ysoy0jhbf4t7znnGm9-d8"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
+                        "value": "9f82381a-0751-4bc2-94c8-cb53066f6916"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-et-odio-pellentesque-diam-volutpat",
+            "path": "group\/mauris-aliquet-tempor-finibus",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/17",
+            "uri": "internal:\/group\/7",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-20T09:32:30+00:00",
+            "value": "2019-10-14T13:07:17+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
