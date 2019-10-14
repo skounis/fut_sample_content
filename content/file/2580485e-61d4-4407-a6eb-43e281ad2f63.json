@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/2019-10\/prelude-foundation.jpg"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/8?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 32
+        }
+    ],
+    "uuid": [
+        {
+            "value": "2580485e-61d4-4407-a6eb-43e281ad2f63"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/8?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d3a9c311-ecff-4881-8dea-98d3043b7c7f"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "prelude-foundation.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/2019-10\/prelude-foundation.jpg",
+            "url": "\/sites\/default\/files\/2019-10\/prelude-foundation.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 780964
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:21:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-14T13:25:49+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

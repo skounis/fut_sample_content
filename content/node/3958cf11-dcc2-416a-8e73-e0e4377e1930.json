@@ -1,0 +1,220 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/actionist-party-terminus-city-council\/content\/discovers-simple-local-trantor?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_event\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/8?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_event\/uid": [
+            {
+                "href": "http:\/\/default\/user\/8?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_event\/fut_content": [
+            {
+                "href": ""
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 22
+        }
+    ],
+    "uuid": [
+        {
+            "value": "3958cf11-dcc2-416a-8e73-e0e4377e1930"
+        }
+    ],
+    "vid": [
+        {
+            "value": 58
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_event"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-14T13:27:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_event\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/8?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d3a9c311-ecff-4881-8dea-98d3043b7c7f"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_event\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/8?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d3a9c311-ecff-4881-8dea-98d3043b7c7f"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/fut_event\/fut_content": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "1762a70d-75be-4825-90f9-69d39671e966"
+                    }
+                ],
+                "target_revision_id": "141"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "title": [
+        {
+            "value": "Discovers a simple local on Trantor",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:26:34+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-14T13:27:23+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/group\/actionist-party-terminus-city-council\/content\/discovers-simple-local-trantor",
+            "pid": 54,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "fut_event_address": [
+        {
+            "langcode": "",
+            "country_code": "BE",
+            "administrative_area": null,
+            "locality": "Brussels",
+            "dependent_locality": null,
+            "postal_code": "1050",
+            "sorting_code": null,
+            "address_line1": "Avenue George Bergmann 12, Ixelles",
+            "address_line2": "",
+            "organization": " Second Foundation",
+            "given_name": "Stor ",
+            "additional_name": null,
+            "family_name": "Gendibal"
+        }
+    ],
+    "fut_event_coordinates": [
+        {
+            "value": "POINT(4.393510 50.809876)",
+            "geo_type": "Point",
+            "lat": 50.809876,
+            "lon": 4.39351,
+            "left": 4.39351,
+            "top": 50.809876,
+            "right": 4.39351,
+            "bottom": 50.809876,
+            "geohash": "u1515cxkbpqs",
+            "latlon": "50.809876,4.39351"
+        }
+    ],
+    "fut_event_date": [
+        {
+            "value": "2019-10-14T15:26:15+02:00",
+            "end_value": "2019-10-15T15:27:08+02:00"
+        }
+    ],
+    "fut_event_registration_url": [
+        {
+            "uri": "https:\/\/en.wikipedia.org\/wiki\/Foundation_series#Asimov's_Foundation_series_novels",
+            "title": "Foundation series",
+            "options": []
+        }
+    ],
+    "fut_event_show_map": [
+        {
+            "value": true
+        }
+    ]
+}

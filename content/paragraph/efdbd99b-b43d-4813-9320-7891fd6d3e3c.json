@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 98
+        }
+    ],
+    "uuid": [
+        {
+            "value": "efdbd99b-b43d-4813-9320-7891fd6d3e3c"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 140
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:25:28+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "21"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "node"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_content"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p><em>Prelude to Foundation<\/em> opens on the planet <a href=\"https:\/\/en.wikipedia.org\/wiki\/Trantor\">Trantor<\/a>, the empire's capital planet, the day after <a href=\"https:\/\/en.wikipedia.org\/wiki\/Hari_Seldon\">Hari Seldon<\/a> has given a speech at a mathematics conference. Several parties become aware of the content of his speech (that using mathematical formulas, it may be possible to predict the future course of human history).<\/p>\r\n\r\n<p>Seldon is hounded by the Emperor and various employed thugs who are working surreptitiously, which forces him into exile. Over the course of the book, Seldon and <a href=\"https:\/\/en.wikipedia.org\/wiki\/Dors_Venabili\">Dors Venabili<\/a>, a female companion and professor of history, are taken from location to location by <a href=\"https:\/\/en.wikipedia.org\/wiki\/Chetter_Hummin\">Chetter Hummin<\/a> who, under the guise of a reporter, introduces them to various Trantorian walks of life in his attempts to keep Seldon hidden from the Emperor. Throughout their adventures all over Trantor, Seldon continuously denies that psychohistory is a realistic science.<\/p>\r\n\r\n<p>Even if feasible, it may take several decades to develop. Hummin, however, is convinced that Seldon knows something, so he continuously presses him to work out a starting point to develop psychohistory. Eventually, after much traveling and introductions to various, diverse cultures on Trantor, Seldon realizes that using the entire known galaxy as a starting point is too overwhelming; he then decides to use Trantor as a model to work out the science, with a goal of later using the applied knowledge on the rest of the galaxy.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p><em>Prelude to Foundation<\/em> opens on the planet <a href=\"https:\/\/en.wikipedia.org\/wiki\/Trantor\">Trantor<\/a>, the empire's capital planet, the day after <a href=\"https:\/\/en.wikipedia.org\/wiki\/Hari_Seldon\">Hari Seldon<\/a> has given a speech at a mathematics conference. Several parties become aware of the content of his speech (that using mathematical formulas, it may be possible to predict the future course of human history).<\/p>\n\n<p>Seldon is hounded by the Emperor and various employed thugs who are working surreptitiously, which forces him into exile. Over the course of the book, Seldon and <a href=\"https:\/\/en.wikipedia.org\/wiki\/Dors_Venabili\">Dors Venabili<\/a>, a female companion and professor of history, are taken from location to location by <a href=\"https:\/\/en.wikipedia.org\/wiki\/Chetter_Hummin\">Chetter Hummin<\/a> who, under the guise of a reporter, introduces them to various Trantorian walks of life in his attempts to keep Seldon hidden from the Emperor. Throughout their adventures all over Trantor, Seldon continuously denies that psychohistory is a realistic science.<\/p>\n\n<p>Even if feasible, it may take several decades to develop. Hummin, however, is convinced that Seldon knows something, so he continuously presses him to work out a starting point to develop psychohistory. Eventually, after much traveling and introductions to various, diverse cultures on Trantor, Seldon realizes that using the entire known galaxy as a starting point is too overwhelming; he then decides to use Trantor as a model to work out the science, with a goal of later using the applied knowledge on the rest of the galaxy.<\/p>"
+        }
+    ]
+}

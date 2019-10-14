@@ -1,0 +1,112 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/user\/8?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+        }
+    },
+    "uid": [
+        {
+            "value": 8
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d3a9c311-ecff-4881-8dea-98d3043b7c7f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "preferred_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "preferred_admin_langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "name": [
+        {
+            "value": "sermak"
+        }
+    ],
+    "mail": [
+        {
+            "value": "sermak@galactica.space"
+        }
+    ],
+    "timezone": [
+        {
+            "value": "Europe\/Berlin"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:14:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-14T13:14:18+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "access": [
+        {
+            "value": "2019-10-14T13:25:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "login": [
+        {
+            "value": "2019-10-14T13:25:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "init": [
+        {
+            "value": "sermak@galactica.space"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "field_oe_firstname": [
+        {
+            "value": "Sef "
+        }
+    ],
+    "field_oe_lastname": [
+        {
+            "value": "Sermak"
+        }
+    ],
+    "field_oe_department": [
+        {
+            "value": "Actionist Party"
+        }
+    ],
+    "field_oe_organisation": [
+        {
+            "value": "Terminus City Council"
+        }
+    ]
+}

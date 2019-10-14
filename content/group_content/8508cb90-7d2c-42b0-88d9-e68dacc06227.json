@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/9\/content\/31?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_node-fut_event"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/gid": [
+            {
+                "href": "http:\/\/default\/group\/actionist-party-terminus-city-council?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/entity_id": [
+            {
+                "href": "http:\/\/default\/group\/actionist-party-terminus-city-council\/content\/discovers-simple-local-trantor?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/uid": [
+            {
+                "href": "http:\/\/default\/user\/8?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 31
+        }
+    ],
+    "uuid": [
+        {
+            "value": "8508cb90-7d2c-42b0-88d9-e68dacc06227"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open-group_node-fut_event"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/actionist-party-terminus-city-council?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a81b8406-3c8e-4f42-a516-2da3c913544d"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/actionist-party-terminus-city-council\/content\/discovers-simple-local-trantor?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "3958cf11-dcc2-416a-8e73-e0e4377e1930"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/8?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d3a9c311-ecff-4881-8dea-98d3043b7c7f"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "Discovers a simple local on Trantor",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:27:23+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-14T13:27:23+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ]
+}

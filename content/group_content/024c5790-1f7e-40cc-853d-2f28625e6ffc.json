@@ -1,0 +1,127 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/group\/9\/content\/30?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_node-fut_post"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
+            {
+                "href": "http:\/\/default\/group\/actionist-party-terminus-city-council?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
+            {
+                "href": "http:\/\/default\/group\/actionist-party-terminus-city-council\/content\/prelude-foundation?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
+            {
+                "href": "http:\/\/default\/user\/8?_format=hal_json",
+                "lang": "und"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 30
+        }
+    ],
+    "uuid": [
+        {
+            "value": "024c5790-1f7e-40cc-853d-2f28625e6ffc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open-group_node-fut_post"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/actionist-party-terminus-city-council?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "a81b8406-3c8e-4f42-a516-2da3c913544d"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/group\/actionist-party-terminus-city-council\/content\/prelude-foundation?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b4f14ecb-fe41-4b7a-a4a1-31c985caa57f"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/8?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d3a9c311-ecff-4881-8dea-98d3043b7c7f"
+                    }
+                ],
+                "lang": "und"
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "Prelude to Foundation",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-14T13:25:49+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-14T13:25:49+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ]
+}

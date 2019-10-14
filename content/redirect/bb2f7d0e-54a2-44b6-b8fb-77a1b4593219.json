@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/67?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/85?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 67
+            "value": 85
         }
     ],
     "uuid": [
         {
-            "value": "c96bec83-f707-4ac5-8f39-f634dc5ac581"
+            "value": "bb2f7d0e-54a2-44b6-b8fb-77a1b4593219"
         }
     ],
     "hash": [
         {
-            "value": "fz-VP09VL7eSiqhcGS6YM6T79lI7BgizIJh4FUZocrg"
+            "value": "mptMBSUTwNqwiW_b73bZUnBBQWzW2UFTDy8rArSIStk"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "304479b2-357b-4ab5-afd8-8612fb5055c2"
+                        "value": "9f82381a-0751-4bc2-94c8-cb53066f6916"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",
+            "path": "group\/integer-iaculis-erat-nibh-id-facilisis-turpis-condimentum-et",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/6",
+            "uri": "internal:\/group\/8",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2019-09-20T09:32:30+00:00",
+            "value": "2019-10-14T13:07:17+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]
