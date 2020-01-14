@@ -108,24 +108,6 @@
                     }
                 ]
             }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
-            {
-                "_links": {
-                    "self": {
-                        "href": ""
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_functional_navigation_link"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "67edcc67-bc61-4c64-b526-651af43e3439"
-                    }
-                ],
-                "target_revision_id": "112"
-            }
         ]
     },
     "created": [
