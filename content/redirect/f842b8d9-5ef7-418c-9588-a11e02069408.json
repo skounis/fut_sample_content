@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/44?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/54?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 44
+            "value": 54
         }
     ],
     "uuid": [
         {
-            "value": "ed0f28a5-4761-4010-af0b-eee40750ba94"
+            "value": "f842b8d9-5ef7-418c-9588-a11e02069408"
         }
     ],
     "hash": [
         {
-            "value": "gaXI_eWMHyzclwBBaIPqK0_VKXCQoZUUUkzz7ly7g1I"
+            "value": "WzxdO87B80bWtSD_HChP1d4uupdwS_cBLtzaVqnwZHo"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "posts\/nibh-mauris-cursus-mattis-molestie-iaculis",
+            "path": "posts\/pulvinar-sapien-et-ligula-ullamcorper-malesuada-proin-arcu-non-odio-euismod-lacinia",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/15",
+            "uri": "internal:\/node\/13",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2020-01-15T09:26:01+00:00",
+            "value": "2020-01-15T10:12:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

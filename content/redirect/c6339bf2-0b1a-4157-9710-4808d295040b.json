@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/46?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/62?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 46
+            "value": 62
         }
     ],
     "uuid": [
         {
-            "value": "cf9388d1-c7df-4459-82fd-ed471c441178"
+            "value": "c6339bf2-0b1a-4157-9710-4808d295040b"
         }
     ],
     "hash": [
         {
-            "value": "3XZaAYxn4HqntnIiq2reSjKNGheOVUmdLZ4L5a0RqYs"
+            "value": "9Jltexc5X_FbDMfogAUn48ghHDICtpGJwtGK0ckI1HQ"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "aenean\/donec-et-odio-pellentesque-diam-volutpat",
+            "path": "events\/nisl-suscipit-adipiscing-bibendum-est-ultricies-integer-quis-auctor",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/17",
+            "uri": "internal:\/node\/16",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2020-01-15T09:26:01+00:00",
+            "value": "2020-01-15T10:12:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

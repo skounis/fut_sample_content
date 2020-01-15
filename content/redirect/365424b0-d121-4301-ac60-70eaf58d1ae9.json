@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/41?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/63?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 41
+            "value": 63
         }
     ],
     "uuid": [
         {
-            "value": "15933e11-06c0-4c70-85f2-d9ca93a17463"
+            "value": "365424b0-d121-4301-ac60-70eaf58d1ae9"
         }
     ],
     "hash": [
         {
-            "value": "WzxdO87B80bWtSD_HChP1d4uupdwS_cBLtzaVqnwZHo"
+            "value": "u6YVxIFlv8GJFW4zA0LrcEcfysex-6_IrMcvF6AepmM"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "posts\/pulvinar-sapien-et-ligula-ullamcorper-malesuada-proin-arcu-non-odio-euismod-lacinia",
+            "path": "maecenas\/nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/13",
+            "uri": "internal:\/node\/7",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2020-01-15T09:26:01+00:00",
+            "value": "2020-01-15T10:12:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

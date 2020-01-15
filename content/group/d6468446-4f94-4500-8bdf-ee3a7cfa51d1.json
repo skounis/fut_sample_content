@@ -16,11 +16,6 @@
             {
                 "href": "http:\/\/default\/sites\/default\/files\/2019-07\/group-3.jpg"
             }
-        ],
-        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
-            {
-                "href": ""
-            }
         ]
     },
     "id": [
@@ -63,7 +58,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
                     }
                 ],
                 "lang": "und"
@@ -104,7 +99,7 @@
     "path": [
         {
             "alias": "\/morbi-convallis-lectus-et-tempor-purus",
-            "pid": 2,
+            "pid": 1,
             "langcode": "und",
             "lang": "und"
         }

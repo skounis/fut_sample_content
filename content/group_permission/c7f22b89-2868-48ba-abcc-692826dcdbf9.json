@@ -8,18 +8,18 @@
         },
         "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
             {
-                "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
             }
         ]
     },
     "id": [
         {
-            "value": 2
+            "value": 4
         }
     ],
     "uuid": [
         {
-            "value": "42777577-1d24-463d-afe3-772680ac5d5f"
+            "value": "c7f22b89-2868-48ba-abcc-692826dcdbf9"
         }
     ],
     "_embedded": {
@@ -27,7 +27,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -35,7 +35,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "cb9ee0ab-b87a-4e9b-a1bf-0cb5c7d7e737"
+                        "value": "5aae6242-97b2-4edd-b87d-02190849ce8d"
                     }
                 ]
             }

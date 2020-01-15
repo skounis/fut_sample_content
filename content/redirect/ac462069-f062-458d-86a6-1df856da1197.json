@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/43?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/53?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 43
+            "value": 53
         }
     ],
     "uuid": [
         {
-            "value": "d537ebe7-7be9-4edb-9160-7a4d56a3ef29"
+            "value": "ac462069-f062-458d-86a6-1df856da1197"
         }
     ],
     "hash": [
         {
-            "value": "sTz1hVwokqlg3INLjaKKhSudJOuBXiOG_CSfgY26uz0"
+            "value": "H9P0ntJ0ufujjUqlmDSLbMPTctdy86Z86wAItWK7iHY"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "posts\/arcu-dictum-varius-duis-consectetur-ac-odio-tempor-orci-dapibus-ultrices",
+            "path": "events\/elit-imperdiet-dui-accumsan-sit-amet",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/11",
+            "uri": "internal:\/node\/14",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2020-01-15T09:26:01+00:00",
+            "value": "2020-01-15T10:12:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

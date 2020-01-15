@@ -5,7 +5,12 @@
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
-        }
+        },
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+            }
+        ]
     },
     "rid": [
         {
@@ -27,6 +32,25 @@
             "value": "redirect"
         }
     ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
+                    }
+                ]
+            }
+        ]
+    },
     "redirect_source": [
         {
             "path": "content\/aliquam-sem-nisl-lacinia-vel-imperdiet-faucibus-et-odio",

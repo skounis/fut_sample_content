@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/50?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/57?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 50
+            "value": 57
         }
     ],
     "uuid": [
         {
-            "value": "3b2a6f21-8954-4683-a323-7d442dc81b54"
+            "value": "b24d12ab-cb90-4052-bdfa-1191c604b4be"
         }
     ],
     "hash": [
         {
-            "value": "u6YVxIFlv8GJFW4zA0LrcEcfysex-6_IrMcvF6AepmM"
+            "value": "gaXI_eWMHyzclwBBaIPqK0_VKXCQoZUUUkzz7ly7g1I"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "maecenas\/nullam-efficitur-elementum-libero-ac-fringilla-quam-rutrum-ege",
+            "path": "posts\/nibh-mauris-cursus-mattis-molestie-iaculis",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/7",
+            "uri": "internal:\/node\/15",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2020-01-15T09:26:01+00:00",
+            "value": "2020-01-15T10:12:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

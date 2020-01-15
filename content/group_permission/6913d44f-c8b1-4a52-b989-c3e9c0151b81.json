@@ -8,7 +8,7 @@
         },
         "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
             {
-                "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
+                "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
             }
         ]
     },
@@ -19,7 +19,7 @@
     ],
     "uuid": [
         {
-            "value": "e105bc1c-75b8-492c-82c8-085b5d0e7155"
+            "value": "6913d44f-c8b1-4a52-b989-c3e9c0151b81"
         }
     ],
     "_embedded": {
@@ -27,7 +27,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
+                        "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -35,7 +35,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "50781b6b-fccd-451b-96c4-003d7d2b1e78"
+                        "value": "cb9ee0ab-b87a-4e9b-a1bf-0cb5c7d7e737"
                     }
                 ]
             }

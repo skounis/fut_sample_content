@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/45?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/55?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 45
+            "value": 55
         }
     ],
     "uuid": [
         {
-            "value": "ea83b715-3b24-44b5-ac41-5dc845f27b90"
+            "value": "cbdb8ae8-4da5-4afb-862e-b6150ab57301"
         }
     ],
     "hash": [
         {
-            "value": "Re4Zn0Y2Bj1CqQe1u2he8eE8VvWOXAQgLag5ARcOfQg"
+            "value": "sTz1hVwokqlg3INLjaKKhSudJOuBXiOG_CSfgY26uz0"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "events\/egestas-diam-arcu-cursus-euismod-quis-dui-nunc-mattis-enim-ut-tellus-elementum",
+            "path": "posts\/arcu-dictum-varius-duis-consectetur-ac-odio-tempor-orci-dapibus-ultrices",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/10",
+            "uri": "internal:\/node\/11",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2020-01-15T09:26:01+00:00",
+            "value": "2020-01-15T10:12:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

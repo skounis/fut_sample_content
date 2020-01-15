@@ -8,18 +8,18 @@
         },
         "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
             {
-                "href": "http:\/\/default\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+                "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
             }
         ]
     },
     "id": [
         {
-            "value": 1
+            "value": 2
         }
     ],
     "uuid": [
         {
-            "value": "a6fbe663-5df1-440a-9b15-f99126ce413b"
+            "value": "9d267c24-940c-40db-a4b2-0c2e58a1bf29"
         }
     ],
     "_embedded": {
@@ -27,7 +27,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+                        "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -35,7 +35,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d6468446-4f94-4500-8bdf-ee3a7cfa51d1"
+                        "value": "50781b6b-fccd-451b-96c4-003d7d2b1e78"
                     }
                 ]
             }

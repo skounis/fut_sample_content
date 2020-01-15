@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/40?_format=hal_json"
+            "href": "http:\/\/default\/admin\/config\/search\/redirect\/edit\/56?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
@@ -14,17 +14,17 @@
     },
     "rid": [
         {
-            "value": 40
+            "value": 56
         }
     ],
     "uuid": [
         {
-            "value": "3da2228d-282d-4575-be9b-8bba2127a58e"
+            "value": "1d321e17-e617-4bf0-a702-c9995d0a2196"
         }
     ],
     "hash": [
         {
-            "value": "H9P0ntJ0ufujjUqlmDSLbMPTctdy86Z86wAItWK7iHY"
+            "value": "Be4htKN4jSxrXNSm9EiP3r4rFPHQFwVQC5EjNMpVl2k"
         }
     ],
     "type": [
@@ -45,7 +45,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
+                        "value": "b14e975f-cc1f-44b7-8663-6fe0134abc8a"
                     }
                 ]
             }
@@ -53,13 +53,13 @@
     },
     "redirect_source": [
         {
-            "path": "events\/elit-imperdiet-dui-accumsan-sit-amet",
+            "path": "events\/sit-amet-consectetur-adipiscing-elit-ut-proin-sed-libero-enim-sed-magna-eget-est-lorem-ipsum-dolor",
             "query": []
         }
     ],
     "redirect_redirect": [
         {
-            "uri": "internal:\/node\/14",
+            "uri": "internal:\/node\/12",
             "title": null,
             "options": []
         }
@@ -76,7 +76,7 @@
     ],
     "created": [
         {
-            "value": "2020-01-15T09:26:01+00:00",
+            "value": "2020-01-15T10:12:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ]

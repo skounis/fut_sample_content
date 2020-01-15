@@ -1,0 +1,80 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/en\/group_navigation\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_navigation\/group_navigation"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/links": [
+            {
+                "href": "http:\/\/default\/en\/group_navigation_link\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "713324fd-fc27-4903-a9a0-982f9ee8f060"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5aae6242-97b2-4edd-b87d-02190849ce8d"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/links": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/group_navigation_link\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group_navigation_link\/group_navigation_link"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b7970b4e-ea9a-49d0-bb37-3ef8a6047ddf"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ]
+}
