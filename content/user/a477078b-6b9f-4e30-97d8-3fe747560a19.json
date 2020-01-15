@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/user\/6?_format=hal_json"
+            "href": "http:\/\/default\/en\/user\/6?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -86,6 +86,14 @@
     "default_langcode": [
         {
             "value": true,
+            "lang": "en"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
             "lang": "en"
         }
     ]

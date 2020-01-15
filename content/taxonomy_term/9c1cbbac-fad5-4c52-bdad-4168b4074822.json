@@ -82,5 +82,18 @@
             "value": true,
             "lang": "und"
         }
+    ],
+    "term_aliased_name": [
+        {
+            "value": "bar"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "und",
+            "lang": "und"
+        }
     ]
 }

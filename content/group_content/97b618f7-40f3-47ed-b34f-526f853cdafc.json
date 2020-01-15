@@ -1,24 +1,24 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/1\/member\/6?_format=hal_json"
+            "href": "http:\/\/default\/1\/member\/6?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
         },
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
             {
-                "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
             {
-                "href": "http:\/\/default\/user\/2?_format=hal_json"
+                "href": "http:\/\/default\/en\/user\/2?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
             {
-                "href": "http:\/\/default\/user\/2?_format=hal_json",
+                "href": "http:\/\/default\/en\/user\/2?_format=hal_json",
                 "lang": "und"
             }
         ]
@@ -49,7 +49,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                        "href": "http:\/\/default\/en\/user\/2?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -83,7 +83,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/2?_format=hal_json"
+                        "href": "http:\/\/default\/en\/user\/2?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -120,8 +120,8 @@
     ],
     "path": [
         {
-            "alias": "\/group\/1\/member\/6",
-            "pid": 27,
+            "alias": "\/1\/member\/6",
+            "pid": 36,
             "langcode": "und",
             "lang": "und"
         }

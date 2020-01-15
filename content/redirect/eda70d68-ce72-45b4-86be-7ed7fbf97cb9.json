@@ -5,12 +5,7 @@
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
-        },
-        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
-            {
-                "href": "http:\/\/default\/user\/1?_format=hal_json"
-            }
-        ]
+        }
     },
     "rid": [
         {
@@ -32,25 +27,6 @@
             "value": "redirect"
         }
     ],
-    "_embedded": {
-        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "http:\/\/default\/user\/1?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
-                    }
-                ]
-            }
-        ]
-    },
     "redirect_source": [
         {
             "path": "content\/donec-mattis-justo-est-porta-placerat-donec-ullamcorper-dui-nec-tristique-malesuada-purus",

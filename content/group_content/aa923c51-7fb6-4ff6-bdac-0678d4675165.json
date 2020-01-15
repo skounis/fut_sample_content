@@ -1,24 +1,24 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/2\/content\/13?_format=hal_json"
+            "href": "http:\/\/default\/2\/content\/13?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_node-fut_post"
         },
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/gid": [
             {
-                "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/entity_id": [
             {
-                "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum\/content\/arcu-dictum-varius-duis?_format=hal_json"
+                "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum\/posts\/arcu-dictum-varius-duis-consectetur-ac-odio-tempor-orci-dapibus-ultrices?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_post\/uid": [
             {
-                "href": "http:\/\/default\/user\/3?_format=hal_json",
+                "href": "http:\/\/default\/en\/user\/3?_format=hal_json",
                 "lang": "und"
             }
         ]
@@ -49,7 +49,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                        "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum\/content\/arcu-dictum-varius-duis?_format=hal_json"
+                        "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum\/posts\/arcu-dictum-varius-duis-consectetur-ac-odio-tempor-orci-dapibus-ultrices?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_post"
@@ -83,7 +83,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/3?_format=hal_json"
+                        "href": "http:\/\/default\/en\/user\/3?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -116,6 +116,14 @@
             "value": "2019-07-25T09:41:08+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/2\/content\/13",
+            "pid": 17,
+            "langcode": "und",
+            "lang": "und"
         }
     ],
     "default_langcode": [

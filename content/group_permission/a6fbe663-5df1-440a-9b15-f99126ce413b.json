@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_permission\/group_permission"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "href": "http:\/\/default\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "a6fbe663-5df1-440a-9b15-f99126ce413b"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/morbi-convallis-lectus-et-tempor-purus?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d6468446-4f94-4500-8bdf-ee3a7cfa51d1"
+                    }
+                ]
+            }
+        ]
+    },
+    "permissions": [
+        {
+            "fut_open-a416e6833": [
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ],
+            "fut_open-outsider": [
+                "join group",
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ],
+            "fut_open-anonymous": [
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ]
+        }
+    ]
+}

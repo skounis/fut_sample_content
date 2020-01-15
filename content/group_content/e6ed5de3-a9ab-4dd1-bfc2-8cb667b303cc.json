@@ -1,24 +1,24 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/2\/member\/7?_format=hal_json"
+            "href": "http:\/\/default\/2\/member\/7?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_membership"
         },
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/gid": [
             {
-                "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/entity_id": [
             {
-                "href": "http:\/\/default\/user\/7?_format=hal_json"
+                "href": "http:\/\/default\/en\/user\/7?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_membership\/uid": [
             {
-                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
                 "lang": "und"
             }
         ]
@@ -49,7 +49,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                        "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/7?_format=hal_json"
+                        "href": "http:\/\/default\/en\/user\/7?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -83,7 +83,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -91,7 +91,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
+                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
                     }
                 ],
                 "lang": "und"
@@ -120,8 +120,8 @@
     ],
     "path": [
         {
-            "alias": "\/group\/2\/member\/7",
-            "pid": 8,
+            "alias": "\/2\/member\/7",
+            "pid": 6,
             "langcode": "und",
             "lang": "und"
         }

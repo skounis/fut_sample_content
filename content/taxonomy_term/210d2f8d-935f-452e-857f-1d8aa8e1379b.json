@@ -1,7 +1,7 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
+            "href": "http:\/\/default\/en\/taxonomy\/term\/1?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/fut_collections"
@@ -11,7 +11,7 @@
         ],
         "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/fut_collections\/fut_related_group": [
             {
-                "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json",
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json",
                 "lang": "en"
             }
         ]
@@ -73,7 +73,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -104,6 +104,19 @@
     "revision_translation_affected": [
         {
             "value": true,
+            "lang": "en"
+        }
+    ],
+    "term_aliased_name": [
+        {
+            "value": "aenean"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
             "lang": "en"
         }
     ]

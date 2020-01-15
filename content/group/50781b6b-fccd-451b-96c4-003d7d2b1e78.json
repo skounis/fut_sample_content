@@ -1,14 +1,14 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/duis-laoreet-bibendum-finibus?_format=hal_json"
+            "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
         },
         "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
             {
-                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
                 "lang": "und"
             }
         ],
@@ -60,7 +60,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -68,7 +68,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "d3463f52-4d38-490b-98b4-3cad557524e0"
+                        "value": "e864442b-eff6-43f7-81ca-301a536cf821"
                     }
                 ],
                 "lang": "und"
@@ -108,6 +108,24 @@
                     }
                 ]
             }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_navigation_menu": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_functional_navigation_link"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "d6600d83-5c9e-4f41-b51e-1d952c81198c"
+                    }
+                ],
+                "target_revision_id": "118"
+            }
         ]
     },
     "created": [
@@ -126,7 +144,7 @@
     ],
     "path": [
         {
-            "alias": "\/group\/duis-laoreet-bibendum-finibus",
+            "alias": "\/duis-laoreet-bibendum-finibus",
             "pid": 4,
             "langcode": "und",
             "lang": "und"
@@ -136,6 +154,11 @@
         {
             "value": true,
             "lang": "und"
+        }
+    ],
+    "fut_privacy": [
+        {
+            "value": false
         }
     ],
     "fut_short_name": [

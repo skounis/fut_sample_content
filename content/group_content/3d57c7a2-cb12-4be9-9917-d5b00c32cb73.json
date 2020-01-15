@@ -1,24 +1,24 @@
 {
     "_links": {
         "self": {
-            "href": "http:\/\/default\/group\/4\/content\/16?_format=hal_json"
+            "href": "http:\/\/default\/en\/4\/content\/16?_format=hal_json"
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-group_node-fut_event"
         },
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/gid": [
             {
-                "href": "http:\/\/default\/group\/duis-laoreet-bibendum-finibus?_format=hal_json"
+                "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/entity_id": [
             {
-                "href": "http:\/\/default\/group\/duis-laoreet-bibendum-finibus\/content\/elit-imperdiet-dui-accumsan-sit-amet?_format=hal_json"
+                "href": "http:\/\/default\/duis-laoreet-bibendum-finibus\/events\/elit-imperdiet-dui-accumsan-sit-amet?_format=hal_json"
             }
         ],
         "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-group_node-fut_event\/uid": [
             {
-                "href": "http:\/\/default\/user\/5?_format=hal_json",
+                "href": "http:\/\/default\/en\/user\/5?_format=hal_json",
                 "lang": "en"
             }
         ]
@@ -49,7 +49,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/duis-laoreet-bibendum-finibus?_format=hal_json"
+                        "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
@@ -66,7 +66,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/group\/duis-laoreet-bibendum-finibus\/content\/elit-imperdiet-dui-accumsan-sit-amet?_format=hal_json"
+                        "href": "http:\/\/default\/duis-laoreet-bibendum-finibus\/events\/elit-imperdiet-dui-accumsan-sit-amet?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/node\/fut_event"
@@ -83,7 +83,7 @@
             {
                 "_links": {
                     "self": {
-                        "href": "http:\/\/default\/user\/5?_format=hal_json"
+                        "href": "http:\/\/default\/en\/user\/5?_format=hal_json"
                     },
                     "type": {
                         "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
@@ -116,6 +116,14 @@
             "value": "2019-07-25T09:48:06+00:00",
             "lang": "en",
             "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/4\/content\/16",
+            "pid": 9,
+            "langcode": "en",
+            "lang": "en"
         }
     ],
     "default_langcode": [
