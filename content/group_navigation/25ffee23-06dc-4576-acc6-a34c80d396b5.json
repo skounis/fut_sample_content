@@ -1,0 +1,56 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/en\/group_navigation\/4?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_navigation\/group_navigation"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 4
+        }
+    ],
+    "uuid": [
+        {
+            "value": "25ffee23-06dc-4576-acc6-a34c80d396b5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5aae6242-97b2-4edd-b87d-02190849ce8d"
+                    }
+                ]
+            }
+        ]
+    },
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ]
+}

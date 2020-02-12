@@ -1,0 +1,56 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/en\/group_navigation\/3?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_navigation\/group_navigation"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d9b64d85-a1de-4f10-a5ac-2528e7edbbf5"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/duis-laoreet-bibendum-finibus?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "50781b6b-fccd-451b-96c4-003d7d2b1e78"
+                    }
+                ]
+            }
+        ]
+    },
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ]
+}

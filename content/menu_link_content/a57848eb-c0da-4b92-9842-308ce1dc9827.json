@@ -1,0 +1,1214 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/en\/admin\/structure\/menu\/item\/10\/edit?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/menu_link_content\/menu_link_content"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/menu_link_content\/menu_link_content\/content_translation_uid": [
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "bg"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "en"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "cs"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "da"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "et"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "el"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "es"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "hr"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "it"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "lv"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "lt"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "hu"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "mt"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "nl"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "pl"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "pt-pt"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "ro"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "sk"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "sl"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "fi"
+            },
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "sv"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 10
+        }
+    ],
+    "uuid": [
+        {
+            "value": "a57848eb-c0da-4b92-9842-308ce1dc9827"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 10
+        }
+    ],
+    "langcode": [
+        {
+            "value": "bg",
+            "lang": "bg"
+        },
+        {
+            "value": "en",
+            "lang": "en"
+        },
+        {
+            "value": "cs",
+            "lang": "cs"
+        },
+        {
+            "value": "da",
+            "lang": "da"
+        },
+        {
+            "value": "et",
+            "lang": "et"
+        },
+        {
+            "value": "el",
+            "lang": "el"
+        },
+        {
+            "value": "es",
+            "lang": "es"
+        },
+        {
+            "value": "hr",
+            "lang": "hr"
+        },
+        {
+            "value": "it",
+            "lang": "it"
+        },
+        {
+            "value": "lv",
+            "lang": "lv"
+        },
+        {
+            "value": "lt",
+            "lang": "lt"
+        },
+        {
+            "value": "hu",
+            "lang": "hu"
+        },
+        {
+            "value": "mt",
+            "lang": "mt"
+        },
+        {
+            "value": "nl",
+            "lang": "nl"
+        },
+        {
+            "value": "pl",
+            "lang": "pl"
+        },
+        {
+            "value": "pt-pt",
+            "lang": "pt-pt"
+        },
+        {
+            "value": "ro",
+            "lang": "ro"
+        },
+        {
+            "value": "sk",
+            "lang": "sk"
+        },
+        {
+            "value": "sl",
+            "lang": "sl"
+        },
+        {
+            "value": "fi",
+            "lang": "fi"
+        },
+        {
+            "value": "sv",
+            "lang": "sv"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "\u041d\u0430\u0447\u0430\u043b\u043e",
+            "lang": "bg"
+        },
+        {
+            "value": "Home",
+            "lang": "en"
+        },
+        {
+            "value": "\u00davod",
+            "lang": "cs"
+        },
+        {
+            "value": "Forside",
+            "lang": "da"
+        },
+        {
+            "value": "Avaleht",
+            "lang": "et"
+        },
+        {
+            "value": "\u0391\u03c1\u03c7\u03b9\u03ba\u03ae \u03c3\u03b5\u03bb\u03af\u03b4\u03b1",
+            "lang": "el"
+        },
+        {
+            "value": "Inicio",
+            "lang": "es"
+        },
+        {
+            "value": "Po\u010detna stranica",
+            "lang": "hr"
+        },
+        {
+            "value": "Pagina iniziale",
+            "lang": "it"
+        },
+        {
+            "value": "S\u0101kums",
+            "lang": "lv"
+        },
+        {
+            "value": "Prad\u017eia",
+            "lang": "lt"
+        },
+        {
+            "value": "Kezd\u0151lap",
+            "lang": "hu"
+        },
+        {
+            "value": "Pa\u0121na Ewlenija",
+            "lang": "mt"
+        },
+        {
+            "value": "Home",
+            "lang": "nl"
+        },
+        {
+            "value": "Strona g\u0142\u00f3wna",
+            "lang": "pl"
+        },
+        {
+            "value": "In\u00edcio",
+            "lang": "pt-pt"
+        },
+        {
+            "value": "Pagina de pornire",
+            "lang": "ro"
+        },
+        {
+            "value": "Domovsk\u00e1 str\u00e1nka",
+            "lang": "sk"
+        },
+        {
+            "value": "Domov",
+            "lang": "sl"
+        },
+        {
+            "value": "Etusivu",
+            "lang": "fi"
+        },
+        {
+            "value": "Start",
+            "lang": "sv"
+        }
+    ],
+    "menu_name": [
+        {
+            "value": "group_6_navigation"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/en\/group\/6",
+            "title": null,
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": -10
+        }
+    ],
+    "expanded": [
+        {
+            "value": true
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": false,
+            "lang": "bg"
+        },
+        {
+            "value": true,
+            "lang": "en"
+        },
+        {
+            "value": false,
+            "lang": "cs"
+        },
+        {
+            "value": false,
+            "lang": "da"
+        },
+        {
+            "value": false,
+            "lang": "et"
+        },
+        {
+            "value": false,
+            "lang": "el"
+        },
+        {
+            "value": false,
+            "lang": "es"
+        },
+        {
+            "value": false,
+            "lang": "hr"
+        },
+        {
+            "value": false,
+            "lang": "it"
+        },
+        {
+            "value": false,
+            "lang": "lv"
+        },
+        {
+            "value": false,
+            "lang": "lt"
+        },
+        {
+            "value": false,
+            "lang": "hu"
+        },
+        {
+            "value": false,
+            "lang": "mt"
+        },
+        {
+            "value": false,
+            "lang": "nl"
+        },
+        {
+            "value": false,
+            "lang": "pl"
+        },
+        {
+            "value": false,
+            "lang": "pt-pt"
+        },
+        {
+            "value": false,
+            "lang": "ro"
+        },
+        {
+            "value": false,
+            "lang": "sk"
+        },
+        {
+            "value": false,
+            "lang": "sl"
+        },
+        {
+            "value": false,
+            "lang": "fi"
+        },
+        {
+            "value": false,
+            "lang": "sv"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "bg"
+        },
+        {
+            "value": true,
+            "lang": "en"
+        },
+        {
+            "value": true,
+            "lang": "cs"
+        },
+        {
+            "value": true,
+            "lang": "da"
+        },
+        {
+            "value": true,
+            "lang": "et"
+        },
+        {
+            "value": true,
+            "lang": "el"
+        },
+        {
+            "value": true,
+            "lang": "es"
+        },
+        {
+            "value": true,
+            "lang": "hr"
+        },
+        {
+            "value": true,
+            "lang": "it"
+        },
+        {
+            "value": true,
+            "lang": "lv"
+        },
+        {
+            "value": true,
+            "lang": "lt"
+        },
+        {
+            "value": true,
+            "lang": "hu"
+        },
+        {
+            "value": true,
+            "lang": "mt"
+        },
+        {
+            "value": true,
+            "lang": "nl"
+        },
+        {
+            "value": true,
+            "lang": "pl"
+        },
+        {
+            "value": true,
+            "lang": "pt-pt"
+        },
+        {
+            "value": true,
+            "lang": "ro"
+        },
+        {
+            "value": true,
+            "lang": "sk"
+        },
+        {
+            "value": true,
+            "lang": "sl"
+        },
+        {
+            "value": true,
+            "lang": "fi"
+        },
+        {
+            "value": true,
+            "lang": "sv"
+        }
+    ],
+    "content_translation_source": [
+        {
+            "value": "und",
+            "lang": "bg"
+        },
+        {
+            "value": "und",
+            "lang": "en"
+        },
+        {
+            "value": "und",
+            "lang": "cs"
+        },
+        {
+            "value": "und",
+            "lang": "da"
+        },
+        {
+            "value": "und",
+            "lang": "et"
+        },
+        {
+            "value": "und",
+            "lang": "el"
+        },
+        {
+            "value": "und",
+            "lang": "es"
+        },
+        {
+            "value": "und",
+            "lang": "hr"
+        },
+        {
+            "value": "und",
+            "lang": "it"
+        },
+        {
+            "value": "und",
+            "lang": "lv"
+        },
+        {
+            "value": "und",
+            "lang": "lt"
+        },
+        {
+            "value": "und",
+            "lang": "hu"
+        },
+        {
+            "value": "und",
+            "lang": "mt"
+        },
+        {
+            "value": "und",
+            "lang": "nl"
+        },
+        {
+            "value": "und",
+            "lang": "pl"
+        },
+        {
+            "value": "und",
+            "lang": "pt-pt"
+        },
+        {
+            "value": "und",
+            "lang": "ro"
+        },
+        {
+            "value": "und",
+            "lang": "sk"
+        },
+        {
+            "value": "und",
+            "lang": "sl"
+        },
+        {
+            "value": "und",
+            "lang": "fi"
+        },
+        {
+            "value": "und",
+            "lang": "sv"
+        }
+    ],
+    "content_translation_outdated": [
+        {
+            "value": false,
+            "lang": "bg"
+        },
+        {
+            "value": false,
+            "lang": "en"
+        },
+        {
+            "value": false,
+            "lang": "cs"
+        },
+        {
+            "value": false,
+            "lang": "da"
+        },
+        {
+            "value": false,
+            "lang": "et"
+        },
+        {
+            "value": false,
+            "lang": "el"
+        },
+        {
+            "value": false,
+            "lang": "es"
+        },
+        {
+            "value": false,
+            "lang": "hr"
+        },
+        {
+            "value": false,
+            "lang": "it"
+        },
+        {
+            "value": false,
+            "lang": "lv"
+        },
+        {
+            "value": false,
+            "lang": "lt"
+        },
+        {
+            "value": false,
+            "lang": "hu"
+        },
+        {
+            "value": false,
+            "lang": "mt"
+        },
+        {
+            "value": false,
+            "lang": "nl"
+        },
+        {
+            "value": false,
+            "lang": "pl"
+        },
+        {
+            "value": false,
+            "lang": "pt-pt"
+        },
+        {
+            "value": false,
+            "lang": "ro"
+        },
+        {
+            "value": false,
+            "lang": "sk"
+        },
+        {
+            "value": false,
+            "lang": "sl"
+        },
+        {
+            "value": false,
+            "lang": "fi"
+        },
+        {
+            "value": false,
+            "lang": "sv"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/menu_link_content\/menu_link_content\/content_translation_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "bg"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "en"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "cs"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "da"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "et"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "el"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "es"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "hr"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "it"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "lv"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "lt"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "hu"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "mt"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "nl"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "pl"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "pt-pt"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "ro"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "sk"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "sl"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "fi"
+            },
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "sv"
+            }
+        ]
+    },
+    "content_translation_status": [
+        {
+            "value": true,
+            "lang": "bg"
+        },
+        {
+            "value": true,
+            "lang": "en"
+        },
+        {
+            "value": true,
+            "lang": "cs"
+        },
+        {
+            "value": true,
+            "lang": "da"
+        },
+        {
+            "value": true,
+            "lang": "et"
+        },
+        {
+            "value": true,
+            "lang": "el"
+        },
+        {
+            "value": true,
+            "lang": "es"
+        },
+        {
+            "value": true,
+            "lang": "hr"
+        },
+        {
+            "value": true,
+            "lang": "it"
+        },
+        {
+            "value": true,
+            "lang": "lv"
+        },
+        {
+            "value": true,
+            "lang": "lt"
+        },
+        {
+            "value": true,
+            "lang": "hu"
+        },
+        {
+            "value": true,
+            "lang": "mt"
+        },
+        {
+            "value": true,
+            "lang": "nl"
+        },
+        {
+            "value": true,
+            "lang": "pl"
+        },
+        {
+            "value": true,
+            "lang": "pt-pt"
+        },
+        {
+            "value": true,
+            "lang": "ro"
+        },
+        {
+            "value": true,
+            "lang": "sk"
+        },
+        {
+            "value": true,
+            "lang": "sl"
+        },
+        {
+            "value": true,
+            "lang": "fi"
+        },
+        {
+            "value": true,
+            "lang": "sv"
+        }
+    ],
+    "content_translation_created": [
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "bg",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "cs",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "da",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "et",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "el",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "es",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "hr",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "it",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "lv",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "lt",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "hu",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "mt",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "nl",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "pl",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "pt-pt",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "ro",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "sk",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "sl",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "fi",
+            "format": "Y-m-d\\TH:i:sP"
+        },
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "sv",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

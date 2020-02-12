@@ -1,0 +1,135 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/en\/1\/group\/22?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_content\/fut_open-subgroup-fut_open"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-subgroup-fut_open\/gid": [
+            {
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-subgroup-fut_open\/entity_id": [
+            {
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/pr-cras-sagittis-non-diam-quis-mollis?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-subgroup-fut_open\/uid": [
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 22
+        }
+    ],
+    "uuid": [
+        {
+            "value": "68c9a77a-a1e0-4c71-b8bc-d17ba4fe1a63"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open-subgroup-fut_open"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-subgroup-fut_open\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5aae6242-97b2-4edd-b87d-02190849ce8d"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-subgroup-fut_open\/entity_id": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/pr-cras-sagittis-non-diam-quis-mollis?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e51c7380-be56-4510-be8e-dce695e0550b"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group_content\/fut_open-subgroup-fut_open\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "label": [
+        {
+            "value": "[PR] Cras sagittis non diam quis mollis. ",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-12T09:28:15+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-12T09:28:15+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/1\/group\/22",
+            "pid": 47,
+            "langcode": "en",
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ]
+}

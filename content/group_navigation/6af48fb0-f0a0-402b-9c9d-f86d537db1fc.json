@@ -1,0 +1,56 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/en\/group_navigation\/2?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_navigation\/group_navigation"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "6af48fb0-f0a0-402b-9c9d-f86d537db1fc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "cb9ee0ab-b87a-4e9b-a1bf-0cb5c7d7e737"
+                    }
+                ]
+            }
+        ]
+    },
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ]
+}
