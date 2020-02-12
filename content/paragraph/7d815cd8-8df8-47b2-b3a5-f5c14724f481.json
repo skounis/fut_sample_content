@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 77
+        }
+    ],
+    "uuid": [
+        {
+            "value": "7d815cd8-8df8-47b2-b3a5-f5c14724f481"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 119
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-12T09:30:00+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "8"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "group"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_description"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Sed eleifend arcu vel ex venenatis, non lobortis ligula aliquet. Cras sit amet augue in enim interdum auctor sit amet a tortor. Nam efficitur tortor sodales, aliquam dui sit amet, varius lectus. Aenean sit amet efficitur tortor. Pellentesque volutpat ante mollis eros viverra semper. Nulla porttitor, ante gravida luctus aliquet, nulla nulla rhoncus massa, ac sagittis augue ligula nec nisi. Phasellus nec velit consectetur, ornare urna non, suscipit augue. Proin et vehicula ligula.<\/p>\r\n\r\n<p>Donec hendrerit, enim id tempus blandit, urna justo scelerisque tortor, at vehicula sem odio eu tortor. Nam tempor, enim eget fringilla laoreet, elit dolor laoreet lorem, non pharetra neque massa nec urna. Donec malesuada dui odio, non cursus orci viverra eget. Nunc et nibh in erat pulvinar tempus non vitae sem. Sed consequat ligula in dolor gravida tempor. In hac habitasse platea dictumst. Praesent ac magna vel dui maximus porttitor sed in mauris.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Sed eleifend arcu vel ex venenatis, non lobortis ligula aliquet. Cras sit amet augue in enim interdum auctor sit amet a tortor. Nam efficitur tortor sodales, aliquam dui sit amet, varius lectus. Aenean sit amet efficitur tortor. Pellentesque volutpat ante mollis eros viverra semper. Nulla porttitor, ante gravida luctus aliquet, nulla nulla rhoncus massa, ac sagittis augue ligula nec nisi. Phasellus nec velit consectetur, ornare urna non, suscipit augue. Proin et vehicula ligula.<\/p>\n\n<p>Donec hendrerit, enim id tempus blandit, urna justo scelerisque tortor, at vehicula sem odio eu tortor. Nam tempor, enim eget fringilla laoreet, elit dolor laoreet lorem, non pharetra neque massa nec urna. Donec malesuada dui odio, non cursus orci viverra eget. Nunc et nibh in erat pulvinar tempus non vitae sem. Sed consequat ligula in dolor gravida tempor. In hac habitasse platea dictumst. Praesent ac magna vel dui maximus porttitor sed in mauris.<\/p>"
+        }
+    ]
+}

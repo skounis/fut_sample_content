@@ -1,0 +1,146 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/pr-nunc-non-diam-molestie-pharetra-nisl-quis-tempor-nibh?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
+            {
+                "href": ""
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2020-02\/sub-group-2.png"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 6
+        }
+    ],
+    "uuid": [
+        {
+            "value": "7b932f4a-7c52-4f4c-b2b7-54459997dc71"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_open"
+        }
+    ],
+    "label": [
+        {
+            "value": "[PR] Nunc non diam molestie, pharetra nisl quis, tempor nibh",
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "29f867bd-43d8-414f-b069-0d2ab4129a7e"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_description": [
+            {
+                "_links": {
+                    "self": {
+                        "href": ""
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "09ac0b81-a576-4aff-913e-c4da0294ea54"
+                    }
+                ],
+                "target_revision_id": "117"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/group\/fut_open\/fut_logo": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2020-02\/sub-group-2.png"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "9904119e-9358-4424-8057-8e17a790477d"
+                    }
+                ]
+            }
+        ]
+    },
+    "created": [
+        {
+            "value": "2020-02-12T09:26:57+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-12T09:27:11+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/pr-nunc-non-diam-molestie-pharetra-nisl-quis-tempor-nibh",
+            "pid": 5,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_privacy": [
+        {
+            "value": true
+        }
+    ],
+    "fut_short_name": [
+        {
+            "value": "Nunc "
+        }
+    ]
+}

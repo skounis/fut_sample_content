@@ -113,7 +113,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-22T14:12:17+00:00",
+            "value": "2020-02-12T10:02:41+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -121,7 +121,7 @@
     "path": [
         {
             "alias": "\/1\/member\/6",
-            "pid": 36,
+            "pid": 47,
             "langcode": "und",
             "lang": "und"
         }

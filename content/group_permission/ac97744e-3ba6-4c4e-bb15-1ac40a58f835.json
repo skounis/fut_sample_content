@@ -1,0 +1,53 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_permission\/group_permission"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/pr-cras-sagittis-non-diam-quis-mollis?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 7
+        }
+    ],
+    "uuid": [
+        {
+            "value": "ac97744e-3ba6-4c4e-bb15-1ac40a58f835"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/pr-cras-sagittis-non-diam-quis-mollis?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e51c7380-be56-4510-be8e-dce695e0550b"
+                    }
+                ]
+            }
+        ]
+    },
+    "permissions": [
+        {
+            "fut_open-a416e6833": [],
+            "fut_open-outsider": [
+                "join group"
+            ],
+            "fut_open-anonymous": []
+        }
+    ]
+}

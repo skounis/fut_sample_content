@@ -1,0 +1,160 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/media\/18?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_image"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/uid": [
+            {
+                "href": "http:\/\/default\/en\/user\/1?_format=hal_json",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/thumbnail": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2020-02\/prelude-foundation.jpg",
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/field_media_image": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2020-02\/prelude-foundation.jpg"
+            }
+        ]
+    },
+    "mid": [
+        {
+            "value": 18
+        }
+    ],
+    "uuid": [
+        {
+            "value": "94a4b590-3e0a-489b-aecc-6444cbae8e6b"
+        }
+    ],
+    "vid": [
+        {
+            "value": 18
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "fut_image"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2020-02-12T11:05:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "29f867bd-43d8-414f-b069-0d2ab4129a7e"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/thumbnail": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2020-02\/prelude-foundation.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "10f06ef0-ffcc-4509-80ac-42bd64900db5"
+                    }
+                ],
+                "lang": "und"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/media\/fut_image\/field_media_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2020-02\/prelude-foundation.jpg"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "10f06ef0-ffcc-4509-80ac-42bd64900db5"
+                    }
+                ]
+            }
+        ]
+    },
+    "name": [
+        {
+            "value": "Cras sagittis non diam quis mollis. ",
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-12T11:05:22+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-02-12T11:05:22+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ]
+}

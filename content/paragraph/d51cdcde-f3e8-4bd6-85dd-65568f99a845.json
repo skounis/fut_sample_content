@@ -1,0 +1,118 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_banner"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_banner\/fut_banner_media": [
+            {
+                "href": "http:\/\/default\/media\/18?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 79
+        }
+    ],
+    "uuid": [
+        {
+            "value": "d51cdcde-f3e8-4bd6-85dd-65568f99a845"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 121
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_banner"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-12T11:04:16+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "9"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "group"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_banner"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/paragraph\/fut_banner\/fut_banner_media": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/media\/18?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/media\/fut_image"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "94a4b590-3e0a-489b-aecc-6444cbae8e6b"
+                    }
+                ]
+            }
+        ]
+    },
+    "fut_label": [
+        {
+            "value": "Cras sagittis non diam quis mollis. ",
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Donec ornare lobortis lectus, eget mattis nisl ornare a. Phasellus lorem felis, fermentum ut odio sed, pulvinar euismod ipsum. Curabitur a facilisis nibh<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Donec ornare lobortis lectus, eget mattis nisl ornare a. Phasellus lorem felis, fermentum ut odio sed, pulvinar euismod ipsum. Curabitur a facilisis nibh<\/p>"
+        }
+    ]
+}

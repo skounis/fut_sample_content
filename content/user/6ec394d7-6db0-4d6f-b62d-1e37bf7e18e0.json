@@ -96,5 +96,10 @@
             "langcode": "en",
             "lang": "en"
         }
+    ],
+    "message_subscribe_email": [
+        {
+            "value": true
+        }
     ]
 }

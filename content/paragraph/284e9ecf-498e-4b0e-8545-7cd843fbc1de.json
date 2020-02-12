@@ -1,0 +1,88 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/paragraph\/fut_text"
+        }
+    },
+    "id": [
+        {
+            "value": 74
+        }
+    ],
+    "uuid": [
+        {
+            "value": "284e9ecf-498e-4b0e-8545-7cd843fbc1de"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 116
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "fut_text"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-02-12T09:25:49+00:00",
+            "lang": "und",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "parent_id": [
+        {
+            "value": "5"
+        }
+    ],
+    "parent_type": [
+        {
+            "value": "group"
+        }
+    ],
+    "parent_field_name": [
+        {
+            "value": "fut_description"
+        }
+    ],
+    "behavior_settings": [
+        {
+            "value": []
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "und"
+        }
+    ],
+    "fut_text": [
+        {
+            "value": "<p>Nunc non diam molestie, pharetra nisl quis, tempor nibh. Nulla ut sollicitudin mauris. Aliquam risus lorem, commodo nec ornare sit amet, fringilla sed nisi. Suspendisse dignissim magna eget ligula tempor tristique. Praesent sem metus, ullamcorper et sagittis eget, placerat at augue. Proin vel mi varius, pulvinar lectus sit amet, laoreet augue. Sed ac leo tortor. Sed facilisis vestibulum odio id pretium. Nullam dui sem, laoreet eget tellus nec, pulvinar consequat urna. Ut cursus nibh magna, vel tempor nunc consectetur ac. Duis at risus consectetur, facilisis diam sed, interdum lectus.<\/p>\r\n\r\n<p>Cras sagittis non diam quis mollis. Aenean pellentesque porta enim nec congue. Vestibulum et pretium dolor. Suspendisse ornare tempor massa, quis convallis enim. Donec ornare lobortis lectus, eget mattis nisl ornare a. Phasellus lorem felis, fermentum ut odio sed, pulvinar euismod ipsum. Curabitur a facilisis nibh. Cras vel sagittis risus, nec auctor massa.<\/p>\r\n\r\n<p>Donec scelerisque lobortis nisl at consequat. Vivamus eget sapien orci. Nulla iaculis vulputate iaculis. Nullam interdum erat ac nunc porttitor, vitae fermentum tortor dignissim. Nullam dignissim libero vitae semper pharetra. Nam mattis magna enim, a cursus sapien fermentum ut. Mauris sagittis nulla vitae sem aliquet ornare. Nulla mattis convallis erat sed efficitur.<\/p>\r\n",
+            "format": "fut_basic_html",
+            "processed": "<p>Nunc non diam molestie, pharetra nisl quis, tempor nibh. Nulla ut sollicitudin mauris. Aliquam risus lorem, commodo nec ornare sit amet, fringilla sed nisi. Suspendisse dignissim magna eget ligula tempor tristique. Praesent sem metus, ullamcorper et sagittis eget, placerat at augue. Proin vel mi varius, pulvinar lectus sit amet, laoreet augue. Sed ac leo tortor. Sed facilisis vestibulum odio id pretium. Nullam dui sem, laoreet eget tellus nec, pulvinar consequat urna. Ut cursus nibh magna, vel tempor nunc consectetur ac. Duis at risus consectetur, facilisis diam sed, interdum lectus.<\/p>\n\n<p>Cras sagittis non diam quis mollis. Aenean pellentesque porta enim nec congue. Vestibulum et pretium dolor. Suspendisse ornare tempor massa, quis convallis enim. Donec ornare lobortis lectus, eget mattis nisl ornare a. Phasellus lorem felis, fermentum ut odio sed, pulvinar euismod ipsum. Curabitur a facilisis nibh. Cras vel sagittis risus, nec auctor massa.<\/p>\n\n<p>Donec scelerisque lobortis nisl at consequat. Vivamus eget sapien orci. Nulla iaculis vulputate iaculis. Nullam interdum erat ac nunc porttitor, vitae fermentum tortor dignissim. Nullam dignissim libero vitae semper pharetra. Nam mattis magna enim, a cursus sapien fermentum ut. Mauris sagittis nulla vitae sem aliquet ornare. Nulla mattis convallis erat sed efficitur.<\/p>"
+        }
+    ]
+}
