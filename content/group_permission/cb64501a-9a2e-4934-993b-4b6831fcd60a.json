@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_permission\/group_permission"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/integer-tortor-libero-interdum-sit-amet-nulla-vestibulum-facilisis-nisl?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 4
+        }
+    ],
+    "uuid": [
+        {
+            "value": "cb64501a-9a2e-4934-993b-4b6831fcd60a"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/integer-tortor-libero-interdum-sit-amet-nulla-vestibulum-facilisis-nisl?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "62c19af1-72fb-4865-9270-ae7857ff8e79"
+                    }
+                ]
+            }
+        ]
+    },
+    "permissions": [
+        {
+            "fut_open-a416e6833": [
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ],
+            "fut_open-outsider": [
+                "join group",
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ],
+            "fut_open-anonymous": [
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ]
+        }
+    ]
+}

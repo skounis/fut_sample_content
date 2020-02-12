@@ -91,7 +91,7 @@
                 },
                 "uuid": [
                     {
-                        "value": "b689ab02-b1e3-44b6-a505-22354b147e10"
+                        "value": "68b0311e-8865-4c39-a58f-e1f2fbdb6517"
                     }
                 ],
                 "lang": "und"
@@ -113,7 +113,7 @@
     ],
     "changed": [
         {
-            "value": "2019-07-25T09:18:57+00:00",
+            "value": "2020-02-12T10:02:03+00:00",
             "lang": "und",
             "format": "Y-m-d\\TH:i:sP"
         }
@@ -121,7 +121,7 @@
     "path": [
         {
             "alias": "\/1\/member\/10",
-            "pid": 27,
+            "pid": 32,
             "langcode": "und",
             "lang": "und"
         }
@@ -135,6 +135,9 @@
     "group_roles": [
         {
             "target_id": "fut_open-editor"
+        },
+        {
+            "target_id": "fut_open-moderator"
         }
     ]
 }

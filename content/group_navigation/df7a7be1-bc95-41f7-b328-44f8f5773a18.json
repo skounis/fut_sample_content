@@ -1,0 +1,56 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/en\/group_navigation\/8?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_navigation\/group_navigation"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/fusce-consequat-lacus-quis-risus-semper-non-placerat-enim-vulputate?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 8
+        }
+    ],
+    "uuid": [
+        {
+            "value": "df7a7be1-bc95-41f7-b328-44f8f5773a18"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_navigation\/group_navigation\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/fusce-consequat-lacus-quis-risus-semper-non-placerat-enim-vulputate?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4ce87c40-fba1-4bc0-9e44-f9c092aed282"
+                    }
+                ]
+            }
+        ]
+    },
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ]
+}

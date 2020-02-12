@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_permission\/group_permission"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 3
+        }
+    ],
+    "uuid": [
+        {
+            "value": "47d22b28-6245-4fb1-8ca5-6a7ec0cc12a1"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/quisque-sed-turpis-tincidunt-imperdiet-odio-condimentum?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "cb9ee0ab-b87a-4e9b-a1bf-0cb5c7d7e737"
+                    }
+                ]
+            }
+        ]
+    },
+    "permissions": [
+        {
+            "fut_open-a416e6833": [
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ],
+            "fut_open-outsider": [
+                "join group",
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ],
+            "fut_open-anonymous": [
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ]
+        }
+    ]
+}
