@@ -1,0 +1,70 @@
+{
+    "_links": {
+        "self": {
+            "href": ""
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/group_permission\/group_permission"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/fusce-consequat-lacus-quis-risus-semper-non-placerat-enim-vulputate?_format=hal_json"
+            }
+        ]
+    },
+    "id": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "7173ed62-954c-4206-8e0f-018b2067db2b"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/group_permission\/group_permission\/gid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/nunc-group-sodales-vestibulum-consectetur-adipiscing-elit\/fusce-consequat-lacus-quis-risus-semper-non-placerat-enim-vulputate?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/group\/fut_open"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "4ce87c40-fba1-4bc0-9e44-f9c092aed282"
+                    }
+                ]
+            }
+        ]
+    },
+    "permissions": [
+        {
+            "fut_open-a416e6833": [
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ],
+            "fut_open-outsider": [
+                "join group",
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ],
+            "fut_open-anonymous": [
+                "view group",
+                "view subgroup:fut_open entity",
+                "view group_node:fut_event entity",
+                "view group_node:fut_post entity",
+                "view group_node:fut_webform entity"
+            ]
+        }
+    ]
+}

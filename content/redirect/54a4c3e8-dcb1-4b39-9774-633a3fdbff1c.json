@@ -5,12 +5,7 @@
         },
         "type": {
             "href": "http:\/\/drupal.org\/rest\/type\/redirect\/redirect"
-        },
-        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
-            {
-                "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
-            }
-        ]
+        }
     },
     "rid": [
         {
@@ -32,25 +27,6 @@
             "value": "redirect"
         }
     ],
-    "_embedded": {
-        "http:\/\/drupal.org\/rest\/relation\/redirect\/redirect\/uid": [
-            {
-                "_links": {
-                    "self": {
-                        "href": "http:\/\/default\/en\/user\/1?_format=hal_json"
-                    },
-                    "type": {
-                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
-                    }
-                },
-                "uuid": [
-                    {
-                        "value": "68b0311e-8865-4c39-a58f-e1f2fbdb6517"
-                    }
-                ]
-            }
-        ]
-    },
     "redirect_source": [
         {
             "path": "content\/pulvinar-sapien-et-ligula-ullamcorper-malesuada-proin-arcu-non-odio-euismod-lacinia",
